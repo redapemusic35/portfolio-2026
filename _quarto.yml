@@ -1,0 +1,27 @@
+project:
+  type: book
+
+book:
+  title: "Teaching-portfolio"
+  author: "Montaque Reynolds"
+  date: "2/9/2026"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - ./data/weeklies/index.qmd
+    - ./data/d&d-campaigns/index.qmd
+    - ./data/critical-reflections/index.qmd
+    - ./data/quizzes/index.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+

@@ -1,0 +1,82 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Teaching-portfolio",
+    "section": "",
+    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "data/d&d-campaigns/index.html#overall-course-setup",
+    "href": "data/d&d-campaigns/index.html#overall-course-setup",
+    "title": "Introduction to Philosophy D&D Campaigns",
+    "section": "Overall Course Setup",
+    "text": "Overall Course Setup\n\nGroup Structure: By second week, students form small groups of 5 members each. This will be done using a randomizing method.\nRotating Dungeon Master (DM) Role: Every group member gets one turn to act as the Dungeon Master (DM) for a full session/day.\n\nThis distributes the workload fairly—no one is stuck doing all the prep.\nThe DM takes ownership of that day’s reading/topic transforming it into a D&D-style adventure. The DM will be given the adventure, they then give the problems to the other students in a turn-based format.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Introduction to Philosophy D&D Campaigns</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "6  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
+    "objectID": "data/d&d-campaigns/index.html#session-format-when-a-student-is-dm",
+    "href": "data/d&d-campaigns/index.html#session-format-when-a-student-is-dm",
+    "title": "Introduction to Philosophy D&D Campaigns",
+    "section": "Session Format (When a Student is DM)",
+    "text": "Session Format (When a Student is DM)\n\n1. Presentation of the Reading\nThe DM presents a summary of the assigned text. They will then present a D&D structured adventure of the text (this will be provided).\n\nThe core issues of the text will be narratively framed already: The group will be a party of adventurers whose job it is to solve the issues before them in order to advance.\nThe reading is the “quest” or “dungeon” backdrop—e.g., a moral/ethical, metaphysical/epistemological dilemma in a kingdom, or a riddle posed by an adversarial entity (the DM).\n\n\n\n2. Challenges Presented One at a Time\nThe DM introduces several challenges sequentially\n\nEach challenge draws directly from key concepts, arguments, objections, or thought experiments in the reading.\nExamples:\n\nYou’ve created an intelligent and conscious sim population \\(\\rightarrow\\) Debate your obligations to them.\nYou’ve fallen in love with a player in an MMO who you only know as their character \\(\\rightarrow\\) Explore is this true love?\n\n\n\n\n3. Group Interaction & Participation\nFor each challenge:\n\nany group member can respond by:\n\nAsking a clarifying question about the challenge (probing the text/concept).\nOffering a suggestion/solution (proposing a philosophical position, argument, or counter).\n\nThe DM evaluates the response (as the “world” reacting).\n\nThe responding player ***rolls dice (typically a d20, we will ignore modifiers this time around) to determine whether they defend the position or attack it.\nSuccess means attacking the position\nFailure means defending the position\n\n\n\n\n4. Collaborative Input & Multiple Rolls\nAfter the first response/roll:\n\nOtehr group member get turns to offer their own responses or build on/counter the previous one.\nThey also roll dice to suggest “other considerations” (e.g., other defenses of the DM’s positions; other criticism’s of the DM’s position; edge cases; objections from the reading)\nThis creates a back-and-forth discussion, with dice adding chance, excitement, and stakes—mirroring how philosophical debates involve risk, uncertainty, and persuasion.\n\n\n\n5. Resolution & Reflection\n\nThe DM adjudicates the collective outcomes (what is plausible?)\nThe session ends with debrief: How did the “adventure” illuminate the reading? What arguments won/lost? How does this apply to real philosophy?",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Introduction to Philosophy D&D Campaigns</span>"
+    ]
+  },
+  {
+    "objectID": "data/quizzes/index.html",
+    "href": "data/quizzes/index.html",
+    "title": "Weekly Assignments",
+    "section": "",
+    "text": "Test",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>index.html</span>"
+    ]
+  },
+  {
+    "objectID": "data/critical-reflections/index.html#dates",
+    "href": "data/critical-reflections/index.html#dates",
+    "title": "Critical Reflections",
+    "section": "Dates",
+    "text": "Dates",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>index.html</span>"
+    ]
+  }
+]
