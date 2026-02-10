@@ -8,10 +8,17 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
-    - ./data/weeklies/index.qmd
-    - ./data/d&d-campaigns/index.qmd
-    - ./data/critical-reflections/index.qmd
-    - ./data/quizzes/index.qmd
+    - part: "Introduction to Logic"
+      chapters:
+        - ./data/course.phil.logic/index.qmd
+        - ./data/course.phil.logic/syllabus.qmd
+        - ./data/course.phil.logic/lectures.qmd
+    - part: "Introduction to Philosophy"
+      chapters:
+        - ./data/course.phil.intro/index.qmd
+        - ./data/course.phil.intro/syllabus.qmd
+        - ./data/course.phil.intro/lectures.qmd
+        - ./data/course.phil.intro/assignments.qmd
     - summary.qmd
     - references.qmd
 

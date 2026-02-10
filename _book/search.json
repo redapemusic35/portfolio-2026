@@ -20,33 +20,23 @@
     ]
   },
   {
-    "objectID": "data/d&d-campaigns/index.html#overall-course-setup",
-    "href": "data/d&d-campaigns/index.html#overall-course-setup",
+    "objectID": "data/d&d-campaigns/index.html",
+    "href": "data/d&d-campaigns/index.html",
     "title": "Introduction to Philosophy D&D Campaigns",
-    "section": "Overall Course Setup",
-    "text": "Overall Course Setup\n\nGroup Structure: By second week, students form small groups of 5 members each. This will be done using a randomizing method.\nRotating Dungeon Master (DM) Role: Every group member gets one turn to act as the Dungeon Master (DM) for a full session/day.\n\nThis distributes the workload fairly—no one is stuck doing all the prep.\nThe DM takes ownership of that day’s reading/topic transforming it into a D&D-style adventure. The DM will be given the adventure, they then give the problems to the other students in a turn-based format.",
+    "section": "",
+    "text": "Overall Course Setup",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Introduction to Philosophy D&D Campaigns</span>"
     ]
   },
   {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "6  Summary",
+    "objectID": "data/d&d-campaigns/index.html#overall-course-setup",
+    "href": "data/d&d-campaigns/index.html#overall-course-setup",
+    "title": "Introduction to Philosophy D&D Campaigns",
     "section": "",
-    "text": "In summary, this book has no content whatsoever.",
+    "text": "Group Structure: By second week, students form small groups of 5 members each. This will be done using a randomizing method.\nRotating Dungeon Master (DM) Role: Every group member gets one turn to act as the Dungeon Master (DM) for a full session/day.\n\nThis distributes the workload fairly—no one is stuck doing all the prep.\nThe DM takes ownership of that day’s reading/topic transforming it into a D&D-style adventure. The DM will be given the adventure, they then give the problems to the other students in a turn-based format.",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Summary</span>"
-    ]
-  },
-  {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
-    "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
-    "crumbs": [
-      "References"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Introduction to Philosophy D&D Campaigns</span>"
     ]
   },
   {
@@ -60,23 +50,858 @@
     ]
   },
   {
-    "objectID": "data/quizzes/index.html",
-    "href": "data/quizzes/index.html",
-    "title": "Weekly Assignments",
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "5  Summary",
     "section": "",
-    "text": "Test",
+    "text": "In summary, this book has no content whatsoever.",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>index.html</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Summary</span>"
     ]
   },
   {
-    "objectID": "data/critical-reflections/index.html#dates",
-    "href": "data/critical-reflections/index.html#dates",
-    "title": "Critical Reflections",
-    "section": "Dates",
-    "text": "Dates",
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>index.html</span>"
+      "References"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.logic/index.html",
+    "href": "data/course.phil.logic/index.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Summary\nPreviously, this course used John Nolt’s Logics as its text book. While I still believe that the heavy emphasis on formal logic is important, it was not intuitive, and logic done well is intuitive. I eventually discovered Peter (smit21b?)’s Logic Matters. I recommended it to students as a supplementary reading and was pleased with the feedback and the improvement in their understanding. I am now relying on Smith’s introductory text as the main text for this course, although I will contrast it with Nolt’s more formal approach at various points.\nFocus: The focus of this course is . . .\nFree! Course Text: Smith, Peter. 2021. An Introduction to Formal Logic. Second edition, Reprinted with corrections. Logic Matters.\nIn the image below, Sherlock Holmes is wearing a top hat. Therefore in Fiction f, it is true that:",
+    "crumbs": [
+      "Introduction to Logic",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.logic/index.html#introduction",
+    "href": "data/course.phil.logic/index.html#introduction",
+    "title": "Informal Logic",
+    "section": "",
+    "text": "Informal Logic\nClassical Propositional Logic syntax and semantics\nNatural Deduction Proofs for Propositional Logic\nFormalization Rules and General Propositions\nPredicate (Quantification Rules) Logic Semantics and Inference",
+    "crumbs": [
+      "Introduction to Logic",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Informal Logic</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.logic/index.html#summary",
+    "href": "data/course.phil.logic/index.html#summary",
+    "title": "Introduction",
+    "section": "",
+    "text": "Holmes lived in Baker Street.\nHolmes lived nearer to Paddington Station than to Waterloo Station.\nHolmes was just a person, a person of flesh and blood.\nHolmes really existed.\nSomeone lived for many years at 22 iB Baker Street.\n\n\n\n\n‘Holmes wears a top hat’",
+    "crumbs": [
+      "Introduction to Logic",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.logic/syllabus.html",
+    "href": "data/course.phil.logic/syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "PLOs\nOffice Hours:\nEvery course within a given department is expected to satisfy one (or more) of that program’s Learning Outcomes (PLOs), as articulated in that department’s Curriculum Map. Students who take a philosophy course will develop their capacity to (I.) understand and interpret philosophical texts, (II.) identify arguments, (III.) critically assess arguments, (IV.) identify philosophical traditions and methods, (IV.) and/or communicate clearly and effectively. The philosophy department’s five Learning Outcomes are arranged hierarchically, so that the later Learning Outcomes presuppose some familiarity with the lower-order skills. The assignments and work within a given course are expected to develop the skills associated with that course’s PLO, while strengthening the lower- order skills and setting the stage for the development of the higher- order skills. The PLO associated with this course is:\nInformation about the philosophy department’s PLOs can be found at:\nhttp://www.stetson.edu/artsci/philosophy/curriculummap.php",
+    "crumbs": [
+      "Introduction to Logic",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Syllabus</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.logic/syllabus.html#weekly-philosophy-hangouts-join-us",
+    "href": "data/course.phil.logic/syllabus.html#weekly-philosophy-hangouts-join-us",
+    "title": "📢 Important Updates Winter/Spring Semester",
+    "section": "",
+    "text": "ImportantLo-Phi in the Philosophy Lounge\n\n\n\n\n\n\nTime: 2:00–4:00 PM (overlaps with office hours)\nLocation: Elizabeth Hall 104\nWhat to expect: A relaxed space to hang out, read philosophy, talk ideas, and do some casual philosophizing with others. Bring your book, your thoughts, or just yourself!\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\nImportantThursdays: The Experience Machine\n\n\n\n\n\n\nTime: After office hours (1:00–3:00 PM)\n\nWhat it is: Come play video games with a philosophical twist! We’ll explore deep questions raised by gaming.\nSome of the questions we’ll think about together:\n\nIs it okay to exploit game mechanics to your advantage?\nIs sharing secrets outside the game world cheating?\nIs it wrong to gang up on defenseless players?\nWhat exactly makes someone an A$$Hole in a PVP environment?\nBonus debate: Is philosophy D&D better than regular D&D?\nGet ready for some weird unconventional DND adventures . . .\n\nGaming with friends is always more fun (and thought-provoking) in a group:\n\n\n\n\n\n\n\nHope to see many of you there—whether for quiet reading, heated game debates, or just good company! Questions? Drop by office hours. 😊\n\n\n \n\n\n\n\n\n\n\n\n\nImportant📢 Important\n\n\n\n\n\n(01/16/2026)\nDownload the Text Book Here!\nAccess Additional Logic Resources Here!\nDownload the Syllabus Here!",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>📢 Important Updates Winter/Spring Semester</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.logic/syllabus.html#plos",
+    "href": "data/course.phil.logic/syllabus.html#plos",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Argumentation: Students can identify and evaluate argument structures effectively.",
+    "crumbs": [
+      "Introduction to Logic",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Syllabus</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.logic/syllabus.html#course-schedule",
+    "href": "data/course.phil.logic/syllabus.html#course-schedule",
+    "title": "Syllabus",
+    "section": "Course Schedule",
+    "text": "Course Schedule\n\n\n\n\n\n\n\n\n\n\n\nWeek\nUnit\nTopic\nPages\n\n\n\n\nWeek 1\n1-3\nWhat is deductive logic, validity and soundness?\n1-8\n\n\nWeek 2\n4-6\nProofs and counter examples, and logical validity\n28\n\n\nWeek 3\n7-8\nPropositions, forms, and some syntax\n52\n\n\nWeek 4\n9-11\nMore syntax, some semantics, and form\n72\n\n\nWeek 5\n12-14\nTruth functions, adequacy and tautologies\n104\n\n\nWeek 6\n15-17\nEntailing tautologies, and absurdity\n127\n\n\nWeek 7\n18-19\nThe truth-functional conditionals and natural deduction\n148\n\n\nWeek 8\n20-22\nPredicate proofs: conjunction, negation, disjunction and conditionals\n174\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek\nUnit\nTopic\nPages\n\n\n\n\nWeek 9\n23-24\nPL proofs: theorems, and metatheory\n211\n\n\nWeek 10\n25-27\nNames, predicates, quantifiers, and variables\n230\n\n\nWeek 11\n28-31\nQL languages, simple translations, and QL argumentation\n258\n\n\nWeek 12\n\nInterlude: Arguing in QL, informal QL rules, QL proofs\n290\n\n\nWeek 13\n33-35\nMore QL Proofs, empty domains, Q-Valuations\n315\n\n\nWeek 14\n36\nQ-Validity\n346\n\n\n\n37\nQL Proofs, metatheory\n354\n\n\nWeek 15\n38\nIdentity\n361\n\n\n\n39\nQL=Languages\n367\n\n\n\n40\nDefinite Descriptions\n375\n\n\n\n41\nQL=Proofs\n382",
+    "crumbs": [
+      "Introduction to Logic",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Syllabus</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.logic/syllabus.html#academic-accommodation",
+    "href": "data/course.phil.logic/syllabus.html#academic-accommodation",
+    "title": "Syllabus",
+    "section": "Academic Accommodation",
+    "text": "Academic Accommodation\nIf you anticipate barriers related to the format or requirements of a course, you should meet with the course instructor to discuss ways to ensure full participation. If disability-related accommodations are necessary, you must register with Academic Success through the Accessibility Services Center located at 209 E. Bert Fish Dr. (386-822- 7127; http://www.stetson.edu/administration/academic-success/) and notify the course instructor of your eligibility for reasonable accommodations. The student, course instructor and Academic Success will plan how best to coordinate accommodations. Academic Integrity - DO NOT CHEAT. As a member of Stetson University, I agree to uphold the highest standards of integrity in my academic work. I promise that I will neither give nor receive unauthorized aid of any kind on my tests, papers, and assignments. When using the ideas, thoughts, or words of another in my work, I will always provide clear acknowledgement of the individuals and sources on which I am relying. I will avoid using fraudulent, falsified, or fabricated evidence and/or material. I will refrain from resubmitting without authorization work for one class that was obtained from work previously submitted for academic credit in another class. I will not destroy, steal, or make inaccessible any academic resource material. By my actions and my example, I will strive to promote the ideals of honesty, responsibility, trust, fairness, and respect that are at the heart of Stetson’s Honor System. Cheating violates university regulations and is a reportable offense that may result in academic suspension or dismissal from Stetson University. Every violation of the Honor System will be promptly reported to the Honor System Council for further investigation. In addition to these academic integrity standards, I expect students to treat everyone in the classroom—the instructor, fellow students, and guests—with common courtesy and respect.",
+    "crumbs": [
+      "Introduction to Logic",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Syllabus</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.logic/syllabus.html#counseling-center-statement",
+    "href": "data/course.phil.logic/syllabus.html#counseling-center-statement",
+    "title": "Syllabus",
+    "section": "Counseling Center Statement",
+    "text": "Counseling Center Statement\nCollege can be extremely stressful for students, especially if this is the first time you’ve been away from home for an extended period of time or if there are other pressures that you are facing. For this reason, you may find it helpful to consult the University Counseling Center. Here is their contact information: Phone number: 386-822-8900 Location: The office is located in the gray house behind the Hollis Center pool, at the corner of University Avenue and Bert Fish Drive. Office hours: Weekdays from 8:00 a.m. to 4:30 p.m If you experience a mental health emergency after hours, you can simply call Public Safety (386-822-7300) and ask to speak with the on-call counselor. We are staffed with qualified professional counselors who are trained to support and guide students through difficult transitions, experiences, and feelings. Counseling is confidential and free of charge for all currently enrolled Stetson University students.",
+    "crumbs": [
+      "Introduction to Logic",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Syllabus</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.logic/lectures/week-1.html",
+    "href": "data/course.phil.logic/lectures/week-1.html",
+    "title": "Introduction to Logic, Week 1",
+    "section": "",
+    "text": "Chapter 1: Deductive Logic",
+    "crumbs": [
+      "Introduction to Logic",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Introduction to Logic, Week 1</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.logic/lectures/week-1.html#what-is-an-argument",
+    "href": "data/course.phil.logic/lectures/week-1.html#what-is-an-argument",
+    "title": "Introduction to Logic, Week 1",
+    "section": "What is an argument?",
+    "text": "What is an argument?\n\nHow can we determine the premises of an argument?\nWhat is an inference marker and what are some examples?\nHow do we tell whether a given statement is the premise of an argument, or the conclusion?\n\n\nAs I mentioned previously, the most important component of this course, is being able to evaluate arguments for internal cogency.\nBut before we evaluate arguments for internal cogency, we must be able to recognize something as an argument.",
+    "crumbs": [
+      "Introduction to Logic",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Introduction to Logic, Week 1</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.logic/lectures/week-1.html#some-examples",
+    "href": "data/course.phil.logic/lectures/week-1.html#some-examples",
+    "title": "Introduction to Logic, Week 1",
+    "section": "Some Examples",
+    "text": "Some Examples\n\nWe are going to reorganize the following statements into arguments.\n\nMost doctors are caring. After all, most ordinary people are caring — and politicians are ordinary people.\nAnyone who knows how to pole vault, even if she doesn’t get a gold medal in the olympics, will at least get toned arms and abdomen. Jane knows how to pole vault, so she at least has toned arms and abdomen.\nPeter is shorter than Paul and Jim is taller than Paul. So Peter is shorter than Jim.\nAt 12am, Fred is always either bartending, or at home. And assuming he’s at home, he’s building his model train set. Fred was not bartending at midnight. So he was building his model train set.\nKermit is green all over. Hence Kermit is not red all over.\nEvery letter is in a pigeon hole. There are more letters than there are pigeon holes. So some pigeon hole contains more than one letter.\nMiracles cannot happen. Since, by definition, a miracle is an event incompatible with the laws of nature. And everything that happens is always consistent with the laws of nature.\n\n\n\nThere is more than one kind of internal cogency however. We will be talking about logical validity. Internal cogency and logical validity are what underlie the kinds “systematic” evaluations of arguments that we will learn about in this course. Once again, there are more than one of these.\nConsider the following:\n\nMost doctors are caring. After all, most ordinary people are caring — and doctors are ordinary people.\n\nMost ordinary people are caring\nDoctors are ordinary people\nMost Doctors are caring\n\nAnyone who knows how to pole vault, even if she doesn’t get a gold medal in the olympics, will at least have toned arms and abdomen. Jane knows how to pole vault, so she at least has toned arms and abdomen.\n\nAnyone who knows how to pole vault, even if she doesn’t get a gold medal in the olympics, will at least get toned arms and abdomen.\nJane knows how to pole vault.\nJane will at least have toned arms and abdomen.\n\nPeter is shorter than Paul and Jim is taller than Paul. So Peter is shorter than Jim.\n\nPeter is shorter than Paul and Jim is taller than Paul.\nSo Peter is shorter than Jim.\n\nAt 12am, Fred is always either bartending, or at home. And assuming he’s at home, he’s building his model train set. Fred was not bartending at midnight. So he was building his model train set.\n\nAt 12am, Fred is always either bartending, or at home.\nAssuming he’s at home, he’s building his model train set.\nFred was not bartending at midnight.\nSo Fred was building his model train set at midnight.\n\nKermit is green all over. Hence Kermit is not red all over.\n\nKermit is green all over.\nHence Kermit is not red all over.\n\nEvery letter is in a pigeon hole. There are more letters than there are pigeon holes. So some pigeon hole contains more than one letter.\n\nEvery letter is in a pigeon hole.\nThere are more letters than there are pigeon holes.\nSo some pigeon hole contains more than one letter.\n\nMiracles cannot happen. Since, by definition, a miracle is an event incompatible with the laws of nature. And everything that happens is always consistent with the laws of nature.\n\nA miracle is an event that is incompatible with the laws of nature.\nEverything that happens is always consistent with the laws of nature.\nTherefore miracles cannot happen.",
+    "crumbs": [
+      "Introduction to Logic",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Introduction to Logic, Week 1</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.logic/lectures/week-1.html#kinds-of-evaluation",
+    "href": "data/course.phil.logic/lectures/week-1.html#kinds-of-evaluation",
+    "title": "Introduction to Logic, Week 1",
+    "section": "Kinds of Evaluation",
+    "text": "Kinds of Evaluation\n\nAre the premises supporting the conclusion true?\nIs the inference from the premises to the conclusion lock-tight?\n\n\n\nHow do we determine whether the inference step is lock-tight?\nAssume the truth of the premises",
+    "crumbs": [
+      "Introduction to Logic",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Introduction to Logic, Week 1</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.logic/lectures/week-1.html#deduction-and-induction",
+    "href": "data/course.phil.logic/lectures/week-1.html#deduction-and-induction",
+    "title": "Introduction to Logic, Week 1",
+    "section": "Deduction and Induction",
+    "text": "Deduction and Induction\n\n\n\n\n\n\nImportant📢 Important\n\n\n\n\n\n\nIf an inference step from premises to a conclusion is complletely watertight, i.e. if the truth of the premises absolutely guarantee the truth of the conclusion, then we say that this inference step is deductively valid.\n\n\nEquivalently, when an inference step is deductively valid, we will say that its premises deductively entail its conclusion. (smit94?)",
+    "crumbs": [
+      "Introduction to Logic",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Introduction to Logic, Week 1</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.logic/lectures/week-1.html#argument-patterns-or-generalizing",
+    "href": "data/course.phil.logic/lectures/week-1.html#argument-patterns-or-generalizing",
+    "title": "Introduction to Logic, Week 1",
+    "section": "Argument Patterns, or Generalizing",
+    "text": "Argument Patterns, or Generalizing\n\nLewis Carroll: No interesting poems are unpopular among people of real taste. No modern poetry is free from affectation. All your poems are on the subject of soap bubbles. No affected poetry is popular among people of real taste. Only a modern poem would be on the subject of soap bubbles. Therefore none of your poems are interesting.\n\n\n\n\nNo interesting poems are unpopular among people of real taste. No modern poetry is free from affectation. All your poems are on the subject of soap bubbles. No affected poetry is popular among people of real taste. Only a modern poem would be on the subject of soap bubbles. Therefore none of your poems are interesting.\n\n\nConclusion: None of your poems are interesting\n\nNo interesting poems are unpopular among people of real taste. (premiss)\n\n\nNo modern poetry is free from affectation. (premiss)\n\n\nAll your poems are on the subject of soap bubbles. (premiss)\n\n\nNo affected poetry is popular among people of real taste. (premiss)\n\n\nOnly a modern poem would be on the subject of soap bubbles. (premiss)\n\n\nAll your poems are modern poems. (from 3, 5)\n\n\nAll your poems are affected. (from 2, 6)\n\n\nNone of your poems are popular among people of real taste. (from 7, 4)\n\n\nAll interesting poems are popular among people of real taste. (from 1)\n\n\nNone of your poems are interesting. (from 8, 9)",
+    "crumbs": [
+      "Introduction to Logic",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Introduction to Logic, Week 1</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.logic/lectures/week-1.html#defining-validity",
+    "href": "data/course.phil.logic/lectures/week-1.html#defining-validity",
+    "title": "Introduction to Logic, Week 1",
+    "section": "Defining Validity",
+    "text": "Defining Validity\n\nAn inference step is valid if and only if (iff) there is no possible situation in which its premises would be true and its conclusion false. Equivalently, in such a case, we will say that the inference’s premises entail its conclusion.",
+    "crumbs": [
+      "Introduction to Logic",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Introduction to Logic, Week 1</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.logic/lectures/week-1.html#consistency-and-equivalency",
+    "href": "data/course.phil.logic/lectures/week-1.html#consistency-and-equivalency",
+    "title": "Introduction to Logic, Week 1",
+    "section": "Consistency and Equivalency",
+    "text": "Consistency and Equivalency",
+    "crumbs": [
+      "Introduction to Logic",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Introduction to Logic, Week 1</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.logic/lectures/week-1.html#what-is-a-proposition",
+    "href": "data/course.phil.logic/lectures/week-1.html#what-is-a-proposition",
+    "title": "Introduction to Logic, Week 1",
+    "section": "What is a proposition?",
+    "text": "What is a proposition?\n\nOne or more propositions are (jointly) inconsistent if and only if there is no possible situation in which these propositions are all true together.\n\n\n\nSo what is a proposition?\nAyer, A. J. Language, Truth and Logic. Vol. 47. V. Gollancz, 1936.\n\nFor, if I am right, it will also follow that any sentence, whether of the English or any other language, that is equivalent to s can be validly derived, in the language in question, from any sentence that is equivalent to r; and it this that my use of the word “proposition” indicates. (Page 7)\n\n\nFirst a sentence\nNext a statement (imperative, declarative, interrogative, exclamatory)\nEmpirically Verifiable\nTherefore is always either true or false\n\n\n\nNotice which ones can be true or false? Imperative: Go to your room!, Interrogative: Did you have dinner with the victim the night of their murder? Exclamatory: Oh darn! or Declarative?\n\n\nSome Examples\nIf some propositions are consistent with each other, then adding a further true proposition to them can’t make them inconsistent.\n\nYes?\nNo?\n\n\nConsider:\n\nSocrates is a woman.\nNo women are philosophers.\nNow consider:\n\nSocrates is a philosopher\n\n\n\nCan both be true?\nEither inconsistent, or one is false.",
+    "crumbs": [
+      "Introduction to Logic",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Introduction to Logic, Week 1</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.logic/lectures/week-1.html#validity-invalidity-and-truth",
+    "href": "data/course.phil.logic/lectures/week-1.html#validity-invalidity-and-truth",
+    "title": "Introduction to Logic, Week 1",
+    "section": "Validity, Invalidity, and Truth",
+    "text": "Validity, Invalidity, and Truth\nThe Invalidity Principle\n\nThe only combination ruled out by the definition of validity is a valid inference step’s having all true premisses and yet a false conclusion. Deductive validity is about the necessary preservation of truth – and therefore a valid inference step cannot take us from actually true premisses to an actually false conclusion. (smit94?)\n\n\n\nEither premises can be jointly consistent, if there is at least one situation where they can all be true together\nThere are inconsistent if there is no possible situation in which all are true together in that situation.\n\nOr premises taken with with their conclusion:\n\nCan the premises of an argument be true while at the same time, denying the truth of the conclusion?\n\nYes: Inconsistent\nNo: Consistent\n\n\n\n\nEquivalency\n\nTwo propositions are equivalent iff they are true in exactly the same possible situations.\n\n\n\n\nSome Examples\n\nIf A entails C, and C is equivalent to C 0 , then A entails C 0 .\nIf A entails C, and A is equivalent to A0 , then A0 entails C.\nIf A and B entail C, and A is equivalent to A0 , then A0 and B entail C.",
+    "crumbs": [
+      "Introduction to Logic",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Introduction to Logic, Week 1</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.logic/lectures/week-1.html#more-forms-of-inference-examples",
+    "href": "data/course.phil.logic/lectures/week-1.html#more-forms-of-inference-examples",
+    "title": "Introduction to Logic, Week 1",
+    "section": "More Forms of Inference (Examples)",
+    "text": "More Forms of Inference (Examples)",
+    "crumbs": [
+      "Introduction to Logic",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Introduction to Logic, Week 1</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.logic/lectures.html",
+    "href": "data/course.phil.logic/lectures.html",
+    "title": "Lectures",
+    "section": "",
+    "text": "Chapter 1: Deductive Logic",
+    "crumbs": [
+      "Introduction to Logic",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Lectures</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.logic/lectures.html#what-is-an-argument",
+    "href": "data/course.phil.logic/lectures.html#what-is-an-argument",
+    "title": "Lectures",
+    "section": "What is an argument?",
+    "text": "What is an argument?\n\nHow can we determine the premises of an argument?\nWhat is an inference marker and what are some examples?\nHow do we tell whether a given statement is the premise of an argument, or the conclusion?\n\n\nAs I mentioned previously, the most important component of this course, is being able to evaluate arguments for internal cogency.\nBut before we evaluate arguments for internal cogency, we must be able to recognize something as an argument.",
+    "crumbs": [
+      "Introduction to Logic",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Lectures</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.logic/lectures.html#some-examples",
+    "href": "data/course.phil.logic/lectures.html#some-examples",
+    "title": "Lectures",
+    "section": "Some Examples",
+    "text": "Some Examples\n\nWe are going to reorganize the following statements into arguments.\n\nMost doctors are caring. After all, most ordinary people are caring — and politicians are ordinary people.\nAnyone who knows how to pole vault, even if she doesn’t get a gold medal in the olympics, will at least get toned arms and abdomen. Jane knows how to pole vault, so she at least has toned arms and abdomen.\nPeter is shorter than Paul and Jim is taller than Paul. So Peter is shorter than Jim.\nAt 12am, Fred is always either bartending, or at home. And assuming he’s at home, he’s building his model train set. Fred was not bartending at midnight. So he was building his model train set.\nKermit is green all over. Hence Kermit is not red all over.\nEvery letter is in a pigeon hole. There are more letters than there are pigeon holes. So some pigeon hole contains more than one letter.\nMiracles cannot happen. Since, by definition, a miracle is an event incompatible with the laws of nature. And everything that happens is always consistent with the laws of nature.\n\n\n\nThere is more than one kind of internal cogency however. We will be talking about logical validity. Internal cogency and logical validity are what underlie the kinds “systematic” evaluations of arguments that we will learn about in this course. Once again, there are more than one of these.\nConsider the following:\n\nMost doctors are caring. After all, most ordinary people are caring — and doctors are ordinary people.\n\nMost ordinary people are caring\nDoctors are ordinary people\nMost Doctors are caring\n\nAnyone who knows how to pole vault, even if she doesn’t get a gold medal in the olympics, will at least have toned arms and abdomen. Jane knows how to pole vault, so she at least has toned arms and abdomen.\n\nAnyone who knows how to pole vault, even if she doesn’t get a gold medal in the olympics, will at least get toned arms and abdomen.\nJane knows how to pole vault.\nJane will at least have toned arms and abdomen.\n\nPeter is shorter than Paul and Jim is taller than Paul. So Peter is shorter than Jim.\n\nPeter is shorter than Paul and Jim is taller than Paul.\nSo Peter is shorter than Jim.\n\nAt 12am, Fred is always either bartending, or at home. And assuming he’s at home, he’s building his model train set. Fred was not bartending at midnight. So he was building his model train set.\n\nAt 12am, Fred is always either bartending, or at home.\nAssuming he’s at home, he’s building his model train set.\nFred was not bartending at midnight.\nSo Fred was building his model train set at midnight.\n\nKermit is green all over. Hence Kermit is not red all over.\n\nKermit is green all over.\nHence Kermit is not red all over.\n\nEvery letter is in a pigeon hole. There are more letters than there are pigeon holes. So some pigeon hole contains more than one letter.\n\nEvery letter is in a pigeon hole.\nThere are more letters than there are pigeon holes.\nSo some pigeon hole contains more than one letter.\n\nMiracles cannot happen. Since, by definition, a miracle is an event incompatible with the laws of nature. And everything that happens is always consistent with the laws of nature.\n\nA miracle is an event that is incompatible with the laws of nature.\nEverything that happens is always consistent with the laws of nature.\nTherefore miracles cannot happen.",
+    "crumbs": [
+      "Introduction to Logic",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Lectures</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.logic/lectures.html#kinds-of-evaluation",
+    "href": "data/course.phil.logic/lectures.html#kinds-of-evaluation",
+    "title": "Lectures",
+    "section": "Kinds of Evaluation",
+    "text": "Kinds of Evaluation\n\nAre the premises supporting the conclusion true?\nIs the inference from the premises to the conclusion lock-tight?\n\n\n\nHow do we determine whether the inference step is lock-tight?\nAssume the truth of the premises",
+    "crumbs": [
+      "Introduction to Logic",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Lectures</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.logic/lectures.html#deduction-and-induction",
+    "href": "data/course.phil.logic/lectures.html#deduction-and-induction",
+    "title": "Lectures",
+    "section": "Deduction and Induction",
+    "text": "Deduction and Induction\n\n\n\n\n\n\nImportant📢 Important\n\n\n\n\n\n\nIf an inference step from premises to a conclusion is complletely watertight, i.e. if the truth of the premises absolutely guarantee the truth of the conclusion, then we say that this inference step is deductively valid.\n\n\nEquivalently, when an inference step is deductively valid, we will say that its premises deductively entail its conclusion. (smit94?)",
+    "crumbs": [
+      "Introduction to Logic",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Lectures</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.logic/lectures.html#argument-patterns-or-generalizing",
+    "href": "data/course.phil.logic/lectures.html#argument-patterns-or-generalizing",
+    "title": "Lectures",
+    "section": "Argument Patterns, or Generalizing",
+    "text": "Argument Patterns, or Generalizing\n\nLewis Carroll: No interesting poems are unpopular among people of real taste. No modern poetry is free from affectation. All your poems are on the subject of soap bubbles. No affected poetry is popular among people of real taste. Only a modern poem would be on the subject of soap bubbles. Therefore none of your poems are interesting.\n\n\n\n\nNo interesting poems are unpopular among people of real taste. No modern poetry is free from affectation. All your poems are on the subject of soap bubbles. No affected poetry is popular among people of real taste. Only a modern poem would be on the subject of soap bubbles. Therefore none of your poems are interesting.\n\n\nConclusion: None of your poems are interesting\n\nNo interesting poems are unpopular among people of real taste. (premiss)\n\n\nNo modern poetry is free from affectation. (premiss)\n\n\nAll your poems are on the subject of soap bubbles. (premiss)\n\n\nNo affected poetry is popular among people of real taste. (premiss)\n\n\nOnly a modern poem would be on the subject of soap bubbles. (premiss)\n\n\nAll your poems are modern poems. (from 3, 5)\n\n\nAll your poems are affected. (from 2, 6)\n\n\nNone of your poems are popular among people of real taste. (from 7, 4)\n\n\nAll interesting poems are popular among people of real taste. (from 1)\n\n\nNone of your poems are interesting. (from 8, 9)",
+    "crumbs": [
+      "Introduction to Logic",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Lectures</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.logic/lectures.html#defining-validity",
+    "href": "data/course.phil.logic/lectures.html#defining-validity",
+    "title": "Lectures",
+    "section": "Defining Validity",
+    "text": "Defining Validity\n\nAn inference step is valid if and only if (iff) there is no possible situation in which its premises would be true and its conclusion false. Equivalently, in such a case, we will say that the inference’s premises entail its conclusion.",
+    "crumbs": [
+      "Introduction to Logic",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Lectures</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.logic/lectures.html#consistency-and-equivalency",
+    "href": "data/course.phil.logic/lectures.html#consistency-and-equivalency",
+    "title": "Lectures",
+    "section": "Consistency and Equivalency",
+    "text": "Consistency and Equivalency",
+    "crumbs": [
+      "Introduction to Logic",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Lectures</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.logic/lectures.html#what-is-a-proposition",
+    "href": "data/course.phil.logic/lectures.html#what-is-a-proposition",
+    "title": "Lectures",
+    "section": "What is a proposition?",
+    "text": "What is a proposition?\n\nOne or more propositions are (jointly) inconsistent if and only if there is no possible situation in which these propositions are all true together.\n\n\n\nSo what is a proposition?\nAyer, A. J. Language, Truth and Logic. Vol. 47. V. Gollancz, 1936.\n\nFor, if I am right, it will also follow that any sentence, whether of the English or any other language, that is equivalent to s can be validly derived, in the language in question, from any sentence that is equivalent to r; and it this that my use of the word “proposition” indicates. (Page 7)\n\n\nFirst a sentence\nNext a statement (imperative, declarative, interrogative, exclamatory)\nEmpirically Verifiable\nTherefore is always either true or false\n\n\n\nNotice which ones can be true or false? Imperative: Go to your room!, Interrogative: Did you have dinner with the victim the night of their murder? Exclamatory: Oh darn! or Declarative?\n\n\nSome Examples\nIf some propositions are consistent with each other, then adding a further true proposition to them can’t make them inconsistent.\n\nYes?\nNo?\n\n\nConsider:\n\nSocrates is a woman.\nNo women are philosophers.\nNow consider:\n\nSocrates is a philosopher\n\n\n\nCan both be true?\nEither inconsistent, or one is false.\n\n\nValidity, Invalidity, and Truth\nThe Invalidity Principle\n\nThe only combination ruled out by the definition of validity is a valid inference step’s having all true premisses and yet a false conclusion. Deductive validity is about the necessary preservation of truth – and therefore a valid inference step cannot take us from actually true premisses to an actually false conclusion. (smit94?)\n\n\n\nEither premises can be jointly consistent, if there is at least one situation where they can all be true together\nThere are inconsistent if there is no possible situation in which all are true together in that situation.\n\nOr premises taken with with their conclusion:\n\nCan the premises of an argument be true while at the same time, denying the truth of the conclusion?\n\nYes: Inconsistent\nNo: Consistent\n\n\n\n\n\nEquivalency\n\nTwo propositions are equivalent iff they are true in exactly the same possible situations.\n\n\n\n\nSome Examples\n\nIf A entails C, and C is equivalent to C 0 , then A entails C 0 .\nIf A entails C, and A is equivalent to A0 , then A0 entails C.\nIf A and B entail C, and A is equivalent to A0 , then A0 and B entail C.",
+    "crumbs": [
+      "Introduction to Logic",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Lectures</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.logic/lectures.html#validity-invalidity-and-truth",
+    "href": "data/course.phil.logic/lectures.html#validity-invalidity-and-truth",
+    "title": "Lectures",
+    "section": "Validity, Invalidity, and Truth",
+    "text": "Validity, Invalidity, and Truth\nThe Invalidity Principle\n\nThe only combination ruled out by the definition of validity is a valid inference step’s having all true premisses and yet a false conclusion. Deductive validity is about the necessary preservation of truth – and therefore a valid inference step cannot take us from actually true premisses to an actually false conclusion. (smit94?)\n\n\n\nEither premises can be jointly consistent, if there is at least one situation where they can all be true together\nThere are inconsistent if there is no possible situation in which all are true together in that situation.\n\nOr premises taken with with their conclusion:\n\nCan the premises of an argument be true while at the same time, denying the truth of the conclusion?\n\nYes: Inconsistent\nNo: Consistent\n\n\n\n\nEquivalency\n\nTwo propositions are equivalent iff they are true in exactly the same possible situations.\n\n\n\n\nSome Examples\n\nIf A entails C, and C is equivalent to C 0 , then A entails C 0 .\nIf A entails C, and A is equivalent to A0 , then A0 entails C.\nIf A and B entail C, and A is equivalent to A0 , then A0 and B entail C.",
+    "crumbs": [
+      "Introduction to Logic",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Lectures</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.logic/lectures.html#more-forms-of-inference-examples",
+    "href": "data/course.phil.logic/lectures.html#more-forms-of-inference-examples",
+    "title": "Lectures",
+    "section": "More Forms of Inference (Examples)",
+    "text": "More Forms of Inference (Examples)",
+    "crumbs": [
+      "Introduction to Logic",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Lectures</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.logic/lectures.html#validity-and-soundness",
+    "href": "data/course.phil.logic/lectures.html#validity-and-soundness",
+    "title": "Lectures",
+    "section": "Validity and Soundness",
+    "text": "Validity and Soundness\nCovered So Far:\n\nInference steps being deductively valid.\nTherefore some premises deductively entail a conclusion.\nThis chapter informally explores validity and entailment\n\n\nDefining Validity\n\nAn inference step is valid if and only if (iff) there is no possible situation in which its premises would be true and its conclusion false. Equivalently, in such a case, we will say that the inference’s premises entail its conclusion.",
+    "crumbs": [
+      "Introduction to Logic",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Lectures</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/syllabus.html",
+    "href": "data/course.phil.intro/syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Welcome to Introduction to Philosophy\nIn this course, we will use David Chalmer’s book Reality+ to look at questions humans have been asking for thousands of years. While the primary focus of the book is look at one question in particular “Are we in a simulation?”, we use this question to frame others such as: “What does it mean to know that the sky is blue?”, “is murder really wrong?”, “How did I come to know that murder is wrong?”.",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Syllabus</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/syllabus.html#class-meeting-times",
+    "href": "data/course.phil.intro/syllabus.html#class-meeting-times",
+    "title": "Syllabus",
+    "section": "💻 Class Meeting Times",
+    "text": "💻 Class Meeting Times\n\n📆 Mondays and Wednesdays\n⌚ 10:30am - 11:45am",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Syllabus</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/syllabus.html#course-convenor",
+    "href": "data/course.phil.intro/syllabus.html#course-convenor",
+    "title": "Syllabus",
+    "section": "Course Convenor",
+    "text": "Course Convenor\nDr. Monty Reynolds 📧 mreynolds1@stetson.edu\nOffice Hours:\n\nWhen:\n\nTuesday: 1:00–3:00 PM\nThursday: 1:00–3:00 PM\n\nWhere: Elizabeth Hall 104\nHow to book: Drop in, email, or book via Microsoft Bookings",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Syllabus</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/syllabus.html#course-information",
+    "href": "data/course.phil.intro/syllabus.html#course-information",
+    "title": "Syllabus",
+    "section": "Course Information",
+    "text": "Course Information\nIntroduction to Philosophy: Value, Meaning, and Humanity’s Place in the Modern World\nTimes: 10:30-11:45 Days: Mons and Weds or Tues Thurs Where: Davis Hall 209\n\nRequired Texts:\nChalmers, David J.. Reality+: Virtual Worlds and the Problems of Philosophy. United Kingdom: Penguin Books Limited, 2022.\nHere is an amazon link to the book: https://www.amazon.com/Reality-Virtual-Worlds-Problems-Philosophy/dp/0393635805\nThis will also be supplemented with handouts.\n\n\nExpectations:\nCome prepared to engage with assigned readings in class, referencing specific passages as prompted by the instructor.\nBring physical or digital copies of readings to class for annotation and short reflections.\nSubmit all assignments via Canvas by the due date.\nActive participation and regular attendance are essential for success.\nSuccess: Active participation, timely submissions, and attendance are key.\n\n\nGrading Calculation\nWeekly Reflections: Each reflection is worth a possible total of 8 points. There are 12 possible reflections. I will only grade 8 or your best reflections.\nReflective Analysis 1 & 2 (160 points): Each reflective analysis is worth a possible total of 20 points per category, times 4 categories equals 80 points times 2 reflection pieces.\nEssay 1 & 2 (80 points): Each Quiz is worth a possible total of 10 points per category, times 4 categories equals 40 points times 2 Quizzes.\nPresentation: Your grade in this area depends on your preparation and participation in the DND class meetings. We will use the dnd adventure sheet linked here to gage participation.\nStudents will be evaluated based on a total of 640 points, with the final grade determined by the percentage of points earned. The components are as follows:\n\nFor more detailed information regarding grades, see the rubric here\n\n\nFor more detailed information regarding the DND Adventures, see the DND addendum here\n\nAttendance (5% of final grade, 32 points):\n\nBased on unexcused absences throughout the semester.\n\nGrading Scale (equal increments of 8 points):\n\n\n\n0–1\nunexcused absences:\n32 points\n\n\n2\nunexcused absences:\n24 points\n\n\n3–4\nunexcused absences:\n16 points\n\n\n5–6\nunexcused absences:\n8 points\n\n\n6\nunexcused absences:\n0 points",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Syllabus</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/syllabus.html#reading-schedule",
+    "href": "data/course.phil.intro/syllabus.html#reading-schedule",
+    "title": "Syllabus",
+    "section": "Reading Schedule",
+    "text": "Reading Schedule\nAdjust all dates by one for Tuesday Thursday Course\nWeeklies Due Every Monday Starting Jan 19\nWed Jan 14, handouts\nMon Jan 19 MLK Day, no classes\nWed Jan 21, Chapter 2, Simulation Hypothesis\nMon Jan 26, Chapter 3, Knowledge\nWed Jan 28, The external world, ch. 4\nMon Feb 2, ch. 5, Possible realities, bostrom and Moravec\nWed Feb 4, ch. 6, What is Reality?\nMon Fed 9, ch. 7, Is God a hacker in the universe up?\nWed Fed 11, ch. 8 Information, 2nd DND Adventure, Student Led\nMon Feb 16, ch. 9, On Bits\nWed Feb 18, ch. 10, Reality and Virtual Reality\nMon Feb 23, ch. 11, Illusion Machines\nWed Feb 25, Quiz 1\nMon Mar 02, Spring Break\nWed Mar 4, Spring Break\nMon Mar 9, ch. 13 ch. 12, 3rd DND Adventure, Student Led\nWed Mar 11, ch. 14, Mind and body Realism inside a virtual universe\nMon Mar 16, ch. 15, 4th DND Adventure, Student Led\nWed Mar 18, ch. 16, The extended mind hypothsis\nMon Mar 23, ch. 17 Critical Reflection Due\nWed Mar 25, ch. 18, Virtual ethics and intentiality\nMon Mar 30, ch. 19, Social Ontology inside virtual worlds\nWed Apr 1, ch. 20, 5th DND Adventure on Sense and Reference, Student Led\nMon Apr 6, ch. 21, Cause and effect inside virtual systems\nWed Apr 8, ch. 22, Mathematical, physical and cultural structualism\nMon Apr 13, ch. 23, Virtual Eden?\nWed Apr 15, ch. 24, Brains in a Vat\nMon Apr 20, TBD\nWed Apr 22, TBD\nMon Apr 27, TBD\nWed Apr 29, last day of classes, Final Quiz\nPaper Due on Day of Final Quiz (Submit on Canvas)",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Syllabus</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/syllabus.html#university-supports-and-policies",
+    "href": "data/course.phil.intro/syllabus.html#university-supports-and-policies",
+    "title": "Syllabus",
+    "section": "University Supports and Policies",
+    "text": "University Supports and Policies\nPlease Note: Oral appeals for grade changes are NOT accepted. If you feel that you have an extremely strong case for a grade change, you may submit a one-page essay explaining your reasons to me within one week of your work being returned.\nA.Honor Code: University rules concerning scholastic dishonesty will be strictly followed. Any attempt at academic cheating will be referred to the Honor Council. I expect you to abide by the Honor Code that we have adopted here at Stetson. Please sign all work “Pledged, your name.” University rules concerning scholastic dishonesty will be strictly followed. As a community of intellectual inquirers, we are all committed to academic integrity and honesty. The Stetson University Student Government Association, on its own initiative, recently drafted a proposal for an honor code, a powerful statement of the student body’s commitment to this community of honor and integrity. For this reason, all work that you turn in must be your own. Any contribution from others must be clearly acknowledged. Unauthorized assistance on exams (take-home as well as in-class), research papers, or projects can be neither given nor received. The University has fully endorsed its honor system and abides by its precepts. If you have questions regarding the method/procedure for citing the work of others, please feel free to consult us.\nThe Department of Philosophy expects academic honesty of all students; we expect all students to abide by Stetson’s honor code and to adhere to the honor system. Academic dishonesty includes, but is not limited to, altering or misusing documents, plagiarizing, misrepresentation, knowingly providing false information, colluding, and other forms of cheating. Students should read and follow Stetson’s definitions and policies on ‘Academic Honesty,’ the honor code, and the honor system in Connections: The Campus Life Handbook and Calendar. It is the student’s responsibility to be familiar with these definitions and policies; ignorance of them is not an acceptable excuse for violating them. Cases of suspected academic dishonesty, including plagiarism, will be referred to the Academic Honor Council, as per departmental policy.\nThe honor code can be found online at the following address:http://www.stetson.edu/honorsystem/ http://www.stetson.edu/honorsystem/\nB.Assignment standards: Late Work: All assignments must be handed in on time: late work will be docked a half-letter grade per day unless you get my approval for an extension before the due date. (Student athletes and others on school business: please, be advised to turn your assignments in BEFORE you leave, not after you return). No make-up exams or quizzes will be given without documented University accepted excuse (and they will differ from the ones given in class). This includes group quizzes.\nC.Accommodation: Writing Center: Many students experience difficulty writing research papers. For that reason, Stetson University supports a Writing Center, located on the Second Floor of the Library. I have found that one or two visits to the Writing Center can make a tremendous difference in the quality of a paper. If you find that you have trouble with your written assignments, I strongly encourage you to seek the help of the Writing Center. The Academic Success Center provides academic and disability resources for all Stetson University Students. Students who anticipate barriers related to the format or requirements of a course should meet with me to discuss ways to ensure full participation. If disability-related accommodations are necessary, please register with the Academic Success Center (386-822-7127; www.stetson.edu/asc). You and I, and the ASC, will plan how best to coordinate accommodations. Sheridan’s writing center hours: W 2-6, F 12-3.\nThe ASC also coordinates free tutoring on campus for students. You can meet with a tutor to review principles, learn content-specific study strategies, and enhance content area knowledge. To review the tutoring options available and schedules, please see our website www.stetson.edu/asc/tutoring/php.\n2.Counseling: Counseling: College can be extremely stressful for students, especially if this is the first time you’ve been away from home for an extended period of time or if there are other pressures that you are facing. For this reason, you may find it helpful to consult the University Counseling Center. Here is their contact information:\nPhone number: 386-822-8900\nLocation: The office is located in Griffith Hall\nOffice hours: Weekdays from 8:00 a.m. to 4:30 p.m.\nIf a student experiences a mental health emergency after hours, they can simply call Public Safety (386-822-7300) and ask to speak with the on-call counselor.\nWe are staffed with qualified professional counselors who are trained to support and guide students through difficult transitions, experiences, and feelings.\nCounseling is confidential and free of charge for all currently enrolled Stetson University students.\nIf experiencing a mental health crisis, you may also call 386-822-8740 to be connected to Volusia County Crisis Response Team: If having thoughts of harming yourself or others, select option one. For all other mental health needs select option nine.\nFor medical emergencies call 911.\nSchedule of Readings/Assignments: subject to change as needed, it is YOUR responsibility to regularly check blackboard for announcements.\nStudents are required to check their Stetson email and Canvas accounts frequently, daily if possible. Do not use technology as an excuse for not completing an assignment/quiz or for submitting an assignment/quiz late or improperly. Late assignments/submissions are not accepted.\nAll students will be asked to verify in an online quiz that they agree and will abide by the procedures and policies presented in this syllabus. If you do not feel you can abide by the course rules, please drop the course.\nAny recordings of this class (audio, video, or otherwise) may ONLY be used for personal academic use. Recordings may NOT be shared with other people without written consent from the professor. The information contained in recordings constitutes intellectual property and is protected under federal copyright laws. This information may NOT be published or quoted without the express written consent of the professor and without giving proper identification and credit to the professor. Recordings of this class may not be used in any way against the faculty member, teaching assistant, other lecturer, or students whose classroom comments are recorded as part of the class. Violation of these stipulations will result in being reported to the Office of Community Standards.\nD. Food Insecurity: At Stetson University, we are committed to supporting students’ well-being, including ensuring access to nutritious food. If you are experiencing a lack of access to safe and nutritious food, the Hatters Helping Hatters Food Pantry is her to help. The Food Pantry is a free, no-questions-asked supplemental food resource for all Stetson students, staff & faculty. Food Pantry location:\n\nCarlton Union Building (CUB 278), open 24 hours.",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Syllabus</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/lectures.html",
+    "href": "data/course.phil.intro/lectures.html",
+    "title": "Lectures",
+    "section": "",
+    "text": "Introductions",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Lectures</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/index.html",
+    "href": "data/course.phil.intro/index.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "The Cave",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/index.html#the-cave",
+    "href": "data/course.phil.intro/index.html#the-cave",
+    "title": "Introduction",
+    "section": "",
+    "text": "Descending back into Plato’s Cave: Onyx’s glowing secret cave (silent looping ambient video from Star Citizen)",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/index.html#section",
+    "href": "data/course.phil.intro/index.html#section",
+    "title": "Introduction",
+    "section": "",
+    "text": "🎯 Learning Objectives\n\nDevelop critical thinking and reasoning skills\nImprove reading, writing, and discussion abilities\nRecognize and apply philosophical methods\n\n\nNo Lectures\nYou are about to enter The Cave of Wonder and Reason. Forget who you where, here — every cave, dungeon, dream, room, forces you to answer a question philosophers have bled over for 2,500 years. What is consciousness, What is reality?, What is knowledge?.\n\n\n\nHere’s the deal:\nYou roll dice. You defend a position. Is it yours? Who cares. You make choices, are they yours? No, they belong to your avatar. You question your beliefs? No, you question your avatar’s beliefs. You eat your friend.\nThis is not a game. It’s a philosophy lab inside an experience machine.\nBy December, you’ll have lived Socrates, Descartes, Mill, and Rawls — not just read them.\nPick one, this is your character for the rest of the course. That character’s beliefs are your beliefs. In fact, its better that we don’t share our personal beliefs. Make up some. Write your name on them.\nToday, we begin in Room A. A voice echoes:\n\n“What is philosophy?”\n\nRoll a d20. Tell me an answer.",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/lectures.html#syntax",
+    "href": "data/course.phil.intro/lectures.html#syntax",
+    "title": "🗓️ Week 01/02 Introduction",
+    "section": "Syntax",
+    "text": "Syntax\n\n\n\n\n\nProf. Monty Visiting Assistant Professor of Philosophy Ask me about the ethics bowl team!\n\n\n\n\nPhD in Philosophy, AOS: Moral Epistemology\nBackground: Played in a lot of bands (not well)\nFormer Many\n\ndeep ocean  engineering  octopus",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 01/02<br/> Introduction</font></span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/lectures.html#four-homework-sets",
+    "href": "data/course.phil.intro/lectures.html#four-homework-sets",
+    "title": "Lectures",
+    "section": "Four Homework Sets",
+    "text": "Four Homework Sets\n\n80 x 4 for a total of 240 points (40% of final grade)\n\nHomework set 1: Thursday Sep 4, Week 2\nHomework set 2: Thursday, Sep 18, Week 4\nHomework set 3:  Thursday, Oct 23, Week 9\nHomework set 4:  Thursday, Nov 25, Week 14",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 01/02<br/> Introduction</font></span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/lectures.html#exams",
+    "href": "data/course.phil.intro/lectures.html#exams",
+    "title": "Lectures",
+    "section": "2 Exams",
+    "text": "2 Exams\n\n300 points (50% of final grade)\n\nExam 1: Thursday, Oct 2, Week 6\nFinal Exam: Thursday, Dec 9, Week 16",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 01/02<br/> Introduction</font></span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/lectures.html#attendance",
+    "href": "data/course.phil.intro/lectures.html#attendance",
+    "title": "Lectures",
+    "section": "Attendance",
+    "text": "Attendance\n5% percent of total grade\n\n0 or 1 unexcused absences: 30 points, near perfect attendance\n2 unexcused absences: 28 points\n3-4 unexcused absences: 24 points\n5-6 unexcused absences: 18 points\n6-7 unexcused absences: 10 points\n8 or more unexcused absences: 0 points",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 01/02<br/> Introduction</font></span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/lectures.html#seeking-out-help",
+    "href": "data/course.phil.intro/lectures.html#seeking-out-help",
+    "title": "Lectures",
+    "section": "Seeking out Help",
+    "text": "Seeking out Help\n\n5% percent\n\nThis course has a TA. You will receive pts for scheduling time to meet with the TA and asking for help on at least 1 assignment.",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 01/02<br/> Introduction</font></span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/lectures.html#make-up",
+    "href": "data/course.phil.intro/lectures.html#make-up",
+    "title": "Lectures",
+    "section": "Make Up",
+    "text": "Make Up\nMake up exams are available for University officially excused absences. (See syllabus).",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 01/02<br/> Introduction</font></span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/lectures.html#final-letter-grade",
+    "href": "data/course.phil.intro/lectures.html#final-letter-grade",
+    "title": "Lectures",
+    "section": "Final Letter Grade",
+    "text": "Final Letter Grade\n\n\nTotal points out of 600\n\n2 exams worth 300 points total.\n4 Homework Assignments, 240 points\nAttendance, 30 points\nAt least 1 office Hours visit, 30 points\n\n\nGrading Scale\n\n\n\nA+ 97-100%\nB+ 87-89%\n\n\n\n\nA 93-96%\nB 83-86%\n\n\nA- 90-92%\nB- 80-82%\n\n\nC+ 77-79%\nD+ 67-69%\n\n\nC 73-76%\nD 63-66%\n\n\nC- 70-72%\nD- 60-62%\n\n\nF &lt;59%",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 01/02<br/> Introduction</font></span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/lectures.html#assignment-schedule",
+    "href": "data/course.phil.intro/lectures.html#assignment-schedule",
+    "title": "Lectures",
+    "section": "Assignment Schedule",
+    "text": "Assignment Schedule\n\n\n\nWeek\nDate\nChapter/Section\nAssignment\n\n\n\n\n2\nSep 8\nChapter 2\nEx. 2.1.1\n\n\n5\nSep 22\nChapter 3\nEx. 3.3.1\n\n\n6\nOct 1\nChapter, 1,2, and 3\n1st Exam\n\n\n7\nOct 8\nFall Break\nThursday\n\n\n10\nOct 27\nChapter 7\nFrom Chapter\n\n\n14\nNov 26\nChapter 8\nFrom Chapter\n\n\n16\nFinals Week\nCumulative\nFinal Exam",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 01/02<br/> Introduction</font></span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/lectures.html#course-schedule",
+    "href": "data/course.phil.intro/lectures.html#course-schedule",
+    "title": "Lectures",
+    "section": "Course Schedule",
+    "text": "Course Schedule\n\nEach chapter has exercises.\nAlthough these are not all graded, I highly recommend you do at least a few of each.\nThe one’s that are required need to be turned in by the night before the second class meeting of that week.\nThis will give me the weekend to grade and return feedback the following class meeting.\nIf you have trouble with any of the assignments, whether required or recommended, bring them to office hours either mine or the Grey’s.",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 01/02<br/> Introduction</font></span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/lectures.html#advice",
+    "href": "data/course.phil.intro/lectures.html#advice",
+    "title": "Lectures",
+    "section": "Advice",
+    "text": "Advice\n\nMastering the material takes practice.\nYou must do the problems yourself.\nWatching someone else do something is not the same as doing it yourself.\nKeep up with the assignment schedule.\nCramming will not be a helpful way to prepare for the exams in this course.",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 01/02<br/> Introduction</font></span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/lectures.html#the-elimination-of-metaphysics",
+    "href": "data/course.phil.intro/lectures.html#the-elimination-of-metaphysics",
+    "title": "Lectures",
+    "section": "The Elimination of Metaphysics",
+    "text": "The Elimination of Metaphysics\n\nThe traditional disputes of philosophers are, for the most part, as unwar- ranted as they are unfruitful. The surest way to end them is to establish beyond question what should be the purpose and method of a philosophical inquiry. And this is by no means so difficult a task as the history of philoso- phy would lead one to suppose. For if there are any questions which science leaves it to philosophy to answer, a straightforward process of elimination must lead to their discovery. [Alfred Jules Ayer, Language, Truth, and Logic]",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 01/02<br/> Introduction</font></span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/lectures.html#what-makes-a-sentence-meaningful",
+    "href": "data/course.phil.intro/lectures.html#what-makes-a-sentence-meaningful",
+    "title": "Lectures",
+    "section": "What Makes a Sentence Meaningful?",
+    "text": "What Makes a Sentence Meaningful?\n\nConsider:\n\n\n‘the Absolute enters into, but is itself incapable of, evolution and progress’,\n\nor one cannot conceive of an observation which would enable one to determine whether the Absolute did, or did not, enter into evolution and progress.",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 01/02<br/> Introduction</font></span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/lectures.html#criterion-of-verifiability",
+    "href": "data/course.phil.intro/lectures.html#criterion-of-verifiability",
+    "title": "Lectures",
+    "section": "Criterion of Verifiability",
+    "text": "Criterion of Verifiability\n\n\nA sentence is meaningful when it is factually significant.\nIn order to determine whether a sentence is facutally significant?\nIt must be empirically verifiable",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 01/02<br/> Introduction</font></span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/lectures.html#what-is-a-good-thought",
+    "href": "data/course.phil.intro/lectures.html#what-is-a-good-thought",
+    "title": "Lectures",
+    "section": "What is a good thought?",
+    "text": "What is a good thought?\n\nWe need only formulate the criterion which enables us to test whether a sentence expresses a genuine proposition about a matter of fact, and then point out that the sentences under consideration fail to satisfy it. Criterion of Verifiability",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 01/02<br/> Introduction</font></span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/lectures.html#ayers-attempt",
+    "href": "data/course.phil.intro/lectures.html#ayers-attempt",
+    "title": "Lectures",
+    "section": "Ayer’s Attempt",
+    "text": "Ayer’s Attempt\n\nWe say that a sentence is factually significant to any given person, if, and only if, he knows how to verify the proposition which it purports to express—that is, if he knows what observations would lead him, under certain conditions, to accept the proposition as being true, or reject it as being false.",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 01/02<br/> Introduction</font></span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/lectures.html#what-is-a-proposition",
+    "href": "data/course.phil.intro/lectures.html#what-is-a-proposition",
+    "title": "Lectures",
+    "section": "What is a proposition?",
+    "text": "What is a proposition?",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 01/02<br/> Introduction</font></span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/lectures.html#some-possibilities",
+    "href": "data/course.phil.intro/lectures.html#some-possibilities",
+    "title": "Lectures",
+    "section": "Some Possibilities",
+    "text": "Some Possibilities\n\n\nSentences\nWords\nIndicatives\nImperatives\nDeclarative Statements",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 01/02<br/> Introduction</font></span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/lectures.html#a-statement-that-is-true-or-false",
+    "href": "data/course.phil.intro/lectures.html#a-statement-that-is-true-or-false",
+    "title": "Lectures",
+    "section": "A statement that is true or false",
+    "text": "A statement that is true or false\n\nWays to determine whether a statement is true or false.\n\n\n\nUnderstand the historical meaning.\nSee the truth of what it purports with your own eyes.\nPerhaps trust the testimonial source.\n?",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 01/02<br/> Introduction</font></span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/lectures.html#but-can-you-empirically-prove-the-original-moon-landing",
+    "href": "data/course.phil.intro/lectures.html#but-can-you-empirically-prove-the-original-moon-landing",
+    "title": "Lectures",
+    "section": "But can you empirically prove the original moon landing?",
+    "text": "But can you empirically prove the original moon landing?\n\n\nOr that every single bird you see is not a mechanical robot?\nThat the earth is not flat?\nYes you can.",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 01/02<br/> Introduction</font></span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/lectures.html#through-argument",
+    "href": "data/course.phil.intro/lectures.html#through-argument",
+    "title": "Lectures",
+    "section": "Through Argument",
+    "text": "Through Argument\n\nSequence of declarative sentences\nSome are premises\nOne is a conclusion\nBoth premises and conclusions are propositions",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 01/02<br/> Introduction</font></span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/lectures.html#all-women-are-mortal",
+    "href": "data/course.phil.intro/lectures.html#all-women-are-mortal",
+    "title": "Lectures",
+    "section": "All women are mortal",
+    "text": "All women are mortal\n\n\nCan this be verified?\nCan we verify it?\n\n\n\n\n-&lt; All women are mortal -&lt; I am a woman -&lt; I am mortal\n\n\nIs this a good argument? Why?\nIs it a good argument if I am the speaker?",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 01/02<br/> Introduction</font></span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/lectures.html#there-are-two-ways-to-evaluate-an-argument",
+    "href": "data/course.phil.intro/lectures.html#there-are-two-ways-to-evaluate-an-argument",
+    "title": "Lectures",
+    "section": "There are two ways to evaluate an argument",
+    "text": "There are two ways to evaluate an argument\n\nIs it valid?\nIs it sound?",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 01/02<br/> Introduction</font></span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/lectures.html#august-28",
+    "href": "data/course.phil.intro/lectures.html#august-28",
+    "title": "Lectures",
+    "section": "August 28",
+    "text": "August 28\n:• 1.1: What is Logic?\n\nReview Some Exercises\n• 1.2: Validity and Counterexamples\n\n\nGo Over Material of 1.3, 1.4\n• 1.3: Relevance\n• 1.4: Inference Indicators\n• Exercise 1.2 (Stongly recommended that you do this exercise)\n• Exercise 1.3 (Strongly recommended that you do this exercise)\n\n\nIntroduce\n\n1.5 Use and Mention",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 01/02<br/> Introduction</font></span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/lectures.html#which-of-the-following-arguments-allow-for-a-counter-example",
+    "href": "data/course.phil.intro/lectures.html#which-of-the-following-arguments-allow-for-a-counter-example",
+    "title": "Lectures",
+    "section": "Which of the following arguments allow for a counter example?",
+    "text": "Which of the following arguments allow for a counter example?\n\nAll philosophers are free thinkers\nAl is not a philosopher\n\n\\(\\therefore\\)\n\nAl is not a free thinker\n\n\n\nall cats are dogs\nall dogs are reptiles\n\n\\(\\therefore\\)\n\nall cats are reptiles\n\n\n\nall cats are vertebrates\nall mammals are vertebrates\n\n\\(\\therefore\\)\n\nall cats are mammals",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 01/02<br/> Introduction</font></span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/lectures.html#the-essential-elements-of-a-counter-example",
+    "href": "data/course.phil.intro/lectures.html#the-essential-elements-of-a-counter-example",
+    "title": "Lectures",
+    "section": "The essential elements of a counter example?",
+    "text": "The essential elements of a counter example?\n\nAffirmations of all the argument’s premises.\nA denial of the argument’s conclusion.\nAn explanation of how this can be, i.e., how the conclusion can be untrue while the premises are all true.\n\n\n\nAll charged particles have mass.\nNeutrons are particles that have mass.\n\n\\(\\therefore\\)\n\nNeutrons are charged particles.\n\n\n\nI’ve heard of Wartburg, Tennessee.\n\n\\(\\therefore\\)\n\nThere’s no tree that’s not a tree.",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 01/02<br/> Introduction</font></span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/lectures.html#relevance",
+    "href": "data/course.phil.intro/lectures.html#relevance",
+    "title": "Lectures",
+    "section": "Relevance",
+    "text": "Relevance\n\nAffirmation of the premises\nDeny the argument’s conclusion.\nAn explanation of how.\nWe affirmed the premises.\nWe could not deny the conclusion.",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 01/02<br/> Introduction</font></span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/lectures.html#section",
+    "href": "data/course.phil.intro/lectures.html#section",
+    "title": "Lectures",
+    "section": "1",
+    "text": "1\nThere is a tree that is not a tree",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 01/02<br/> Introduction</font></span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/lectures.html#section-1",
+    "href": "data/course.phil.intro/lectures.html#section-1",
+    "title": "Lectures",
+    "section": "2",
+    "text": "2\n\nAlbert is a pilot\nAlbert is not a pilot",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 01/02<br/> Introduction</font></span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/lectures.html#section-2",
+    "href": "data/course.phil.intro/lectures.html#section-2",
+    "title": "Lectures",
+    "section": "3",
+    "text": "3\n\nHe’s either here or in Chicago\nHe’s not here\nHe’s not in Chicago",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 01/02<br/> Introduction</font></span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/lectures.html#sound-or-not",
+    "href": "data/course.phil.intro/lectures.html#sound-or-not",
+    "title": "Lectures",
+    "section": "Sound or not?",
+    "text": "Sound or not?\n\nTo prove in the fullest sense means (at least) to have a sound argument—to reason validly from true premises.",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 01/02<br/> Introduction</font></span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/lectures.html#syncategorematic-terms",
+    "href": "data/course.phil.intro/lectures.html#syncategorematic-terms",
+    "title": "Lectures",
+    "section": "Syncategorematic terms",
+    "text": "Syncategorematic terms\n\nAll courses numbered less than 400 are undergraduate courses.\nNo undergraduate course can be taken for graduate credit.\n\n\\(\\therefore\\)\n\nNo course numbered less than 400 can be taken for graduate credit.\n\n\n\nIn other words, every idea in a conclusion must “come from” somewhere, i.e., from one or more of the premises. Conclusions should be “summations” of the premises. … The fundamental ideas in the conclusion are “course numbered less than 400” and “being taken for graduate credit”. The first of these ideas comes from the first premise and the second from the second. Each has its origin in a premise, and this accounts, at least in part, for the conclusion’s relevance.",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 01/02<br/> Introduction</font></span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/assignments.html",
+    "href": "data/course.phil.intro/assignments.html",
+    "title": "Assignments",
+    "section": "",
+    "text": "Weeklies\nWeekly Reflections (32 points): These will be done each week in class. Each reflection is worth a possible total of 8 points. There are 12 possible reflections. I will only grade 8 or your best reflections for a possible total of 32 points.",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Assignments</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/assignments.html#overall-assignment-setup",
+    "href": "data/course.phil.intro/assignments.html#overall-assignment-setup",
+    "title": "Assignments",
+    "section": "Overall Assignment Setup",
+    "text": "Overall Assignment Setup\n\nGroup Structure: By second week, students form small groups of 5 members each. This will be done using a randomizing method.\nRotating Dungeon Master (DM) Role: Every group member gets one turn to act as the Dungeon Master (DM) for a full session/day.\n\nThis distributes the workload fairly—no one is stuck doing all the prep.\nThe DM takes ownership of that day’s reading/topic transforming it into a D&D-style adventure. The DM will be given the adventure, they then give the problems to the other students in a turn-based format.",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Assignments</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/assignments.html#session-format-when-a-student-is-dm",
+    "href": "data/course.phil.intro/assignments.html#session-format-when-a-student-is-dm",
+    "title": "Assignments",
+    "section": "Session Format (When a Student is DM)",
+    "text": "Session Format (When a Student is DM)\n\n1. Presentation of the Reading\nThe DM presents a summary of the assigned text. They will then present a D&D structured adventure of the text (this will be provided).\n\nThe core issues of the text will be narratively framed already: The group will be a party of adventurers whose job it is to solve the issues before them in order to advance.\nThe reading is the “quest” or “dungeon” backdrop—e.g., a moral/ethical, metaphysical/epistemological dilemma in a kingdom, or a riddle posed by an adversarial entity (the DM).\n\n\n\n2. Challenges Presented One at a Time\nThe DM introduces several challenges sequentially\n\nEach challenge draws directly from key concepts, arguments, objections, or thought experiments in the reading.\nExamples:\n\nYou’ve created an intelligent and conscious sim population \\(\\rightarrow\\) Debate your obligations to them.\nYou’ve fallen in love with a player in an MMO who you only know as their character \\(\\rightarrow\\) Explore is this true love?\n\n\n\n\n3. Group Interaction & Participation\nFor each challenge:\n\nany group member can respond by:\n\nAsking a clarifying question about the challenge (probing the text/concept).\nOffering a suggestion/solution (proposing a philosophical position, argument, or counter).\n\nThe DM evaluates the response (as the “world” reacting).\n\nThe responding player ***rolls dice (typically a d20, we will ignore modifiers this time around) to determine whether they defend the position or attack it.\nSuccess means attacking the position\nFailure means defending the position\n\n\n\n\n4. Collaborative Input & Multiple Rolls\nAfter the first response/roll:\n\nOtehr group member get turns to offer their own responses or build on/counter the previous one.\nThey also roll dice to suggest “other considerations” (e.g., other defenses of the DM’s positions; other criticism’s of the DM’s position; edge cases; objections from the reading)\nThis creates a back-and-forth discussion, with dice adding chance, excitement, and stakes—mirroring how philosophical debates involve risk, uncertainty, and persuasion.\n\n\n\n5. Resolution & Reflection\n\nThe DM adjudicates the collective outcomes (what is plausible?)\nThe session ends with debrief: How did the “adventure” illuminate the reading? What arguments won/lost? How does this apply to real philosophy?",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Assignments</span>"
     ]
   }
 ]

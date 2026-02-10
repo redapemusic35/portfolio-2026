@@ -1,0 +1,26 @@
+# Introduction
+
+Previously, this course used John Nolt's *Logics* as its text book. While I still believe that the heavy emphasis on formal logic is important, it was not intuitive, and logic done well is intuitive. I eventually discovered Peter @smit21b's [*Logic Matters*](https://www.logicmatters.net/). I recommended it to students as a supplementary reading and was pleased with the feedback and the improvement in their understanding. I am now relying on Smith's introductory text as the main text for this course, although I will contrast it with Nolt's more formal approach at various points.
+
+**Focus:** The focus of this course is . . .
+
+* Informal Logic
+* Classical Propositional Logic syntax and semantics
+* Natural Deduction Proofs for Propositional Logic
+* Formalization Rules and General Propositions
+* Predicate (Quantification Rules) Logic Semantics and Inference
+
+**Free! Course Text:** [Smith, Peter. 2021. An Introduction to Formal Logic. Second edition, Reprinted with corrections. Logic Matters.
+](https://www.logicmatters.net/resources/pdfs/IFL2_LM.pdf)
+
+## Summary {height=10%}
+
+In the image below, Sherlock Holmes is wearing a top hat. Therefore in Fiction *f*, it is true that:
+
+* Holmes lived in Baker Street.
+* Holmes lived nearer to Paddington Station than to Waterloo Station.
+* Holmes was just a person, a person of flesh and  blood.
+* Holmes really existed.
+* Someone lived for many years at 22 iB Baker Street.
+
+!['Holmes wears a top hat'](./figures/holmes.jpg)

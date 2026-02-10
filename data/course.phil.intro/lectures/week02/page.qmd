@@ -1,0 +1,45 @@
+---
+title: "🗓️ Summary Until Now"
+---
+
+The experiences that you have, are they: real life? fantasy? dreams? illusion?
+
+3 philosophers:
+
+Zhuangzi's Butterfly Dream
+
+> Once Zhuangzi dreamt he was a butterfly, a butterfly flitting and fluttering around, happy with himself and doing as he pleased. He didn’t know he was Zhuangzi. Suddenly he woke up and there he was, solid and unmistakably Zhuangzi. But he didn’t know if he was Zhuangzi who had dreamt he was a butterfly, or a butterfly dreaming he was Zhuangzi.
+
+Narada's Transformation:
+
+Narada: I have conquered illusion
+
+*lives an entire lifetime as a woman who gave birth to sons only to watch them die in battle*
+
+Vishnu: (As Narada grieves) “Why are you so sad? This is just an illusion.”
+
+Rick and Morty:
+
+> Morty lives Roy’s entire fifty-five-year life: childhood, football star, carpet salesman, cancer patient, death. When he emerges from the game a moment later as Morty, his grandfather berates him for having made the wrong life decisions in the simulation.
+
+Plato's Cave:
+
+Should we prefer life inside or outside the cave?
+
+Takeaway, 3 questions:
+
+Is this the real world? \
+How do we *know* this is the real world? \
+Should we care?
+
+Chalmers:
+
+1. Virtual worlds are real. Virtual objects really exist.
+2. I don’t know whether we’re in a virtual world or not.
+3. Can you lead a good life in a virtual world? (My answer: yup.)
+
+# What is a Simulation?
+
+> A simulation usually concentrates on a certain level. A population-level simulation approximates human behavior with simple psychological models, but it doesn’t usually try to simulate the neural networks that underlie the psychology.
+
+

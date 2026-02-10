@@ -1,0 +1,53 @@
+---
+title: "Introduction"
+format:
+  dashboard:
+    include-before-body: helpers/remove-nav.html
+    include-after-body: helpers/remove-title.html
+    orientation: columns
+---
+
+## The Cave {width="50%"}
+
+<iframe width="500" height="500"
+        src="https://www.youtube.com/embed/TKWbqwo1kQY?start=374&amp;autoplay=1&amp;mute=1&amp;loop=1&amp;playlist=TKWbqwo1kQY"
+        title="Star Citizen: Onyx’s Secret Cave Entrance"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen>
+</iframe>
+<div class="text-center mt-3">
+
+***Descending back into Plato's Cave:*** Onyx’s glowing secret cave ([silent looping ambient video from *Star Citizen*](https://youtu.be/TKWbqwo1kQY?si=4oNUjX7TRaC9VTPi))
+
+</div>
+
+##
+
+🎯 Learning Objectives
+
+* Develop critical thinking and reasoning skills
+* Improve reading, writing, and discussion abilities
+* Recognize and apply philosophical methods
+
+### No Lectures
+
+You are about to enter The Cave of Wonder and Reason. Forget who you where, here — every cave, dungeon, dream, room, forces you to answer a question philosophers have bled over for 2,500 years. *What is consciousness*, *What is reality?*, *What is knowledge?*.
+
+###
+
+Here’s the deal:
+
+You roll dice. You defend a position. Is it yours? Who cares. You make choices, are they yours? No, they belong to your avatar. You question your beliefs? No, you question your avatar's beliefs. You eat your friend.
+
+This is not a game. It’s a philosophy lab inside an experience machine.
+
+By December, you’ll have lived Socrates, Descartes, Mill, and Rawls — not just read them.
+
+Pick one, this is your character for the rest of the course. That character's beliefs are your beliefs. In fact, its better that we don't share our personal beliefs. Make up some. Write your name on them.
+
+Today, we begin in Room A. A voice echoes:
+
+* “What is philosophy?”
+
+Roll a d20. Tell me ***an*** answer.

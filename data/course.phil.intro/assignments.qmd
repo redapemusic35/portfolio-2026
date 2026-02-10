@@ -1,0 +1,12 @@
+---
+title: "Assignments"
+---
+
+{{< include ./weeklies/index.qmd >}}
+
+{{< include ./quizzes/index.qmd >}}
+
+{{< include ./critical-reflections/index.qmd >}}
+
+{{< include ./d&d-campaigns/index.qmd >}}
+
