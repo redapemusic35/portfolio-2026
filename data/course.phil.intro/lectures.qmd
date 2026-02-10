@@ -3,3 +3,13 @@ title: "Lectures"
 ---
 
 {{< include ./lectures/week01/slides.qmd >}}
+
+{{< include ./lectures/week02/slides.qmd >}}
+
+{{< include ./lectures/week03/slides.qmd >}}
+
+{{< include ./lectures/week04/slides.qmd >}}
+
+{{< include ./lectures/week05/slides.qmd >}}
+
+{{< include ./lectures/week06/slides.qmd >}}
