@@ -95,8 +95,8 @@
     "objectID": "data/course.phil.logic/index.html#summary",
     "href": "data/course.phil.logic/index.html#summary",
     "title": "Introduction",
-    "section": "",
-    "text": "Holmes lived in Baker Street.\nHolmes lived nearer to Paddington Station than to Waterloo Station.\nHolmes was just a person, a person of flesh and blood.\nHolmes really existed.\nSomeone lived for many years at 22 iB Baker Street.\n\n\n\n\n‘Holmes wears a top hat’",
+    "section": "Summary",
+    "text": "Summary\nIn the image below, Sherlock Holmes is wearing a top hat. Therefore in Fiction f, it is true that:\n\nHolmes lived in Baker Street.\nHolmes lived nearer to Paddington Station than to Waterloo Station.\nHolmes was just a person, a person of flesh and blood.\nHolmes really existed.\nSomeone lived for many years at 22 iB Baker Street.\n\n\n\n\n‘Holmes wears a top hat’",
     "crumbs": [
       "Introduction to Logic",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
@@ -127,8 +127,8 @@
     "objectID": "data/course.phil.logic/syllabus.html#plos",
     "href": "data/course.phil.logic/syllabus.html#plos",
     "title": "Syllabus",
-    "section": "",
-    "text": "Argumentation: Students can identify and evaluate argument structures effectively.",
+    "section": "PLOs",
+    "text": "PLOs\nEvery course within a given department is expected to satisfy one (or more) of that program’s Learning Outcomes (PLOs), as articulated in that department’s Curriculum Map. Students who take a philosophy course will develop their capacity to (I.) understand and interpret philosophical texts, (II.) identify arguments, (III.) critically assess arguments, (IV.) identify philosophical traditions and methods, (IV.) and/or communicate clearly and effectively. The philosophy department’s five Learning Outcomes are arranged hierarchically, so that the later Learning Outcomes presuppose some familiarity with the lower-order skills. The assignments and work within a given course are expected to develop the skills associated with that course’s PLO, while strengthening the lower- order skills and setting the stage for the development of the higher- order skills. The PLO associated with this course is:\n\nArgumentation: Students can identify and evaluate argument structures effectively.\n\nInformation about the philosophy department’s PLOs can be found at:\nhttp://www.stetson.edu/artsci/philosophy/curriculummap.php",
     "crumbs": [
       "Introduction to Logic",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Syllabus</span>"
@@ -293,7 +293,7 @@
     "href": "data/course.phil.logic/lectures.html",
     "title": "Lectures",
     "section": "",
-    "text": "Chapter 1: Deductive Logic",
+    "text": "Chapter 1: Deductive Logic\nSo,",
     "crumbs": [
       "Introduction to Logic",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Lectures</span>"
@@ -337,7 +337,7 @@
     "href": "data/course.phil.logic/lectures.html#deduction-and-induction",
     "title": "Lectures",
     "section": "Deduction and Induction",
-    "text": "Deduction and Induction\n\n\n\n\n\n\nImportant📢 Important\n\n\n\n\n\n\nIf an inference step from premises to a conclusion is complletely watertight, i.e. if the truth of the premises absolutely guarantee the truth of the conclusion, then we say that this inference step is deductively valid.\n\n\nEquivalently, when an inference step is deductively valid, we will say that its premises deductively entail its conclusion. (smit94?)",
+    "text": "Deduction and Induction\n\n\n\n\n\n\n📢 Important\n\n\n\n\n\n\nIf an inference step from premises to a conclusion is complletely watertight, i.e. if the truth of the premises absolutely guarantee the truth of the conclusion, then we say that this inference step is deductively valid.\n\n\nEquivalently, when an inference step is deductively valid, we will say that its premises deductively entail its conclusion. (smit94?)",
     "crumbs": [
       "Introduction to Logic",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Lectures</span>"
@@ -425,7 +425,7 @@
     "href": "data/course.phil.intro/syllabus.html",
     "title": "Syllabus",
     "section": "",
-    "text": "Welcome to Introduction to Philosophy\nIn this course, we will use David Chalmer’s book Reality+ to look at questions humans have been asking for thousands of years. While the primary focus of the book is look at one question in particular “Are we in a simulation?”, we use this question to frame others such as: “What does it mean to know that the sky is blue?”, “is murder really wrong?”, “How did I come to know that murder is wrong?”.",
+    "text": "📍 Lecture Class Times",
     "crumbs": [
       "Introduction to Philosophy",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Syllabus</span>"
@@ -491,10 +491,10 @@
     "href": "data/course.phil.intro/lectures.html",
     "title": "🗓️ Week 05 Aristotle’s Poetics",
     "section": "",
-    "text": "Introductions",
+    "text": "Introductions\nBy now, as before, you may be criticizing the:\nYou are probably used to the following inference patters:\nYour counter looks like this:\nHere, Ayer agrees with you:\nBut this also means:\nHere are those words again:\nConsider simblockers\nConsider:",
     "crumbs": [
       "Introduction to Philosophy",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Aristotle's Poetics</font></span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Lectures</span>"
     ]
   },
   {
@@ -512,8 +512,8 @@
     "objectID": "data/course.phil.intro/index.html#the-cave",
     "href": "data/course.phil.intro/index.html#the-cave",
     "title": "Introduction",
-    "section": "",
-    "text": "Descending back into Plato’s Cave: Onyx’s glowing secret cave (silent looping ambient video from Star Citizen)",
+    "section": "The Cave",
+    "text": "The Cave\n\n\n\nDescending back into Plato’s Cave: Onyx’s glowing secret cave (silent looping ambient video from Star Citizen)",
     "crumbs": [
       "Introduction to Philosophy",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Introduction</span>"
@@ -876,7 +876,7 @@
     "href": "data/course.phil.intro/assignments.html",
     "title": "Assignments",
     "section": "",
-    "text": "Weeklies\nWeekly Reflections (32 points): These will be done each week in class. Each reflection is worth a possible total of 8 points. There are 12 possible reflections. I will only grade 8 or your best reflections for a possible total of 32 points.",
+    "text": "Weeklies\nWeekly Reflections (32 points): These will be done each week in class. Each reflection is worth a possible total of 8 points. There are 12 possible reflections. I will only grade 8 or your best reflections for a possible total of 32 points.\nQuiz 1 & 2 (80 points): Each Quiz is worth a possible total of 10 points per category, times 4 categories equals 40 points times 2 Quizzes.\nCritical Reflection 1 & 2 (160 points): Each reflective analysis is worth a possible total of 20 points per category, times 4 categories equals 80 points times 2 reflection pieces.\nPresentation (96 points): Your grade in this area depends on your preparation and participation in the DND class meetings. We will use the dnd adventure sheet linked here to gage participation.",
     "crumbs": [
       "Introduction to Philosophy",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Assignments</span>"
@@ -912,7 +912,7 @@
     "text": "Possible Worlds and Thought Experiments",
     "crumbs": [
       "Introduction to Philosophy",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Aristotle's Poetics</font></span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Lectures</span>"
     ]
   },
   {
@@ -923,7 +923,7 @@
     "text": "Simulations in Science Fiction",
     "crumbs": [
       "Introduction to Philosophy",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Aristotle's Poetics</font></span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Lectures</span>"
     ]
   },
   {
@@ -934,7 +934,7 @@
     "text": "The Simulation Hypothesis",
     "crumbs": [
       "Introduction to Philosophy",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Aristotle's Poetics</font></span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Lectures</span>"
     ]
   },
   {
@@ -945,7 +945,7 @@
     "text": "Can you prove a negative?",
     "crumbs": [
       "Introduction to Philosophy",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Aristotle's Poetics</font></span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Lectures</span>"
     ]
   },
   {
@@ -956,7 +956,7 @@
     "text": "Can you prove a positive?",
     "crumbs": [
       "Introduction to Philosophy",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Aristotle's Poetics</font></span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Lectures</span>"
     ]
   },
   {
@@ -967,7 +967,7 @@
     "text": "Simulation Hypothesis, a scientific hypothesis",
     "crumbs": [
       "Introduction to Philosophy",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Aristotle's Poetics</font></span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Lectures</span>"
     ]
   },
   {
@@ -978,7 +978,7 @@
     "text": "Simulation and virtual worlds",
     "crumbs": [
       "Introduction to Philosophy",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Aristotle's Poetics</font></span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Lectures</span>"
     ]
   },
   {
@@ -989,7 +989,7 @@
     "text": "The (very silly) Evolutionary Argument from Naturalism (EAAN)\n\n\nPhilosophical Naturalism (N):\n\nThere are no supernatural beings (i.e., God, angeles, demons, ghosts)\n\nContemporary Evolutionary Theory (E)\n\nHuman beings have evolved in conformity with current evolutionary doctrine\n\nNaturalism and Evolutionary theory are at odds with one another.\n\nI.e., if philosophical naturalism is true, then contemporary evolutionary theory can’t be true.\nIf Contemporary evolutionary theory is true, then naturalism cannot be true.\n\n\nTherefore, either E is true, or N is true, but not both.",
     "crumbs": [
       "Introduction to Philosophy",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Aristotle's Poetics</font></span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Lectures</span>"
     ]
   },
   {
@@ -1000,7 +1000,7 @@
     "text": "Reliability of Cognitive Faculties\n\nMemory\nPerception\nReason\n\nWe often ground a good majority of our beliefs in these faculties and more.\nAs such, these faculties are reliable if the majority of our beliefs that are grounded in them are true.\n\n\nHowever,\naccording to E:\n\nhuman life developed from aboriginal unicellular life\n\nnatural selection\ngenetic drift\ngenetic variation (random genetic mutatation)\n\nNatural selection discards most mutations\n\nSome mutations have adaptive value\nsome do not\n\nThrough such processes, most if not all organic life as developed\n\n\n\n\nThrough such processes, our cognitive faculties too, have evolved\nBut natural selection is not interested in truth but rather adaptive behavior, the four Fs:\n\nFeeding,\nFleeing,\nFighting\nReproducing\n\nIt is possible that some other function has proved more adaptive\nTherefore we cannot be sure we can trust our faculties to be reliable\n\n\nFor instance, here is Charles Darwin on the matter:\n\nthe horrid doubt always arises whether the convictions of man’s mind, which has been developed from the mind of the lower animals, are of any value or at all trutworthy. Would any one trust in the convictions of a monkey’s mind, if there are any convictions in such a mind? [Letter to William Graham, Down, July 3, 1881, in The Life and Letters of Charles Darwin INcluding an Autobiographical Chapter, ed. Francis Darwin (London: John Murray, Albermarle Street, 1887), I:315-316.]\n\n\nHere is Patricia Churchland:\n\nBoiled down to essentials, a nervous system enables the organism to succeed in the four F’s: fedding, fleeing, fighting and reproducing. The principle chore of nervous systems is the get the body parts where they should be in order that the organism may survive . . . Improvements in sensorimotor control confer an evolutionary advantage: a fancier style of representing is advantageous so long as it is geared to the organism’s way of life and enhances the organism’s chances of survival. Truth, whatever that is, definitely takes the hindmost. [Churchland, “Epistemology in the Age of Neuroscience,” Journal of Philosophy 84 (October 1987): 548]",
     "crumbs": [
       "Introduction to Philosophy",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Aristotle's Poetics</font></span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Lectures</span>"
     ]
   },
   {
@@ -1011,7 +1011,7 @@
     "text": "Descartes\n\nCertainly, up to now whatever I have accepted as fully true I have learned either from or by means of the senses: but I have discovered that they sometimes deceive us, and prudence dictataes that we should never fully trust those who have deceived us even once.",
     "crumbs": [
       "Introduction to Philosophy",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Aristotle's Poetics</font></span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Lectures</span>"
     ]
   },
   {
@@ -1022,7 +1022,7 @@
     "text": "Berkeley",
     "crumbs": [
       "Introduction to Philosophy",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Aristotle's Poetics</font></span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Lectures</span>"
     ]
   },
   {
@@ -1033,7 +1033,7 @@
     "text": "G.E. Moore",
     "crumbs": [
       "Introduction to Philosophy",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Aristotle's Poetics</font></span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Lectures</span>"
     ]
   },
   {
@@ -1044,7 +1044,7 @@
     "text": "Alvin Plantinga",
     "crumbs": [
       "Introduction to Philosophy",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Aristotle's Poetics</font></span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Lectures</span>"
     ]
   },
   {
@@ -1055,7 +1055,7 @@
     "text": "The (very silly) Evolutionary Argument from Naturalism (EAAN)\n\n\nPhilosophical Naturalism (N):\n\nThere are no supernatural beings (i.e., God, angeles, demons, ghosts)\n\nContemporary Evolutionary Theory (E)\n\nHuman beings have evolved in conformity with current evolutionary doctrine\n\nNaturalism and Evolutionary theory are at odds with one another.\n\nI.e., if philosophical naturalism is true, then contemporary evolutionary theory can’t be true.\nIf Contemporary evolutionary theory is true, then naturalism cannot be true.\n\n\nTherefore, either E is true, or N is true, but not both.",
     "crumbs": [
       "Introduction to Philosophy",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Aristotle's Poetics</font></span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Lectures</span>"
     ]
   },
   {
@@ -1066,7 +1066,7 @@
     "text": "Reliability of Cognitive Faculties\n\nMemory\nPerception\nReason\n\nWe often ground a good majority of our beliefs in these faculties and more.\nAs such, these faculties are reliable if the majority of our beliefs that are grounded in them are true.\n\n\nHowever,\naccording to E:\n\nhuman life developed from aboriginal unicellular life\n\nnatural selection\ngenetic drift\ngenetic variation (random genetic mutatation)\n\nNatural selection discards most mutations\n\nSome mutations have adaptive value\nsome do not\n\nThrough such processes, most if not all organic life as developed\n\n\n\n\nThrough such processes, our cognitive faculties too, have evolved\nBut natural selection is not interested in truth but rather adaptive behavior, the four Fs:\n\nFeeding,\nFleeing,\nFighting\nReproducing\n\nIt is possible that some other function has proved more adaptive\nTherefore we cannot be sure we can trust our faculties to be reliable\n\n\nFor instance, here is Charles Darwin on the matter:\n\nthe horrid doubt always arises whether the convictions of man’s mind, which has been developed from the mind of the lower animals, are of any value or at all trutworthy. Would any one trust in the convictions of a monkey’s mind, if there are any convictions in such a mind? [Letter to William Graham, Down, July 3, 1881, in The Life and Letters of Charles Darwin INcluding an Autobiographical Chapter, ed. Francis Darwin (London: John Murray, Albermarle Street, 1887), I:315-316.]\n\n\nHere is Patricia Churchland:\n\nBoiled down to essentials, a nervous system enables the organism to succeed in the four F’s: fedding, fleeing, fighting and reproducing. The principle chore of nervous systems is the get the body parts where they should be in order that the organism may survive . . . Improvements in sensorimotor control confer an evolutionary advantage: a fancier style of representing is advantageous so long as it is geared to the organism’s way of life and enhances the organism’s chances of survival. Truth, whatever that is, definitely takes the hindmost. [Churchland, “Epistemology in the Age of Neuroscience,” Journal of Philosophy 84 (October 1987): 548]",
     "crumbs": [
       "Introduction to Philosophy",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Aristotle's Poetics</font></span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Lectures</span>"
     ]
   },
   {
@@ -1077,7 +1077,7 @@
     "text": "Descartes\n\nCertainly, up to now whatever I have accepted as fully true I have learned either from or by means of the senses: but I have discovered that they sometimes deceive us, and prudence dictataes that we should never fully trust those who have deceived us even once.",
     "crumbs": [
       "Introduction to Philosophy",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Aristotle's Poetics</font></span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Lectures</span>"
     ]
   },
   {
@@ -1088,7 +1088,7 @@
     "text": "Berkeley",
     "crumbs": [
       "Introduction to Philosophy",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Aristotle's Poetics</font></span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Lectures</span>"
     ]
   },
   {
@@ -1099,7 +1099,7 @@
     "text": "G.E. Moore",
     "crumbs": [
       "Introduction to Philosophy",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Aristotle's Poetics</font></span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Lectures</span>"
     ]
   },
   {
@@ -1110,7 +1110,7 @@
     "text": "Alvin Plantinga",
     "crumbs": [
       "Introduction to Philosophy",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Aristotle's Poetics</font></span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Lectures</span>"
     ]
   },
   {
@@ -1121,7 +1121,7 @@
     "text": "Questions Philosophers Ask\n\nWhat is Real?\nHow do we know it is real?\nWhy should we care?\n\n\n\nMetaphysics\nEpistemology\nValue Theory\n\n\nBut notice that it is not just about providing answers to questions. Sometimes it is how we provide an answer that is even more interesting.\n\nConsider:\n\n\nThere are two very important terms here:\n\nIf so, then we are probably sims\nIt will never happen\n\n\nOne is a special kind of possibility, while the other entails a necessity.\n\nThe Argument:\n\nAt least one in ten nonsim populations will each create a thousand sim populations.\nIf at least one in ten nonsim populations will each create a thousand sim populations, then at least 99 percent of intelligent beings are sims.\nIf at least 99 percent of intelligent beings are sims, we are probably sims.\nTherefore, we are probably sims.",
     "crumbs": [
       "Introduction to Philosophy",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Aristotle's Poetics</font></span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Lectures</span>"
     ]
   },
   {
@@ -1132,7 +1132,7 @@
     "text": "Nick Bostrom\nAt least one of the following propositions is true (a proposition is a statement that is either true or false)\n\nThe human species is very likely to go extinct before reaching a “posthuman” stage;\nAny posthuman civilization is extremely unlikely to run a significant number of simulations of their evolutionary history (or variations thereof);\nWe are almost certainly living in a computer simulation.\n\n\n1 and 2 are sim blockers:\n\nNonsims (humans) likely to go extinct before creating nonsims.\nNonsims likely to choose not to create sims.",
     "crumbs": [
       "Introduction to Philosophy",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Aristotle's Poetics</font></span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Lectures</span>"
     ]
   },
   {
@@ -1143,7 +1143,7 @@
     "text": "Simulation Argument\n\nSimulation technology is likely to be so ubiquitous that most beings in the universe (or most beings with experiences like ours) are sims.\nTherefore, we are probably sims.",
     "crumbs": [
       "Introduction to Philosophy",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Aristotle's Poetics</font></span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Lectures</span>"
     ]
   },
   {
@@ -1154,7 +1154,7 @@
     "text": "Three Objections:\n\nIt will never happen\nWe’re special, have special features that cannot be simulated\nWe live in a distinctive world",
     "crumbs": [
       "Introduction to Philosophy",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Aristotle's Poetics</font></span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Lectures</span>"
     ]
   },
   {
@@ -1165,7 +1165,7 @@
     "text": "The Argument\n\nAt least one in ten nonsim populations will each create a thousand sim populations.\n\nIt will never happen objections\n\nIf at least one in ten nonsim populations will each create a thousand sim populations, then at least 99 percent of intelligent beings are sims.\nIf at least 99 percent of intelligent beings are sims, we are probably sims.\n\nare we special?\n\nTherefore, we are probably sims.",
     "crumbs": [
       "Introduction to Philosophy",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Aristotle's Poetics</font></span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Lectures</span>"
     ]
   },
   {
@@ -1176,7 +1176,7 @@
     "text": "Premise 1 Objections\n\nIntelligent sims are impossible\nSims take too much computing power\nNonsims will die out before creating sims\nNonsims will choose not to create sims\nMore nonsims than sims will be created",
     "crumbs": [
       "Introduction to Philosophy",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Aristotle's Poetics</font></span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Lectures</span>"
     ]
   },
   {
@@ -1187,7 +1187,7 @@
     "text": "Premise 3, Are we special?\n\nLet’s say that a sim sign is a feature that raises the probability that a creature is a sim. More precisely, it is a feature that a sim is more likely to have than a nonsim.\n\nSim Signs: feature sims are more likely to have than nonsims\n\nSims can’t be conscious\nSimulators will avoid creating conscious sims\nSims won’t have minds like ours\nSims won’t experience large universes\n\n\n\nStepping back: The potential nonsim signs we’ve considered, such as consciousness and a large world, may decrease the probability that we’re in a simulation. At the same time, we need to weigh these against potential sim signs, such as the fact that we seem to be early in the universe, which may increase the probability that we’re in a simulation.",
     "crumbs": [
       "Introduction to Philosophy",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Aristotle's Poetics</font></span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Lectures</span>"
     ]
   },
   {
@@ -1198,7 +1198,7 @@
     "text": "Premise 1\nOnly on the assumption that there are no sim blockers, then most humanlike beings are sims.\n\nDoes anything prevent the creation of many humanlike sims?",
     "crumbs": [
       "Introduction to Philosophy",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Aristotle's Poetics</font></span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Lectures</span>"
     ]
   },
   {
@@ -1209,7 +1209,7 @@
     "text": "Premise 2, the Indifference Principle\n\nIf there are many beings with the same sort of experience as me, then I am equally likely to be any of those beings.\nTherefore if 90 percent of beings with experiences like mine are sims, then I should be 90 percent confident that we are sims.\nSimblockers: However, if conscious sims are impossible, then humanlike sims are impossible.\nand if simulations with apparently large universes are rare, then humanlike sims are rare.\nTherefore, either there are sim blockers or we are sims.",
     "crumbs": [
       "Introduction to Philosophy",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Aristotle's Poetics</font></span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Lectures</span>"
     ]
   },
   {
@@ -1220,7 +1220,7 @@
     "text": "What is Real?\nChalmer’s View:\n\nVirtual Realism: virtual reality is genuine reality, . . . virtual objects are real and not an illusion.\nSimulation Realism: objects in simulation around us are real and not illusion.\nVirtual digitilism: objects in virtual reality are digital objects, structures of binary information.",
     "crumbs": [
       "Introduction to Philosophy",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Aristotle's Poetics</font></span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Lectures</span>"
     ]
   },
   {
@@ -1231,7 +1231,7 @@
     "text": "Defining Real\n\nReality: Everything that exists\nReality: World or Worlds\nReality: a Property\n\n\n\nReality+\n\nReality contains many realities\nEach of these realities are real\n\n\nOr more mundanely: the cosmos (everything that exists) contains many worlds (physical and virtual spaces), and the objects in those worlds are real.",
     "crumbs": [
       "Introduction to Philosophy",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Aristotle's Poetics</font></span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Lectures</span>"
     ]
   },
   {
@@ -1242,7 +1242,7 @@
     "text": "Delight\nMental image of beauty\ne.g., grandfather, and memory of grandfather\nIs one more valuable than the other?",
     "crumbs": [
       "Introduction to Philosophy",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Aristotle's Poetics</font></span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Lectures</span>"
     ]
   },
   {
@@ -1253,7 +1253,7 @@
     "text": "Mental and physical pleasure\n\nMental pleasure, e.g., memory of grandfather\nPhysical pleasure, e.g., sight of grandfather",
     "crumbs": [
       "Introduction to Philosophy",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Aristotle's Poetics</font></span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Lectures</span>"
     ]
   },
   {
@@ -1264,7 +1264,7 @@
     "text": "Learning\nLearning through pleasure\nWhy?\nIntimacy between our souls and our flesh",
     "crumbs": [
       "Introduction to Philosophy",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Aristotle's Poetics</font></span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Lectures</span>"
     ]
   },
   {
@@ -1275,7 +1275,7 @@
     "text": "Classification of Pleasure\n\n\n\n\nMental\nPhysical\n\n\n\n\nObject of higher pleasure\nMemory of grandfather\n\n\n\nObject of lower pleasure\n\nSight of grandfather",
     "crumbs": [
       "Introduction to Philosophy",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Aristotle's Poetics</font></span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Lectures</span>"
     ]
   },
   {
@@ -1286,7 +1286,7 @@
     "text": "But this doesn’t seem right!",
     "crumbs": [
       "Introduction to Philosophy",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Aristotle's Poetics</font></span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Lectures</span>"
     ]
   },
   {
@@ -1297,7 +1297,7 @@
     "text": "Who was Saint Augustine?\n\nSaint Augustine was born in North Africa in 354 CE. Most notably, he is known for both his City of God, (De Civite Dei) and his Confessions, (Augustini Confessiones). Famously, Augustine’s mother, Saint Monica, was a devout Christian while his father was a Roman official. Being a Roman official in 354 CE, also meant that his father was a pagan a fact often reflected on by Augustine in his Confessions especailly Famously, Augustine’s mother, Saint Monica, was a devout Christian while his father was a Roman official. Being a Roman official in 354 CE, also meant that his father was a pagan a fact often reflected on with some expressions of regret by Augustine in his Confessions especailly.\nAugustine is often known for his reflections on his youth and his conversion to Christianity. More importantly, much of his mature and independent philosophical work (not necessitated by duties of his office for instance) focuses on his theological reflections and philosophical claims regarding his ability to know about abstract concepts such as God, the soul, and the afterlife.",
     "crumbs": [
       "Introduction to Philosophy",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Aristotle's Poetics</font></span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Lectures</span>"
     ]
   },
   {
@@ -1308,7 +1308,7 @@
     "text": "De Musica\n\nWe must not hate what is below us, but rather with God’s help put it in its right place, setting in right order what is below us, ourselves, and what is above us, and not being offended by the lower, but delighting only in the higher.\n\n\nDe Musica is one of Augustine’s lesser known treatises. More central to scholarly focus on his writings, are typically his theological claims, epistemology, what can be known and how, and his philosophy of mind, his theses of concepualizing the difference between soul and body. However, De Musica provides a unique insight into Augustine’s reflections on the role of music in his own conversion and other spiritual experiences. He begines with what might be called a commandment, or psychological admonition.\n\n\n\nPerception of the beautiful\nand its constrast against perception of evil\nHow to do it?\n\n\nThis is an important claim. Consider two kinds of non-profit organizations. One is defined by all the things it is against, e.g., anti-war, anti-poverty, anti-racism, etc. The other defines itself by all the things that it is for, to promote peace, love, unity, etc.\nBut from his claims about perception, are those about what improves perception in such a way that it contributes to memory. Namely, we have first two kinds of event. Augustine admonishes us to focus on beautiful events and not ugly ones. But what are some practical ways in which we can focus on the one and not the other? While perception through experience enables one kind of reflection, there are other kinds of reflection that we are capable of, even if we have not had the experience.\nAlso as important, one aspect of what enables the right kind and object of perception, has to do with reflection. Is reflection merely a kind of perception where there is some object that once was external but now is internalized? For instance, consider what his says about the differences between his knowledge of his father and grandfather.\n\n\n\nIf syllables in a poem had life and perception for just as long as their sounds lasted, the rhythmicality and beauty of the whole intricately inwoven work could not give them pleasure.\n\n\nBut before we get to the kinds of reflections, we start first with what amounts to the beautiful. This begins with a description of the world as it is, not necessarily how we experience it.\n\n\n\n\nI think differently about my father whom I have seen and about my grandfather whom I have never seen. My thought of my father comes from memory, but my thought of my grandfather comes from mental movements arising out of other mental movements which are contained in memory.\n\n\n\nWhen considering what kinds of reflections we are capable of, the next question is how do we improve our ability to reflect on the beautiful and not the ugly? For Augustine, this is the place of music and why God has given us the capacity for music. But in order to understand why music, we have to first think about what music is.\n\n\n\nOur rhythmic or metric art, which is used by makers of verses, comprises certain rhythmical measurements according to which they make the verses.\n\n\n\n\n\nMeasurement of wave, distance traveled over period of time\n\n\n\nFor Augustine, there is an important relationship between random sounds, and time. What is the difference between a musical note, say ‘A’ as produced by the strike of a hammer on a piano string, and a child striking a mallet on a taut piece of wire? It helps to understand something about the metaphysics of music here. For instance, we might know that what we experience as sound, is a collection of vibrations either through the air, or another medium such as a piece of wood or metal. We typically measure these vibrations in the form of Hertz. The measurement, if I am not mistaken, is taken in a similar fashion to how we measure other waves such as radio, ocean, etc. I will not begin to make any further claims about the physics of sound, except to draw attention to rhythm as a measurement of time, and music as a measurement of sound in relationship to time. Therefore, if we hit a medium such as a piano string with a mallet or hammer, and it so happens to be taut enough such that upon being hit, it will vibrate in such a way that it produces a succession of waves that can be measured at 440 Hz, meaning 440 waves per whatever unit of time is selected as standard, then we will hear the note ‘A’.\n\n\nAdditionally, what we experience as different sounds, are the different frequencies at which these vibrations occur. In western music, most instruments are tuned to a standard frequency of 440 Hz.",
     "crumbs": [
       "Introduction to Philosophy",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Aristotle's Poetics</font></span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Lectures</span>"
     ]
   },
   {
@@ -1319,7 +1319,7 @@
     "text": "Five Divisions\nCorresponding with five senses.\n\nsight\nhearing\nsmell\ntaste\ntouch",
     "crumbs": [
       "Introduction to Philosophy",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Aristotle's Poetics</font></span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Lectures</span>"
     ]
   },
   {
@@ -1330,7 +1330,106 @@
     "text": "Purpose?\n\nExpress\nTeach\nPersuade\nApprehend\nJudge\nMotivate",
     "crumbs": [
       "Introduction to Philosophy",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Aristotle's Poetics</font></span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Lectures</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/syllabus.html#welcome-to-introduction-to-philosophy",
+    "href": "data/course.phil.intro/syllabus.html#welcome-to-introduction-to-philosophy",
+    "title": "Syllabus",
+    "section": "Welcome to Introduction to Philosophy",
+    "text": "Welcome to Introduction to Philosophy\nIn this course, we will use David Chalmer’s book Reality+ to look at questions humans have been asking for thousands of years. While the primary focus of the book is look at one question in particular “Are we in a simulation?”, we use this question to frame others such as: “What does it mean to know that the sky is blue?”, “is murder really wrong?”, “How did I come to know that murder is wrong?”.",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Syllabus</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.logic/exams/exam-1-logicmatters.html",
+    "href": "data/course.phil.logic/exams/exam-1-logicmatters.html",
+    "title": "Exam 1",
+    "section": "",
+    "text": "What are the premisses, inference markers, and conclusions of the following arguments? Which of these arguments do you suppose involve deductively valid reasoning? Why?\n\nSome forms or patterns of inference are deductively reliable, then, meaning that every inference step which is an instance of the same pattern is valid (Smith 2021, 6).\n\n(Just improvise, and answer the best you can!)\n\nThe Democrats will win the election. There’s only a week to go. The polls put them 20 points ahead, and a lead of 20 points with only a week to go to polling day can’t be overturned.\n\n\n\n\n\nSmith, Peter. 2021. An Introduction to Formal Logic. Second edition, reprinted with corrections. Monee, IL: Logic Matters.",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>exam-1-logicmatters.html</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.logic/exams/index.html",
+    "href": "data/course.phil.logic/exams/index.html",
+    "title": "Exam 1",
+    "section": "",
+    "text": "Chapter 1\nWhat are the premisses, inference markers, and conclusions of the following arguments? Which of these arguments do you suppose involve deductively valid reasoning? Why?\n\nSome forms or patterns of inference are deductively reliable, then, meaning that every inference step which is an instance of the same pattern is valid (Smith 2021, 6).\n\n(Just improvise, and answer the best you can!)\n\nThe Democrats will win the election. There’s only a week to go. The polls put them 20 points ahead, and a lead of 20 points with only a week to go to polling day can’t be overturned.\nMost pelicans are corrupt. After all, most ordinary birds are corrupt – and pelicans are ordinary birds.\nAnyone who is well prepared for the race, even if she doesn’t come in first, will at least come in the top 10. Jane is well prepared, so she will at least come in the top ten.\n\n\n\nChapter 2\nWhich of the following claims are true and which are false? Explain why the true claims hold good, and give counterexamples to the false claims.\n\nIf an argument has false premisses and a true conclusion, then the truth of the conclusion can’t really be owed to the premisses: so the argument cannot really be valid.\nYou can make an invalid argument valid by adding extra premisses.\n\n\n\nChapter 3\nWhich of the following patterns of inference are deductively reliable, meaning that all their instances are valid? (Here ‘F’, ‘G’ and ‘H’ hold the places for general terms.) If you suspect an inference pattern is unreliable, find an instance which has to be invalid because it has true premises and a false conclusion.\n\nSome F are G; no G is H; so, some F are not H.\n\n\n\nChapter 4\nWhich of the following arguments are valid? Where an argument is valid, sketch an informal proof. Some of the examples are enthymemes that need repair.\n\nOnly logicians are good philosophers. No existentialists are logicians. Some existentialists are French philosophers. So, some French philosophers are not good philosophers.\nNo philosopher is illogical. Jones keeps making argumentative mistakes. No logical person keeps making argumentative mistakes. All existentialists are philosophers. So, Jones is not an existentialist.\n\n\n\nChapter 6\n\nOnly logicians are wise. Some philosophers are not logicians. All who love Aristotle are wise. Hence some of those who don’t love Aristotle are still philosophers.\n\n\n\nChapter 8\nGive negations of the following in natural English:\n\nIt is not the case that both Jack and Jill went up the hill.\n\nUsing the provided interpretations, render the following into formalized language:\nP: Peter loves Jane.\nQ: Jane loves Peter.\nR: Jesse loves Jane.\nS: Peter is wise.\n\nPeter doesn’t love Jane.\nPeter is wise and he loves Jane.\nEither Peter loves Jane or Jesse does.\nPeter and Jane love each other.\nNeither Peter loves Jane nor does Jesse.\nIt isn’t the case that Peter loves Jane nor does Jane love Peter.\nEither Peter is not wise or both he and Jesse love Jane.\nIt isn’t the case that either Peter loves Jane or Jane loves Peter.\n\n\n\n\n\nSmith, Peter. 2021. An Introduction to Formal Logic. Second edition, reprinted with corrections. Monee, IL: Logic Matters.",
+    "crumbs": [
+      "Introduction to Logic",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Exams</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.logic/exams/index.html#chapter-1",
+    "href": "data/course.phil.logic/exams/index.html#chapter-1",
+    "title": "Exams",
+    "section": "Chapter 1",
+    "text": "Chapter 1\nWhat are the premisses, inference markers, and conclusions of the following arguments? Which of these arguments do you suppose involve deductively valid reasoning? Why?\n\nSome forms or patterns of inference are deductively reliable, then, meaning that every inference step which is an instance of the same pattern is valid (Smith 2021, 6).\n\n(Just improvise, and answer the best you can!)\n\nThe Democrats will win the election. There’s only a week to go. The polls put them 20 points ahead, and a lead of 20 points with only a week to go to polling day can’t be overturned.\nMost pelicans are corrupt. After all, most ordinary birds are corrupt – and pelicans are ordinary birds.\nAnyone who is well prepared for the race, even if she doesn’t come in first, will at least come in the top 10. Jane is well prepared, so she will at least come in the top ten.",
+    "crumbs": [
+      "Introduction to Logic",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Exams</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.logic/exams/index.html#chapter-2",
+    "href": "data/course.phil.logic/exams/index.html#chapter-2",
+    "title": "Exams",
+    "section": "Chapter 2",
+    "text": "Chapter 2\nWhich of the following claims are true and which are false? Explain why the true claims hold good, and give counterexamples to the false claims.\n\nIf an argument has false premisses and a true conclusion, then the truth of the conclusion can’t really be owed to the premisses: so the argument cannot really be valid.\nYou can make an invalid argument valid by adding extra premisses.",
+    "crumbs": [
+      "Introduction to Logic",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Exams</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.logic/exams/index.html#chapter-3",
+    "href": "data/course.phil.logic/exams/index.html#chapter-3",
+    "title": "Exams",
+    "section": "Chapter 3",
+    "text": "Chapter 3\nWhich of the following patterns of inference are deductively reliable, meaning that all their instances are valid? (Here ‘F’, ‘G’ and ‘H’ hold the places for general terms.) If you suspect an inference pattern is unreliable, find an instance which has to be invalid because it has true premises and a false conclusion.\n\nSome F are G; no G is H; so, some F are not H.",
+    "crumbs": [
+      "Introduction to Logic",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Exams</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.logic/exams/index.html#chapter-4",
+    "href": "data/course.phil.logic/exams/index.html#chapter-4",
+    "title": "Exams",
+    "section": "Chapter 4",
+    "text": "Chapter 4\nWhich of the following arguments are valid? Where an argument is valid, sketch an informal proof. Some of the examples are enthymemes that need repair.\n\nOnly logicians are good philosophers. No existentialists are logicians. Some existentialists are French philosophers. So, some French philosophers are not good philosophers.\nNo philosopher is illogical. Jones keeps making argumentative mistakes. No logical person keeps making argumentative mistakes. All existentialists are philosophers. So, Jones is not an existentialist.",
+    "crumbs": [
+      "Introduction to Logic",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Exams</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.logic/exams/index.html#chapter-6",
+    "href": "data/course.phil.logic/exams/index.html#chapter-6",
+    "title": "Exams",
+    "section": "Chapter 6",
+    "text": "Chapter 6\n\nOnly logicians are wise. Some philosophers are not logicians. All who love Aristotle are wise. Hence some of those who don’t love Aristotle are still philosophers.",
+    "crumbs": [
+      "Introduction to Logic",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Exams</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.logic/exams/index.html#chapter-8",
+    "href": "data/course.phil.logic/exams/index.html#chapter-8",
+    "title": "Exams",
+    "section": "Chapter 8",
+    "text": "Chapter 8\nGive negations of the following in natural English:\n\nIt is not the case that both Jack and Jill went up the hill.\n\nUsing the provided interpretations, render the following into formalized language:\nP: Jack loves Jill.\nQ: Jill loves Jack.\nR: Jo loves Jill.\nS: Jack is wise.\n\nJack doesn’t love Jill.\nJack is wise and he loves Jill.\nEither Jack loves Jill or Jo does.\nJack and Jill love each other.\nNeither Jack loves Jill nor does Jo.\nIt isn’t the case that Jack loves Jill nor does Jill love Jack.\nEither Jack is not wise or both he and Jo love Jill.\nIt isn’t the case that either Jack loves Jill or Jill loves Jack.\n\n\n\n\n\nSmith, Peter. 2021. An Introduction to Formal Logic. Second edition, reprinted with corrections. Monee, IL: Logic Matters.",
+    "crumbs": [
+      "Introduction to Logic",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Exams</span>"
     ]
   }
 ]

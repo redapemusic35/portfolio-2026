@@ -7,7 +7,8 @@
 * ***Group Structure:*** By second week, students form small groups of ***5 members*** each. This will be done using a randomizing method.
 * ***Rotating Dungeon Master (DM) Role:*** Every group member gets ***one turn*** to act as the Dungeon Master (DM) for a full session/day.
   * This distributes the workload fairly---no one is stuck doing all the prep.
-  * The DM takes ownership of that day's reading/topic transforming it into a D&D-style adventure. The DM will be given the adventure, they then give the problems to the other students in a turn-based format.
+  * The DM takes ownership of that day's reading/topic. A D&D-style adventure will be provided for the class and the DM will be given the adventure. They then give the problems to the other students in a turn-based format.
+  * The DM will role a d20 dice first to determine what positions the students will take.
 
 ## Session Format (When a Student is DM)
 
