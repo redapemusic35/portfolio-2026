@@ -1,5 +1,7 @@
 # D&D Campaigns
 
+The D&D assignment is not exactly like D&D though Ive tried to keep it as close as possible. The idea is to encourage students to talk through the philosophical issues we read about.
+
 ***Presentation (96 points):*** Your grade in this area depends on your preparation and participation in the DND class meetings. [We will use the dnd adventure sheet linked here to gage participation](https://drive.google.com/drive/folders/1ZAXxdpvv5jzylj8_18jXUTI68o9MLrXw?usp=sharing).
 
 ## Overall Assignment Setup
@@ -7,48 +9,46 @@
 * ***Group Structure:*** By second week, students form small groups of ***5 members*** each. This will be done using a randomizing method.
 * ***Rotating Dungeon Master (DM) Role:*** Every group member gets ***one turn*** to act as the Dungeon Master (DM) for a full session/day.
   * This distributes the workload fairly---no one is stuck doing all the prep.
-  * The DM takes ownership of that day's reading/topic. A D&D-style adventure will be provided for the class and the DM will be given the adventure. They then give the problems to the other students in a turn-based format.
+  * The DM takes ownership of that day's reading/topic. A D&D-style adventure will be provided for the class and the DM will be given the adventure. They then give the problems to the other students in a turn-based format. Ideally you begin by imagining being in a unique situation that makes you question some belief that you’ve always taken for granted, an example will be provided which you may use instead of creating your own.
   * The DM will role a d20 dice first to determine what positions the students will take.
 
-## Session Format (When a Student is DM)
+## Play Through
 
-### 1. Presentation of the Reading
+The D&D assignment is not exactly like D&D though Ive tried to keep it as close as possible. The idea is to encourage students to talk through the philosophical issues we read about.
 
-The DM presents a summary of the assigned text. They will then present a D&D structured adventure of the text (this will be provided).
+Ideally you begin by imagining being in a unique situation that makes you question some belief that you’ve always taken for granted.
 
-* The core issues of the text will be narratively framed already: The group will be a party of adventurers whose job it is to solve the issues before them in order to advance.
-* The reading is the "quest" or "dungeon" backdrop---e.g., a moral/ethical, metaphysical/epistemological dilemma in a kingdom, or a riddle posed by an adversarial entity (the DM).
+Each day that we do the activity, each group will have a new DM for that day. The DM rolls the dice to set the difficulty class. They then read the encounter.
 
-### 2. Challenges Presented One at a Time
+* There are billions of people (non sims) in the actual universe.
+* Therefore there will be billions of *sim* people in the sim universe.
+* Such a program, the *simUniverse*, will likely be very successful and there will be  many, many *simUniverses* sold.
 
-The DM introduces ***several challenges*** sequentially
+Therefore there will be many more sims than non sims.
 
-* Each challenge draws directly from key concepts, arguments, objections, or thought experiments in the reading.
-* Examples:
-  * You've created an intelligent and conscious sim population $\rightarrow$ Debate your obligations to them.
-  * You've fallen in love with a player in an MMO who you only know as their character $\rightarrow$ Explore is this true love?
+### Encounter
 
-### 3. Group Interaction & Participation
+The DM then reads an imagined context that motivates each of the reasons above in a turn based format.
 
-For each ***challenge***:
+Going around the table, the DM has each member of their group roll a d20 to determine what position on one of the reasons above, they are going to take. Do they defend the reason given, or do they critique it?
 
-* any group member can respond by:
-  * ***Asking a clarifying question*** about the challenge (probing the text/concept).
-  * ***Offering a suggestion/solution*** (proposing a philosophical position, argument, or counter).
-* The DM evaluates the response (as the "world" reacting).
-  * The responding player ***rolls dice (typically a d20, we will ignore modifiers this time around) to determine whether they defend the position or attack it.
-  * Success means attacking the position
-  * Failure means defending the position
+First, as a class we take three polls, one for each  reason. Is there more who agree with the reason above, or disagree with it?
 
-### 4. Collaborative Input & Multiple Rolls
+Next,
 
-After the first response/roll:
+* The DM rolls a dice and gets 10.
 
-* Otehr group member get turns to ***offer their own responses*** or build on/counter the previous one.
-* They also ***roll dice*** to suggest "other considerations" (e.g., other defenses of the DM's positions; other criticism's of the DM's position; edge cases; objections from the reading)
-* This creates a back-and-forth discussion, with dice adding chance, excitement, and stakes---mirroring how philosophical debates involve risk, uncertainty, and persuasion.
+Winning roll:
 
-### 5. Resolution & Reflection
+* If the other student rolls higher, they get to defend the intuitive position.
+* This is whichever position there is most agreement for.
 
-* The DM adjudicates the collective outcomes (what is plausible?)
-* The session ends with debrief: How did the "adventure" illuminate the reading? What arguments won/lost? How does this apply to real philosophy?
+Losing roll:
+
+* If the other student rolls lower than the DM, then they will have to defend the least likely answer.
+* The position with the least agreement for.
+
+The students gives their position which is recorded onto everyone’s tally sheets. At the end of the campaign for that day, each sheet should have a set of positions for each of the reasons above, either defending it, or objecting to it, one from each member of the  group.
+
+Everyone should have their own copy of the tally sheet. You will upload a photo of it to Canvas under the assignment module. You keep the tally sheet for the entire semester.
+

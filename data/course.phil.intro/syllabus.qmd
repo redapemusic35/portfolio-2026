@@ -13,14 +13,10 @@ format:
 
 In this course, we will use David Chalmer's book ***Reality+*** to look at questions humans have been asking for thousands of years. While the primary focus of the book is look at one question in particular "Are we in a simulation?", we use this question to frame others such as: "What does it mean to know that the sky is blue?", "is murder really wrong?", "How did I come to know that murder is wrong?".
 
-# 📍 Lecture Class Times
-
 ## 💻 Class Meeting Times
 
 - 📆 Mondays and Wednesdays
 - ⌚ 10:30am - 11:45am
-
-# 🧑🏻‍🏫 Syllabus
 
 ## Course Convenor
 
@@ -43,7 +39,7 @@ Times: 10:30-11:45
 Days: Mons and Weds or Tues Thurs
 Where: Davis Hall 209
 
-### Required Texts:
+## Required Texts:
 
 Chalmers, David J.. Reality+: Virtual Worlds and the Problems of Philosophy. United Kingdom: Penguin Books Limited, 2022.
 
@@ -51,7 +47,7 @@ Here is an amazon link to the book: https://www.amazon.com/Reality-Virtual-World
 
 This will also be supplemented with handouts.
 
-### Expectations:
+## Expectations:
 
 Come prepared to engage with assigned readings in class, referencing specific passages as prompted by the instructor.
 
@@ -63,21 +59,29 @@ Active participation and regular attendance are essential for success.
 
 Success: Active participation, timely submissions, and attendance are key.
 
-### Grading Calculation
+## Grading Calculation
 
 ***Weekly Reflections:*** Each reflection is worth a possible total of 8 points. There are 12 possible reflections. I will only grade 8 or your best reflections.
 
+{{< include ./weeklies/index.qmd >}}
+
 ***Reflective Analysis 1 & 2 (160 points):*** Each reflective analysis is worth a possible total of 20 points per category, times 4 categories equals 80 points times 2 reflection pieces.
+
+{{< include ./critical-reflections/index.qmd >}}
 
 ***Essay 1 & 2 (80 points):*** Each Quiz is worth a possible total of 10 points per category, times 4 categories equals 40 points times 2 Quizzes.
 
+{{< include ./quizzes/index.qmd >}}
+
 ***Presentation:*** Your grade in this area depends on your preparation and participation in the DND class meetings. [We will use the dnd adventure sheet linked here to gage participation](https://drive.google.com/drive/folders/1ZAXxdpvv5jzylj8_18jXUTI68o9MLrXw?usp=sharing).
+
+{{< include ./d&d-campaigns/index.qmd >}}
 
 Students will be evaluated based on a total of 640 points, with the final grade determined by the percentage of points earned. The components are as follows:
 
-#### For more detailed information regarding grades, [see the rubric here](./rubric.qmd)
+### Grading Rubric
 
-#### For more detailed information regarding the DND Adventures, [see the DND addendum here](./dnd-campaign.qmd)
+{{< include ./rubrics/rubric-1.qmd >}}
 
 ##### Attendance (5% of final grade, 32 points):
 
@@ -93,7 +97,7 @@ Grading Scale (equal increments of 8 points):
 | 5–6 | unexcused absences: | 8 points |
 | 6 | unexcused absences: | 0 points |
 
-## Reading Schedule
+### Reading Schedule
 
 ***Adjust all dates by one for Tuesday Thursday Course***
 
@@ -163,7 +167,7 @@ Wed Apr 29, last day of classes, Final Quiz
 
 Paper Due on Day of Final Quiz (Submit on Canvas)
 
-## University Supports and Policies
+### University Supports and Policies
 
 Please Note: Oral appeals for grade changes are NOT accepted. If you feel that you have an extremely strong case for a grade change, you may submit a one-page essay explaining your reasons to me within one week of your work being returned.
 
