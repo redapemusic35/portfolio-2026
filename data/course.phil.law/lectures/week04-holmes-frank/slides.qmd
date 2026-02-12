@@ -1,0 +1,203 @@
+## Oliver Wendell Holmes
+
+* The study of law is the study of predicting what to expect in the court of law
+* And knowing what the court's expectations are to avoid punishment
+* We want to be able to make predictions
+
+### Duties and Obligations
+
+* Legal Duty is the prediction of what would happen in the court of law.
+
+> a legal duty is nothing but a prediction that if a man does or omits certain things he will be made to suffer in this way or that way by judgment of the court; and so of a legal right. [3]
+
+* Law is the guise through which we develop our moral judgments.
+  * Encoded with moral language.
+  * Uses rights and duties with malice and intent (moral agency).
+* But the power of enforcement is not coextensive with any system of morals.
+* Rather the study of law is about prediction:
+
+> The prophesies of what courts will do in fact, and nothing more pretentious, are what I mean by the law.
+
+* Certain actions are correlated with certain consequences.
+
+### Two Accounts of Malevolent Motive
+
+* Traditional: The defendent being exonorated because he did not possess malice (moral sense).
+* Modern: The defendent is not exonorated because he caused harm (legal sense).
+
+> Signifies the tendency of his conduct under known circumstances was very plainly to cause the plantiff harm [12].
+
+## Lecture Notes – Oliver Wendell Holmes and Jerome Frank, Legal Realism
+
+• American Legal Realism is a critical position in legal theory inspired by the work of John Chapman Gray and Oliver Wendell Holmes.
+
+o A bit of background on Holmes: he was a legal scholar and US
+Supreme Court Justice. He was also a founding member, with William
+James, Charles Sanders Peirce and Chauncy Wright, of the
+Metaphysical Club, which was a group that met at Harvard in 1872. It was in this club that the position that developed into American
+Pragmatism was first developed. (Also the subject of a wonderful
+book by Louis Menand.)
+
+▪ These early pragmatists were metaphysical quietists.
+▪ Committed to the idea that if something doesn’t make a
+difference in practice, then it’s not worth talking about.
+Differences/distinctions that don’t make a difference in
+practice are no differences/distinctions at all.
+
+▪ Peirce’s pragmatic maxim:
+• “Consider what effects, which might conceivably have
+practical bearings, we conceive the object of our
+conception to have. Then, our conception of those
+effects is the whole of our conception of the object.”
+(EP1: 132)
+
+▪ James called his pragmatism “radical empiricism”
+• ‘the only things that shall be debatable among
+philosophers shall be things definable in terms drawn
+from experience’
+▪ We can see these ideas imprinted on Holmes’s thought about
+“the law.”
+• "The prophecies of what the courts will do in fact, and
+nothing more pretentious, are what I mean by the law.”
+• The law is nothing more than its practical effects, and
+those are affected on others by the courts.
+• Holmes argues for this position on an empirical basis
+rather than on conceptual grounds, as Hart, Austin, and
+the Natural Lawyers defended their positions.
+
+• He sought to understand both how law shows up in the
+experience of those who it affects and how judges
+actually arrived at their decisions.
+
+o How do those who are governed actually experience the law?
+
+▪ They experience it as an imposition of public force:
+
+• “You can see very plainly that a bad man has as much
+reason as a good one for wishing to avoid an encounter
+with the public force, and therefore you can see the
+practical importance of the distinction between morality
+and law. A man who cares nothing for an ethical rule
+which is believed and practised by his neighbors is likely
+nevertheless to care a good deal to avoid being made to
+pay money, and will want to keep out of jail if he can.”
+
+• Holmes, then, maintains the separability thesis, but he
+does so on empirical grounds
+
+o He is not a cynic, however…his purpose is to
+contend that if one wants to study and practice
+the law, one must look at it from a business-like
+perspective, and this means seeing it as distinct
+from law.
+
+• Though law is, he says, “the witness and external
+deposit of our moral lives.”
+
+▪ So, then, we can make our inquiry more precise by asking how
+the bad man experiences the law.
+
+• He wants to know what he can get away with, what he
+can do without incurring the imposition of public force.
+• “But what does it mean to a bad man? Mainly, and in
+the first place, a prophecy that if he does certain things
+he will be subjected to disagreeable consequences by
+way of imprisonment or compulsory payment of
+money.”
+
+• The bad man is concerned with law as a prediction of
+likely consequences, and since those consequences are determined by the court, he is concerned with law
+merely as a prediction of how the courts will decide.
+
+o Holmes examples: contract
+
+• How would Hart respond to this understanding of law as
+a prediction of what the courts will decide???
+
+▪ In the making of such predictions (and in the deciding of cases)
+we do well to not confuse the moral use of terms and their
+legal use:
+
+• Example of Malice
+
+o In morality, malice requires ill intent
+
+o In law, it need not, though it may.
+
+▪ “I think that the law regards the infliction of
+temporal damage by a responsible person
+as actionable, if under the circumstances
+known to him the danger of his act is
+manifest according to common experience,
+or according to his own experience if it is
+more than common, except in cases where
+upon special grounds of policy the law
+refuses to protect the plaintiff or grants a
+privilege to the defendant. I think that
+commonly malice, intent, and negligence
+mean only that the danger was manifest to
+a greater or less degree, under the
+circumstances known to the actor, although
+in some cases of privilege malice may mean
+an actual malevolent motive, and such a
+motive may take away a permission
+knowingly to inflict harm, which otherwise
+would be granted on this or that ground of
+dominant public good.”
+• Example of Contracts:
+o In morals, contracts or promises are dependent
+on the internal state of the persons’ minds.
+
+o In law, contracts are purely formal. Whatever the
+court determines one to be contractually
+obligated to on the basis of the executed contract
+is what one is obligated to no matter the internal
+state of one’s mind.
+
+o How do (and should) judges decide cases?
+
+▪ We tend to think that judges apply the law, but legal realists
+think that judges are mostly in the business of making law.
+
+▪ Why?
+
+• the class of available legal materials is insufficient to
+logically entail a unique legal outcome in most cases
+worth litigating at the appellate level (the Local
+Indeterminacy Thesis);
+
+• in such cases, judges make new law in deciding legal
+disputes through the exercise of a lawmaking discretion
+(the Discretion Thesis); and
+
+• judicial decisions in indeterminate cases are influenced
+by the judge's political and moral convictions, not by
+legal considerations.
+
+▪ Examine this passage (p 466)
+
+• Behind the logical form lies a judgment as to the relative
+worth and importance of competing legislative grounds,
+often an inarticulate and unconscious judgment, it is
+true, and yet the very root and nerve of the whole
+proceeding. You can give any conclusion a logical form.
+You always can imply a condition in a contract. But why
+do you imply it? It is because of some belief as to the
+practice of the community or of a class, or because of
+some opinion as to policy, or, in short, because of some
+attitude of yours upon a matter not capable of exact
+quantitative measurement, and therefore not capable of
+founding exact logical conclusions. Such matters really
+are battle grounds where the means do not exist for determinations that shall be good for all time, and where the decision can do no more than embody the preference of a given body in a given time and place. We do not realize how large a part of our law is open to reconsideration upon a slight change in the habit of the public mind.
+
+▪ Judges, Holmes thinks, ought to be more explicit about these
+hidden drivers of their decisions, and ought to be clear that
+they make decisions with social advantage in mind.
+
+▪ This would allow for a re-examination of history and tradition
+in the law.
+
+• Turn to p. 470.
+
+• Example of whether we can know that the criminal law
+does more good than harm in present circumstances.

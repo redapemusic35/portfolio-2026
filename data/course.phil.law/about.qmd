@@ -1,0 +1,144 @@
+## Course Convenor
+
+![](/figures/people/professor_octopus.png){fig-align="left" fig-alt="Photo of Dr. Reynolds" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;"}
+**[Reynolds](#)** <br/>
+ Dr. Monty Reynolds<br/>
+[Stetson University](#)</a><br/>
+📧 [mreynolds1@stetson.edu](mailto:)
+
+Office Hours:
+
+- When:
+  * Tuesday: 1:00–3:00 PM
+  * Thursday: 1:00–3:00 PM
+- Where: Elizabeth Hall 104
+- How to book: Drop in, email, or book via [Microsoft Bookings](https://outlook.office.com/bookwithme/user/59570715559b43fdabc651a89a3ed839@stetson.edu?anonymous&ismsaljsauthenabled&ep=plink)
+
+## Course Information
+
+### Required Texts:
+
+[Feinberg, Joel, and Jules L. Coleman. 2008. Philosophy of Law / Edited by Joel Feinberg, Jules Coleman. 8th ed. Thomson/Wadsworth.
+](https://www.amazon.com/Philosophy-text-Eighth-Feinberg-Coleman/dp/B004IS2MP6/ref=monarch_sidesheet_title)
+
+Required: Handouts
+
+### Expectations:
+
+Come prepared to engage with assigned readings in class, referencing specific passages as prompted by the instructor.
+
+Bring physical or digital copies of readings to class for annotation and short reflections.
+
+Submit all assignments via Canvas by the due date.
+
+Active participation and regular attendance are essential for success.
+
+### Late Assignment Policy
+
+Penalty: 10% deduction per day late.
+
+Makeup Process: Email the instructor within 48 hours to arrange an extension. No credit if not submitted by agreed date.
+
+### Success: Active participation, timely submissions, and attendance are key.
+
+## Grading Calculation
+
+***Weekly Reflections:*** Each reflection is worth a possible total of 8 points. There are 12 possible reflections. I will only grade 8 or your best reflections.
+
+***Reflective Analysis 1 & 2 (160 points):*** Each reflective analysis is worth a possible total of 20 points per category, times 4 categories equals 80 points times 2 reflection pieces.
+
+***Essay 1 & 2 (80 points):*** Each Quiz is worth a possible total of 10 points per category, times 4 categories equals 40 points times 2 Quizzes.
+
+***Presentation:*** Your grade in this area depends on your preparation and participation in the DND class meetings. [We will use the dnd adventure sheet linked here to quantify participation](https://drive.google.com/drive/folders/1ZAXxdpvv5jzylj8_18jXUTI68o9MLrXw?usp=sharing).
+
+Students will be evaluated based on a total of 640 points, with the final grade determined by the percentage of points earned. The components are as follows:
+
+#### For more detailed information regarding grades, [see the rubric here](./weeks/rubric.qmd)
+
+#### For more detailed information regarding the DND Adventures, [see the DND addendum here](./weeks/dnd-campaign.qmd)
+
+### Attendance (5% of final grade, 32 points):
+
+* Based on unexcused absences throughout the semester.
+
+Grading Scale (equal increments of 8 points):
+
+||||
+|---|---|---|
+| 0–1 | unexcused absences: | 32 points |
+| 2 | unexcused absences: | 24 points |
+| 3–4 | unexcused absences: | 16 points |
+| 5–6 | unexcused absences: | 8 points |
+| 6 | unexcused absences: | 0 points |
+
+## Course Schedule
+
+Here is the syllabus formatted as a clean Markdown table using only the vertical line `|` as the separator (with a properly spanned title row):
+
+| Day | Date | Discussion |
+| --- | --- | --- |
+| Tuesday | January 13 | Introduction to Philosophy of Law and Organization of Class |
+| Thursday | January 15 | Fuller, "The Case of the Speluncean Explorers" (Handout - Canvas) |
+| Tuesday | January 20 | Kretzmann, “Lex Iniusta Non Est Lex: Laws on Trial” (Handout – Canvas) |
+| Thursday | January 22 | Bentham, “The Principles of Morals and Legislation” (Handout, pages 224-248 -D2L) |
+| Tuesday | January 27 | Bentham (Continued) |
+| Thursday | January 29 | Hart, “Law as the Union of Primary and Secondary Rules” (crc, 53) |
+| Tuesday | February 3 | Hart (Continued) |
+| Thursday | February 5 | Dworkin, “The Model of Rules” (148) |
+| Tuesday | February 10 | Dworkin, “Integrity in Law” (169) |
+| Thursday | February 12 | Holmes, “The Path of the Law” (197); Frank, “Legal Realism” (205) |
+| Tuesday | February 17 | Critical Legal Studies (Handout – D2L) |
+| Thursday | February 19 | Plato, Crito (Handout – D2L) |
+| Tuesday | February 24 | Crito (Continued) |
+| Thursday | February 26 | Quiz 1 |
+| Tuesday | March 3 | Spring Break |
+| Thursday | March 5 | Spring Break |
+| Tuesday | March 10 | Hart, “Postscript: Responsibility and Retribution” (317) |
+| Thursday | March 12 | Duff, “Choice, Character, and Action” (328) |
+| Tuesday | March 17 | Parker, “Blame, Punishment and the Role of Result” (Handout – D2L) |
+| Thursday | March 19 | Spring Break |
+| Tuesday | March 24 | Spring Break |
+| Thursday | March 26 | Self Defense (Handout – D2L) |
+| Tuesday | March 31 | Self Defense (Continued) |
+| Thursday | April 2 | Excuse, Justification, Subjective/Objective Liability (Handout – D2L) |
+| Tuesday | April 7 | Mill, “On Liberty” (258) |
+| Thursday | April 9 | Dworkin, “Paternalism” (271); Griswold v. Connecticut (summary on www) |
+| Tuesday | April 14 | Devlin, “Morals and the Criminal Law” (283) |
+| Thursday | April 16 | “The Moral Significance of Terrorism” (Handout – D2L) |
+| Tuesday | April 21 | Dershowitz, “Should the Ticking Bomb Terrorist be Tortured” (Paper Due at End of Class) |
+| Thursday | April 23 | Bork, “The Original Understanding” (Handout – D2L) |
+| Tuesday | April 28 | Bork (Continued), last day of classes|
+| Thursday | April 30 | Final exams, final paper due, TBD |
+| Tuesday | May 3 | Final exams TBD |
+
+## Grading Calculation
+
+Total Points: 640 points, distributed as above.
+
+* Formula: Raw scores summed across sheets; final percentage = SUM(all assignment points)/640 * 100.
+
+***Letter Grade:***
+
+Final grade uses the following scale (no rounding):
+
+| Letter Grade | Percentage |
+|---|---|
+| A+ | 97–100% |
+| A | 93–96% |
+| A- | 90–92% |
+| B+ | 87–89% |
+| B | 83–86% |
+| B- | 80–82% |
+| C+ | 77–79% |
+| C | 73–76% |
+| C- | 70–72% |
+| D+ | 67–69% |
+| D | 63–66% |
+| D- | 60–62% |
+| F | <60% |
+
+### Example: Perfect scores = 32 + 160 + 160 + 80 + 80 + 96 + 32 = 640 points (100%, A+).
+
+## University Supports and Policies
+
+

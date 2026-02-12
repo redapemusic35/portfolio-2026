@@ -1,0 +1,198 @@
+---
+subtitle: "Kretzmann, Lex Inuista Non Est Lex"
+title: "<font style='font-size:1em;'>🗓️ Week 03<br/> Phil Law</font>"
+author: Prof. [Reynolds](#)
+institute: '[Stetson University](#)'
+date: 02 September 2026
+date-meta: 14 March 2023
+date-format: "DD MMM YYYY"
+toc: false
+toc-depth: 1
+toc-title: "Laws on trial"
+center-title-slide: false
+from: markdown+emoji
+format:
+  revealjs:
+    theme: moon
+    fig-responsive: true
+    font-size: 10
+    slide-number: true
+    incremental: true
+    mouse-wheel: false
+    auto-play-media: true
+    preview-links: auto
+    logo: /figures/icons/course_favicon.png
+    css: /css/styles_slides.css
+    footer: 'PHIL104Q -- Introduction to Logic'
+---
+
+# Introduction
+
+## Three Questions
+
+1. Can an individual citizen decide that the law is unjust?
+2. What grounds should that individual citizen decide that the law is unjust?
+3. If the judgment goes against the state, what is that citizen entitled or obliged to do about it?
+
+## The Dismissive Judgment Regarding Unjust Laws
+
+* The dismissive judgment.
+* Examples of the judgments:
+
+> Such societies, we are now, of course contending, are no constitutional states, just as enactments, so far as they are not for the common interest of the whole community, are no true laws (*Laws*, IV 715B)
+
+## Hippias Major D
+
+1. Laws are beneficial to the citizens of a community
+2. Therefore law makers make laws to be to the greatest benefit of that community
+3. So if law makers fail to make a good law, then law makers have failed to make a law
+
+## Non Est Lex, the slogan and the issue
+
+***Inclusion Conditions***
+
+Here is an equivocation between evaluative judgments and ontological ones.
+
+Claims about natural ontological inclusion conditions
+
+> Many kinds of things have inclusion conditions that are entirely non-evaluative. For instance, it seems reasonable to suppose that no natural kinds have evaluative conditions among their inclusion among their standard inclusion conditions.
+
+---
+
+Claims about non-natural ontological inclusion conditions
+
+* These are entirely non-evaluative, such as the iambic pentameter
+
+The employee example is interesting. What makes an employee?:
+
+* That they work?
+* That they do just enough work?
+* That they do not do any work but are still paid by an employer?
+
+---
+
+Overt and Invariable evaluative kinds:
+
+* literary master piece, child prodigy
+
+## Summary of the Traditional Slogan
+
+> those who formulated wicked unjust statutes for nations, thereby breaking their promises and agreements, put into effect *anything* but laws. It may thus be clear that in the very definition of the term 'law there inheres the idea and principle of choosing what is just and true'".
+
+I.e.,
+
+Law == justice and truth
+
+## Cases with evaluative and non-evaluative inclusion conditions
+
+* Plagiarized term papers
+* Corrupt judges
+* Counter fit dollar bills
+
+---
+
+Difference between evaluative and ontological judgments.
+
+* Is a corrupt judge still a judge?
+* Is a lazy employee still an employee?
+
+These judgments are different in kind from judgments about counter fit dollar bills but they are made analogously.
+
+Lyon's rejects the slogan, Kretzmann finds truth in it that is not paradoxical.
+
+---
+
+1. Laws can intelligently be judged good or bad
+2. Wise or foolish
+3. Just or unjust.
+
+## Conditional of Moral Legal Standards
+
+> If there *are* moral standards by which laws may properly be judged, then it would seem that laws can *be* good or bad, just or unjust.
+
+## Aquinas Moral Standards
+
+Some Complications:
+
+1. Misleading: laws framed by humans are either just or unjust.
+2. How can a law be unjust if an unjust law is not a law?
+
+## The Positivist Version of the Problem
+
+> The existence of law is one thing; its merit or demerit is another. Whether it be or be not is one enquiry; whether it be or be not conformable to an assumed standard, is a different enquiry.
+
+---
+
+1. Existence
+2. Evaluation
+
+## Another Dissent
+
+> Now to say that human laws which conflict with the divine law are not binding, that is to say, are not *laws*, is to talk stark non-sense. [Austin]
+
+Austin's point:
+
+* Unjust laws are not promulgated. But this is false just as plagiarized papers often get turned in.
+* Unjust laws are not enforced, but this is also not right.
+
+1. Promulgation
+2. Enforcement
+
+> Austin reads the *non-est-lex* slogan as if it entailed the absurd claim that unjust laws are never promulgated or enforced, and then takes himself to have refuted the slogan by pointed out in patronizing detail that they sometimes are.
+
+# The Four Types of Law and the Relations
+
+1. Eternal Law
+2. Natural Law
+3. Human Law
+4. Divine Law
+
+## Eternal Law
+
+* The foundation of the other kinds of law.
+* Is God's plan
+* Providence
+* Intellect
+* I.e., God himself as the ruler of the universe
+
+## Natural Law
+
+* Only in human beings
+  * innate principles of rational action
+  * human laws derive from it
+
+## Human laws
+
+As derived from moral rules. However:
+
+> It is on the basis of the precepts of natural law, as from general and indemonstrable principles of a certain sort, that human reason must proceed to certain matters that must be dealt with in more detail. And those detailed dispositions, arrived at in accordance with human reason, are called human laws, *provided that the other conditions that pertain to the essence of law have been met.*
+
+## Divine Law
+
+* Moral Legal concepts found in scripture
+* Revealed elements of the eternal law
+  * Aids to human life
+  * Goal of human action and existence
+
+# Aquinas' Conception of Natural Law
+
+## Natural law is natural because it is grounded in human nature
+
+* Set of essential potentialities
+* Associated with inclinations to actualize those potentialities
+* Objects of inclinations are recognized by us as good or bad
+
+As such,
+
+1. Fundamental directives of human action
+2. Grounded in principles of practical reason
+
+# Definition and Evaluation in Aquinas' Treatise on Law
+
+# Inclusion Conditions for Law
+
+# Non-Evaluative and Evaluative Conditions
+
+# Aquinas' Assessments of Law
+
+# Laws on Trial in the Court of Conscience

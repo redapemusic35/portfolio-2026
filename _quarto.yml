@@ -20,6 +20,12 @@ book:
         - ./data/course.phil.intro/syllabus.qmd
         - ./data/course.phil.intro/lectures.qmd
         - ./data/course.phil.intro/assignments.qmd
+    - part: "Philosophy of Law"
+      chapters:
+        - ./data/course.phil.law/index.qmd
+        #- ./data/course.phil.law/syllabus.qmd
+        - ./data/course.phil.law/lectures/index.qmd
+        - ./data/course.phil.law/assignments/index.qmd
     - summary.qmd
     - references.qmd
 

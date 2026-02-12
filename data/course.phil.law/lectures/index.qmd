@@ -1,0 +1,17 @@
+---
+title: Lectures
+---
+
+## Week 1
+
+## Week 2
+
+## Week 3
+
+## Week 4
+
+## Week 5
+
+{{< include ./../lectures/week04-holmes-frank/slides.qmd >}}
+
+## Week 6
