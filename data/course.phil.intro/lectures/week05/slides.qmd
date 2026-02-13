@@ -32,12 +32,6 @@ format:
 * Say that it is a very popular program, then millions if not billions may have *SimUniverse* on their devices.
 * Therefore, there will be many more sims than non sims.
 
----
-
-![](./../../../readings/simverse-p-81.png)
-
----
-
 # What is happening in this Chapter?!
 
 ## Questions Philosophers Ask
@@ -55,12 +49,6 @@ format:
 ---
 
 But notice that it is not just about providing answers to questions. Sometimes it is how we provide an answer that is even more interesting.
-
----
-
-Consider:
-
-![](../../../readings/poss-necc.png)
 
 ---
 
@@ -99,11 +87,7 @@ At least one of the following propositions is true (a proposition is a statement
 
 # Strong vs. Weak Verificationism
 
-By now, as before, you may be criticizing the:
-
-![](../../../readings/transcendence-ayer.png)
-
----
+By now, as before, you may be criticizing the following argument:
 
 1. We normally rely on our senses for evidence
 2. But Bostrom's argument does not rely on his senses
@@ -111,16 +95,14 @@ By now, as before, you may be criticizing the:
 
 ---
 
-You are probably used to the following inference patters:
+And you are probably used to the following inference patters:
 
 1. Some experience, there is water falling on my face.
 2. Some belief / conclusion, it is raining today.
 
 ---
 
-Your counter looks like this:
-
-![](../../../readings/empirical-ayer.png)
+So your counter looks like this:
 
 ---
 
@@ -131,8 +113,6 @@ Your counter looks like this:
 ---
 
 Here, Ayer agrees with you:
-
-![](../../../readings/denial-ayer.png)
 
 ---
 

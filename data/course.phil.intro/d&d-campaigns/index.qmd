@@ -4,7 +4,7 @@ The D&D assignment is not exactly like D&D though Ive tried to keep it as close 
 
 ***Presentation (96 points):*** Your grade in this area depends on your preparation and participation in the DND class meetings. [We will use the dnd adventure sheet linked here to gage participation](https://drive.google.com/drive/folders/1ZAXxdpvv5jzylj8_18jXUTI68o9MLrXw?usp=sharing).
 
-## Overall Assignment Setup
+### Overall Assignment Setup
 
 * ***Group Structure:*** By second week, students form small groups of ***5 members*** each. This will be done using a randomizing method.
 * ***Rotating Dungeon Master (DM) Role:*** Every group member gets ***one turn*** to act as the Dungeon Master (DM) for a full session/day.
@@ -12,7 +12,7 @@ The D&D assignment is not exactly like D&D though Ive tried to keep it as close 
   * The DM takes ownership of that day's reading/topic. A D&D-style adventure will be provided for the class and the DM will be given the adventure. They then give the problems to the other students in a turn-based format. Ideally you begin by imagining being in a unique situation that makes you question some belief that you’ve always taken for granted, an example will be provided which you may use instead of creating your own.
   * The DM will role a d20 dice first to determine what positions the students will take.
 
-## Play Through
+### Play Through
 
 The D&D assignment is not exactly like D&D though Ive tried to keep it as close as possible. The idea is to encourage students to talk through the philosophical issues we read about.
 

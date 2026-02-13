@@ -6,7 +6,7 @@ title: "Assignments"
 
 {{< include ./quizzes/index.qmd >}}
 
-{{< include ./critical-reflections/index.qmd >}}
+{{< include ./essay-assignments/index.qmd >}}
 
 {{< include ./d&d-campaigns/index.qmd >}}
 

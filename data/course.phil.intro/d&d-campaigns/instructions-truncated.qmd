@@ -1,0 +1,14 @@
+***D&D Campaigns (96 points):*** Your grade in this area depends on your preparation and participation in the DND class meetings. [We will use the dnd adventure sheet linked here to gage participation](https://drive.google.com/drive/folders/1ZAXxdpvv5jzylj8_18jXUTI68o9MLrXw?usp=sharing).
+
+The DM presents a summary of the assigned text. They will then present a D&D structured adventure of the text (this will be provided). The core issues of the text will be narratively framed already: The group will be a party of adventurers whose job it is to solve the issues before them in order to advance. The reading is the "quest" or "dungeon" backdrop---e.g., a moral/ethical, metaphysical/epistemological dilemma in a kingdom, or a riddle posed by an adversarial entity (the DM).
+
+The DM introduces ***several challenges*** sequentially. Each challenge draws directly from key concepts, arguments, objections, or thought experiments in the reading. Examples: You've created an intelligent and conscious sim population $\rightarrow$ Debate your obligations to them. You've fallen in love with a player in an MMO who you only know as their character $\rightarrow$ Explore is this true love?
+
+For each ***challenge*** any group member can respond by: ***Asking a clarifying question*** about the challenge (probing the text/concept). ***Offering a suggestion/solution*** (proposing a philosophical position, argument, or counter). The DM evaluates the response (as the "world" reacting). The responding player ***rolls dice*** (typically a d20, we will ignore modifiers this time around) to determine whether they defend the position or attack it.
+
+* Success means attacking the position
+* Failure means defending the position
+
+After the first response/roll: Each person's response will be based on whether they win or loose the dice roll. Other group member get turns to ***offer their own responses*** or build on/counter the previous one. They also ***roll dice*** to suggest "other considerations" (e.g., other defenses of the DM's positions; other criticism's of the DM's position; edge cases; objections from the reading). This creates a back-and-forth discussion, with dice adding chance, excitement, and stakes---mirroring how philosophical debates involve risk, uncertainty, and persuasion.
+
+Resolution & Reflection occurs when the DM adjudicates the collective outcomes (what is plausible?). The session ends with debrief: How did the "adventure" illuminate the reading? What arguments won/lost? How does this apply to real philosophy? Did you change your original position?
