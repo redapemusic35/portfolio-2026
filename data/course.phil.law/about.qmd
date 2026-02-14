@@ -1,6 +1,6 @@
 ## Course Convenor
 
-![](/figures/people/professor_octopus.png){fig-align="left" fig-alt="Photo of Dr. Reynolds" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;"}
+![](./../figures/professor_octopus.png){fig-align="left" fig-alt="Photo of Dr. Reynolds" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;"}
 **[Reynolds](#)** <br/>
  Dr. Monty Reynolds<br/>
 [Stetson University](#)</a><br/>
