@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Exam 1 – Teaching-portfolio</title>
+<title>Answer Key to Exam 1 – Teaching-portfolio</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -91,6 +91,35 @@ div.csl-indent {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -103,7 +132,7 @@ div.csl-indent {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../data/course.phil.logic/index.html">Introduction to Logic</a></li><li class="breadcrumb-item"><a href="../../../data/course.phil.logic/exams/index.html"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Exam 1</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../data/course.phil.logic/index.html">Introduction to Logic</a></li><li class="breadcrumb-item"><a href="../../../data/course.phil.logic/exams/index.html"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Answer Key to Exam 1</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -137,7 +166,7 @@ div.csl-indent {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../../../intro.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Introduction</span></span></a>
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">intro.html</span></span></a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
@@ -170,7 +199,7 @@ div.csl-indent {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../../../data/course.phil.logic/exams/index.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Exam 1</span></span></a>
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Answer Key to Exam 1</span></span></a>
   </div>
 </li>
       </ul>
@@ -262,9 +291,9 @@ div.csl-indent {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../data/course.phil.logic/index.html">Introduction to Logic</a></li><li class="breadcrumb-item"><a href="../../../data/course.phil.logic/exams/index.html"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Exam 1</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../data/course.phil.logic/index.html">Introduction to Logic</a></li><li class="breadcrumb-item"><a href="../../../data/course.phil.logic/exams/index.html"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Answer Key to Exam 1</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Exam 1</h1>
+<h1 class="title">Answer Key to Exam 1</h1>
 </div>
 
 
@@ -285,7 +314,7 @@ div.csl-indent {
 <h5 class="anchored" data-anchor-id="chapter-1">Chapter 1</h5>
 <p>What are the premisses, inference markers, and conclusions of the following arguments? Which of these arguments do you suppose involve deductively valid reasoning? Why?</p>
 <blockquote class="blockquote">
-<p>Some forms or patterns of inference are deductively reliable, then, meaning that every inference step which is an instance of the same pattern is valid <span class="citation" data-cites="smit21">(<a href="../../../references.html#ref-smit21" role="doc-biblioref">Smith 2021, 6</a>)</span>.</p>
+<p>Some forms or patterns of inference are deductively reliable, then, meaning that every inference step which is an instance of the same pattern is valid <span class="citation" data-cites="smit21">(<a href="#ref-smit21" role="doc-biblioref">Smith 2021, 6</a>)</span>.</p>
 </blockquote>
 <p>(Just improvise, and answer the best you can!)</p>
 <ol type="1">
@@ -344,9 +373,127 @@ S: Peter is wise.</p>
 <li>Either Peter is not wise or both he and Jesse love Jane.</li>
 <li>It isn’t the case that either Peter loves Jane or Jane loves Peter.</li>
 </ol>
+</section>
+<section id="chapter-1-1" class="level5">
+<h5 class="anchored" data-anchor-id="chapter-1-1">Chapter 1</h5>
+<p>What are the premisses, inference markers, and conclusions of the following arguments? Which of these arguments do you suppose involve deductively valid reasoning? Why?</p>
+<blockquote class="blockquote">
+<p>Some forms or patterns of inference are deductively reliable, then, meaning that every inference step which is an instance of the same pattern is valid <span class="citation" data-cites="smit21">(<a href="#ref-smit21" role="doc-biblioref">Smith 2021, 6</a>)</span>.</p>
+</blockquote>
+<p>(Just improvise, and answer the best you can!)</p>
+<ol type="1">
+<li></li>
+</ol>
+<ol type="1">
+<li>The Democrats will win the election.</li>
+<li>There’s only a week to go.</li>
+<li>The polls put them 20 points ahead, and a lead of 20 points with only a week to go to polling day can’t be overturned.</li>
+</ol>
+<ol start="2" type="1">
+<li></li>
+</ol>
+<ol type="1">
+<li>Most pelicans are corrupt.</li>
+<li>[After all], most ordinary birds are corrupt – and pelicans are ordinary birds.</li>
+</ol>
+<p>Invalid</p>
+<ol start="3" type="1">
+<li></li>
+</ol>
+<ol type="1">
+<li>Anyone who is well prepared for the race, even if she doesn’t come in first, will at least come in the top 10.</li>
+<li>Jane is well prepared,</li>
+<li>[so] she will at least come in the top ten.</li>
+</ol>
+<p>Valid</p>
+</section>
+<section id="chapter-2-1" class="level5">
+<h5 class="anchored" data-anchor-id="chapter-2-1">Chapter 2</h5>
+<p>Which of the following claims are true and which are false? Explain why the true claims hold good, and give counterexamples to the false claims.</p>
+<ol start="4" type="1">
+<li><p>If an argument has false premisses and a true conclusion, then the truth of the conclusion can’t really be owed to the premisses: so the argument cannot really be valid. (False)</p></li>
+<li><p>You can make an invalid argument valid by adding extra premisses. (True)</p></li>
+</ol>
+</section>
+<section id="chapter-3-1" class="level5">
+<h5 class="anchored" data-anchor-id="chapter-3-1">Chapter 3</h5>
+<p>Which of the following patterns of inference are deductively reliable, meaning that all their instances are valid? (Here ‘F’, ‘G’ and ‘H’ hold the places for general terms.) If you suspect an inference pattern is unreliable, find an instance which has to be invalid because it has true premises and a false conclusion.</p>
+<p>Deductively Reliable so Valid</p>
+<ol start="6" type="1">
+<li>Some F are G; no G is H; so, some F are not H.</li>
+</ol>
+</section>
+<section id="chapter-4-1" class="level5">
+<h5 class="anchored" data-anchor-id="chapter-4-1">Chapter 4</h5>
+<p>Which of the following arguments are valid? Where an argument is valid, sketch an informal proof. Some of the examples are enthymemes that need repair.</p>
+<ol start="7" type="1">
+<li>Only logicians are good philosophers. No existentialists are logicians. Some existentialists are French philosophers. So, some French philosophers are not good philosophers.</li>
+</ol>
+<ol type="a">
+<li>Only logicians are good philosophers.</li>
+<li>No existentialists are logicians.</li>
+<li>Some existentialists are French philosophers.</li>
+<li>So, some French philosophers are not good philosophers.</li>
+</ol>
+<ol type="1">
+<li>Only L are G (Premise)</li>
+<li>No E are L (Premise)</li>
+<li>Some E are F (Premise)</li>
+<li>Some F are E (from 3)</li>
+<li>Some F are not L (from 2 and 4)</li>
+<li>So some F are not G (from 1 and 5)</li>
+</ol>
+<ol start="8" type="1">
+<li>No philosopher is illogical. Jones keeps making argumentative mistakes. No logical person keeps making argumentative mistakes. All existentialists are philosophers. So, Jones is not an existentialist.</li>
+</ol>
+<ol type="1">
+<li>No P is I (Premise)</li>
+<li>J is M (Premise)</li>
+<li>No L is M (Premise)</li>
+<li>All E are P (Premise)</li>
+<li>No J is L (from 2 and 3)</li>
+<li>No J is P (from 1 and 5)</li>
+<li>So no J is E (from 4 and 6)</li>
+</ol>
+</section>
+<section id="chapter-6-1" class="level5">
+<h5 class="anchored" data-anchor-id="chapter-6-1">Chapter 6</h5>
+<ol start="9" type="1">
+<li>Only logicians are wise. Some philosophers are not logicians. All who love Aristotle are wise. Hence some of those who don’t love Aristotle are still philosophers.</li>
+</ol>
+<ol type="1">
+<li>Only L are W (Premise)</li>
+<li>Some P are not L (Premise)</li>
+<li>All A are W (Premise)</li>
+<li>All A are L (from 1 and 3)</li>
+<li>Some P are not A (from 2 and 4)</li>
+<li>Hence some of those who don’t love Aristotle are still philosophers. (from 5)</li>
+</ol>
+</section>
+<section id="chapter-8-1" class="level5">
+<h5 class="anchored" data-anchor-id="chapter-8-1">Chapter 8</h5>
+<p>Give negations of the following in natural English:</p>
+<ol start="10" type="1">
+<li>It is not the case that both Jack and Jill went up the hill.</li>
+</ol>
+<p>Using the provided interpretations, render the following into formalized language:</p>
+<p>P: Peter loves Jane.<br>
+Q: Jane loves Peter.<br>
+R: Jesse loves Jane.<br>
+S: Peter is wise.</p>
+<ol type="1">
+<li>Peter doesn’t love Jane. (<span class="math inline">\(\neg\)</span> P)</li>
+<li>Peter is wise and he loves Jane. (S <span class="math inline">\(\land\)</span> P)</li>
+<li>Either Peter loves Jane or Jesse does. (P <span class="math inline">\(\lor\)</span> R)</li>
+<li>Peter and Jane love each other. (P <span class="math inline">\(\land\)</span> Q)</li>
+<li>Neither Peter loves Jane nor does Jesse. <span class="math inline">\(\neg\)</span> (P <span class="math inline">\(\lor\)</span> R) or (<span class="math inline">\(\neg\)</span> P <span class="math inline">\(\land\)</span> <span class="math inline">\(\neg\)</span> R)</li>
+<li>It isn’t the case that Peter loves Jane nor does Jane love Peter. <span class="math inline">\(\neg\)</span> (P <span class="math inline">\(\lor\)</span> Q)</li>
+<li>Either Peter is not wise or both he and Jesse love Jane. <span class="math inline">\(\neg\)</span> S <span class="math inline">\(\lor\)</span> (P <span class="math inline">\(\land\)</span> R)</li>
+<li>It isn’t the case that either Peter loves Jane or Jane loves Peter. <span class="math inline">\(\neg\)</span> (P $Q)</li>
+</ol>
 
 
-<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
 <div id="ref-smit21" class="csl-entry" role="listitem">
 Smith, Peter. 2021. <em>An Introduction to Formal Logic</em>. Second edition, reprinted with corrections. Monee, IL: Logic Matters.
 </div>
