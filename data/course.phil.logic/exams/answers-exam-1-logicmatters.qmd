@@ -1,0 +1,115 @@
+---
+title: Answer Key to Exam 1
+format: hikma-pdf
+---
+
+##### Chapter 1
+
+What are the premisses, inference markers, and conclusions of the following arguments? Which
+of these arguments do you suppose involve deductively valid reasoning? Why?
+
+> Some forms or patterns of inference are deductively reliable, then, meaning
+that every inference step which is an instance of the same pattern is valid [@smit21, 6].
+
+(Just improvise,
+and answer the best you can!)
+
+(1)
+
+1. The Democrats will win the election.
+2. There’s only a week to go.
+3. The polls put them 20 points ahead, and a lead of 20 points with only a week to go to polling day can’t be overturned.
+
+(2)
+
+1. Most pelicans are corrupt.
+2. [After all], most ordinary birds are corrupt – and pelicans are
+ordinary birds.
+
+Invalid
+
+(3)
+
+1. Anyone who is well prepared for the race, even if she doesn't come in first, will at least come in the top 10.
+2. Jane is well prepared,
+3. [so] she will at least come in the top ten.
+
+Valid
+
+##### Chapter 2
+
+Which of the following claims are true and which are false? Explain why the true claims hold
+good, and give counterexamples to the false claims.
+
+(4) If an argument has false premisses and a true conclusion, then the truth of the conclusion can’t really be owed to the premisses: so the argument cannot really be valid. (False)
+
+(5) You can make an invalid argument valid by adding extra premisses. (True)
+
+##### Chapter 3
+
+Which of the following patterns of inference are deductively reliable, meaning that all their instances are valid? (Here ‘F ’, ‘G’ and ‘H’ hold the places for general terms.) If you suspect an inference pattern is unreliable, find an instance which has to be invalid because it has true premises and a false conclusion.
+
+Deductively Reliable so Valid
+
+(6) Some F are G; no G is H; so, some F are not H.
+
+##### Chapter 4
+
+Which of the following arguments are valid? Where an argument is valid, sketch an informal proof. Some of the examples are enthymemes that need repair.
+
+(7) Only logicians are good philosophers. No existentialists are logicians. Some existentialists are French philosophers. So, some French philosophers are not good philosophers.
+
+  (a) Only logicians are good philosophers.
+  (b) No existentialists are logicians.
+  (c) Some existentialists are French philosophers.
+  (d) So, some French philosophers are not good philosophers.
+
+1. Only L are G (Premise)
+2. No E are L (Premise)
+3. Some E are F (Premise)
+4. Some F are E (from 3)
+5. Some F are not L (from 2 and 4)
+6. So some F are not G (from 1 and 5)
+
+(8) No philosopher is illogical. Jones keeps making argumentative mistakes. No logical person keeps making argumentative mistakes. All existentialists are philosophers. So, Jones is not an existentialist.
+
+1. No P is I (Premise)
+2. J is M (Premise)
+3. No L is M (Premise)
+4. All E are P (Premise)
+5. No J is L (from 2 and 3)
+6. No J is P (from 1 and 5)
+5. So no J is E (from 4 and 6)
+
+##### Chapter 6
+
+(9) Only logicians are wise. Some philosophers are not logicians. All who love Aristotle are wise. Hence some of those who don’t love Aristotle are still philosophers.
+
+1. Only L are W (Premise)
+2. Some P are not L (Premise)
+3. All A are W (Premise)
+4. All A are L (from 1 and 3)
+5. Some P are not A (from 2 and 4)
+6. Hence some of those who don’t love Aristotle are still philosophers. (from 5)
+
+##### Chapter 8
+
+Give negations of the following in natural English:
+
+(10) It is not the case that both Jack and Jill went up the hill.
+
+Using the provided interpretations, render the following into formalized language:
+
+P: Peter loves Jane. \
+Q: Jane loves Peter. \
+R: Jesse loves Jane. \
+S: Peter is wise.
+
+(1) Peter doesn’t love Jane. ($\neg$ P)
+(2) Peter is wise and he loves Jane. (S $\land$ P)
+(3) Either Peter loves Jane or Jesse does. (P $\lor$ R)
+(4) Peter and Jane love each other. (P $\land$ Q)
+(5) Neither Peter loves Jane nor does Jesse. $\neg$ (P $\lor$ R) or ($\neg$ P $\land$ $\neg$ R)
+(6) It isn’t the case that Peter loves Jane nor does Jane love Peter. $\neg$ (P $\lor$ Q)
+(7) Either Peter is not wise or both he and Jesse love Jane. $\neg$ S $\lor$ (P $\land$ R)
+(8) It isn’t the case that either Peter loves Jane or Jane loves Peter. $\neg$ (P $\lor Q)

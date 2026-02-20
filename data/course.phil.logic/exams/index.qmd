@@ -3,3 +3,5 @@ title: Exams
 ---
 
 {{< include ./exam-1-logicmatters.qmd >}}
+
+{{< include ./answers-exam-1-logicmatters.qmd >}}
