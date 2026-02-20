@@ -1,1 +1,7 @@
-## Assignments
+## Assignment Rules
+
+{{< include ./../../assignments/Essay-Writing/paper-guidelines.qmd >}}
+
+{{< include ./../../assignments/d&d-campaigns/assignment-summary.qmd >}}
+
+{{< include ./../../assignments/d&d-campaigns/campaign-rules.qmd >}}

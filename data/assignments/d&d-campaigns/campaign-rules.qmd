@@ -1,0 +1,78 @@
+## D&D Campaign Rules
+
+* Group Structure: By Week 2, students form small groups of 5 members each (via random assignment).
+
+* Rotating Dungeon Master (DM) Role: Each group member serves as DM once during the semester (one full session/day).
+
+This distributes prep work fairly.
+
+The DM "owns" that day's reading/topic and facilitates the session.
+A ready-made D&D-style adventure outline (framing the text's core issues narratively) will be provided to the DM.
+
+The DM may use the provided example scenario or adapt it to create a unique situation that forces questioning of taken-for-granted beliefs.
+
+The DM begins by rolling a d20 to help determine positions or difficulty.
+
+
+### Session Play Through
+
+#### DM Preparation & Introduction
+
+The DM presents a brief summary of the assigned text.
+They then narrate the adventure setup: The group is a party of adventurers facing sequential challenges drawn directly from the reading's key concepts, arguments, objections, or thought experiments.
+
+#### Examples:
+
+* You've created a conscious simulated population → debate obligations to them.
+
+* You've fallen in love with someone in an MMO known only as their character → is this true love?
+
+* Simulation argument scenario (e.g., billions of non-sims imply billions of sims; successful simUniverse program implies many more sims than non-sims → motivate and debate each premise narratively).
+
+#### Class-Wide Polling (for Key Reasons/Premises)
+
+For multi-premise topics (e.g., simulation argument's three reasons), the full class takes quick polls: For each reason, more people agree or disagree? This identifies the "intuitive" (majority) vs. "least likely" (minority) position.
+
+#### Turn-Based Challenges & Dice Rolls
+
+* The DM reads/presents each challenge/encounter in sequence.
+
+* Group members respond in turns (going around the table):
+
+* Ask a clarifying question (probe the text/concept).
+
+* Offer a suggestion/solution (propose a philosophical position, argument, counter, edge case, or objection from the reading).
+
+#### Dice Mechanic (simple d20, no modifiers):
+
+* DM sets/rolls a difficulty (e.g., rolls 10).
+* Responding student rolls d20.
+* Higher than DM roll ("win"): Defend/attack the intuitive position (majority poll view).
+* Lower than DM roll ("lose"): Defend the least likely position (minority poll view).
+
+#### The student states their position/argument.
+
+* Subsequent group members build on, counter, or add considerations to prior responses — creating back-and-forth dialogue.
+* Dice add chance, excitement, and stakes (you might have to argue against your own intuition).
+
+#### Resolution & Debrief
+
+* DM adjudicates collective outcomes: What positions seem plausible? Which arguments prevailed?
+* Session ends with group/class reflection:
+* How did the "adventure" illuminate the reading?
+* What arguments won/lost?
+* How does this apply to real philosophy?
+* Did anyone's view change?
+
+#### Tracking & Submission (Tally Sheet)
+
+Everyone maintains their own tally sheet/adventure sheet (linked in course materials). You will use this sheet to record the key positions taken for each reason/premise/challenge (defend or object/critique). By session end, the sheet should show one position per group member per major point. You will then upload a photo/scan of your completed tally sheet to Canvas after each session (under the assignment module). Please keep the physical/digital sheet for the entire semester — it tracks your cumulative participation.
+
+### Grading Notes
+
+96 points total for the component.
+
+* Assessed via preparation (e.g., coming ready to engage) and quality/quantity of contributions during sessions (tracked partly via tally sheets).
+* Focus: Genuine critical reflection, referencing peers' ideas, challenging assumptions, and engaging the text — not "winning" arguments or perfect rolls.
+
+This format transforms passive reading into active, communal philosophical practice. Questions? Ask in class, office hours, or via email — let's make these sessions philosophically epic.
