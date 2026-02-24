@@ -24,8 +24,8 @@ book:
       chapters:
         - ./data/course.phil.law/index.qmd
         #- ./data/course.phil.law/syllabus.qmd
-        - ./data/course.phil.law/lectures/index.qmd
-        - ./data/course.phil.law/assignments/index.qmd
+        - ./data/course.phil.law/course-lecture-notes/index.qmd
+        - ./data/course.phil.law/course-assignments/index.qmd
     - summary.qmd
     - references.qmd
 
@@ -33,10 +33,30 @@ bibliography: references.bib
 
 format:
   html:
-    hikma-pdf: default
-    theme: cosmo
+    theme: cosmo                      # clean & academic
+    highlight-style: tango
+    #css: styles.css                   # optional custom style
+    include-in-header:
+      text: |
+        <script>
+        document.addEventListener("DOMContentLoaded", () => {
+          const btn = document.createElement("button");
+          btn.innerHTML = "🖨️ Print / Save as PDF";
+          btn.className = "btn btn-primary";
+          btn.style.position = "fixed";
+          btn.style.bottom = "20px";
+          btn.style.right = "20px";
+          btn.style.zIndex = "1000";
+          btn.style.padding = "0.8em 1.2em";
+          btn.style.fontSize = "1.1em";
+          btn.onclick = () => window.print();
+          document.body.appendChild(btn);
+        });
+        </script>
   pdf:
-    documentclass: scrreprt
+    documentclass: scrreprt           # nice book-like PDF
+    keep-tex: true
 
-
-
+execute:
+  echo: false
+  freeze: auto                        # only re-execute changed files

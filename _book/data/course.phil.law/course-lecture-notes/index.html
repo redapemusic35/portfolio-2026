@@ -30,7 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../../">
-<link href="../../../data/course.phil.law/assignments/index.html" rel="next">
+<link href="../../../data/course.phil.law/course-assignments/index.html" rel="next">
 <link href="../../../data/course.phil.law/index.html" rel="prev">
 <script src="../../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../../site_libs/quarto-html/popper.min.js"></script>
@@ -67,6 +67,21 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const btn = document.createElement("button");
+  btn.innerHTML = "🖨️ Print / Save as PDF";
+  btn.className = "btn btn-primary";
+  btn.style.position = "fixed";
+  btn.style.bottom = "20px";
+  btn.style.right = "20px";
+  btn.style.zIndex = "1000";
+  btn.style.padding = "0.8em 1.2em";
+  btn.style.fontSize = "1.1em";
+  btn.onclick = () => window.print();
+  document.body.appendChild(btn);
+});
+</script>
 
 
 </head>
@@ -80,7 +95,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../data/course.phil.law/index.html">Philosophy of Law</a></li><li class="breadcrumb-item"><a href="../../../data/course.phil.law/lectures/index.html"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Lectures</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../data/course.phil.law/index.html">Philosophy of Law</a></li><li class="breadcrumb-item"><a href="../../../data/course.phil.law/course-lecture-notes/index.html"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Lectures</span></a></li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -204,14 +219,14 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../data/course.phil.law/lectures/index.html" class="sidebar-item-text sidebar-link active">
+  <a href="../../../data/course.phil.law/course-lecture-notes/index.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Lectures</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../data/course.phil.law/assignments/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">Assignment Rules</span></span></a>
+  <a href="../../../data/course.phil.law/course-assignments/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">index.html</span></span></a>
   </div>
 </li>
       </ul>
@@ -238,24 +253,90 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#week-5" id="toc-week-5" class="nav-link active" data-scroll-target="#week-5">Week 5</a>
+  <li><a href="#unit-1-introduction-fuller-the-case-of-the-speluncean-explorers-jan-1315" id="toc-unit-1-introduction-fuller-the-case-of-the-speluncean-explorers-jan-1315" class="nav-link active" data-scroll-target="#unit-1-introduction-fuller-the-case-of-the-speluncean-explorers-jan-1315">2. Unit 1: Introduction &amp; Fuller – “The Case of the Speluncean Explorers” (Jan 13–15)</a></li>
+  <li><a href="#unit-2-natural-law-tradition-kretzmann-lex-iniusta-non-est-lex-jan-2023" id="toc-unit-2-natural-law-tradition-kretzmann-lex-iniusta-non-est-lex-jan-2023" class="nav-link" data-scroll-target="#unit-2-natural-law-tradition-kretzmann-lex-iniusta-non-est-lex-jan-2023">3. Unit 2: Natural Law Tradition – Kretzmann, “Lex Iniusta Non Est Lex” (Jan 20–23)</a></li>
+  <li><a href="#unit-3-utilitarian-positivism-bentham-principles-of-morals-and-legislation-jan-2530" id="toc-unit-3-utilitarian-positivism-bentham-principles-of-morals-and-legislation-jan-2530" class="nav-link" data-scroll-target="#unit-3-utilitarian-positivism-bentham-principles-of-morals-and-legislation-jan-2530">4. Unit 3: Utilitarian Positivism – Bentham, Principles of Morals and Legislation (Jan 25–30)</a></li>
+  <li><a href="#unit-4-modern-positivism-hart-law-as-the-union-of-primary-and-secondary-rules-feb-16" id="toc-unit-4-modern-positivism-hart-law-as-the-union-of-primary-and-secondary-rules-feb-16" class="nav-link" data-scroll-target="#unit-4-modern-positivism-hart-law-as-the-union-of-primary-and-secondary-rules-feb-16">5. Unit 4: Modern Positivism – Hart, “Law as the Union of Primary and Secondary Rules” (Feb 1–6)</a></li>
+  <li><a href="#unit-5-dworkins-interpretivism-feb-813" id="toc-unit-5-dworkins-interpretivism-feb-813" class="nav-link" data-scroll-target="#unit-5-dworkins-interpretivism-feb-813">6. Unit 5: Dworkin’s Interpretivism (Feb 8–13)</a></li>
+  <li><a href="#unit-6-legal-realism-holmes-frank-feb-17-per-schedule-alignment" id="toc-unit-6-legal-realism-holmes-frank-feb-17-per-schedule-alignment" class="nav-link" data-scroll-target="#unit-6-legal-realism-holmes-frank-feb-17-per-schedule-alignment">7. Unit 6: Legal Realism – Holmes &amp; Frank (Feb 17? per schedule alignment)</a></li>
+  <li><a href="#unit-7-critical-legal-studies-cls-feb-20-per-syllabus.html" id="toc-unit-7-critical-legal-studies-cls-feb-20-per-syllabus.html" class="nav-link" data-scroll-target="#unit-7-critical-legal-studies-cls-feb-20-per-syllabus.html">8. Unit 7: Critical Legal Studies (CLS) (Feb 20 per syllabus.html)</a></li>
+  <li><a href="#unit-8-plato-crito-feb-2227-likely-on-quiz" id="toc-unit-8-plato-crito-feb-2227-likely-on-quiz" class="nav-link" data-scroll-target="#unit-8-plato-crito-feb-2227-likely-on-quiz">9. Unit 8: Plato, Crito (Feb 22–27 – likely on Quiz)</a></li>
+  <li><a href="#what-is-law" id="toc-what-is-law" class="nav-link" data-scroll-target="#what-is-law">What is Law?</a>
   <ul class="collapse">
-  <li><a href="#formalism" id="toc-formalism" class="nav-link" data-scroll-target="#formalism">Formalism</a></li>
+  <li><a href="#overview" id="toc-overview" class="nav-link" data-scroll-target="#overview">Overview</a></li>
+  <li><a href="#background" id="toc-background" class="nav-link" data-scroll-target="#background">Background</a></li>
+  <li><a href="#major-conflicts" id="toc-major-conflicts" class="nav-link" data-scroll-target="#major-conflicts">Major conflicts</a></li>
+  <li><a href="#truepenny-cj" id="toc-truepenny-cj" class="nav-link" data-scroll-target="#truepenny-cj">Truepenny, CJ</a></li>
+  <li><a href="#foster-j" id="toc-foster-j" class="nav-link" data-scroll-target="#foster-j">Foster, J</a></li>
+  <li><a href="#rule-of-law-argument" id="toc-rule-of-law-argument" class="nav-link" data-scroll-target="#rule-of-law-argument">Rule of Law Argument</a></li>
+  <li><a href="#rule-of-law-counter-argument" id="toc-rule-of-law-counter-argument" class="nav-link" data-scroll-target="#rule-of-law-counter-argument">Rule of Law Counter Argument</a></li>
+  <li><a href="#keen-j." id="toc-keen-j." class="nav-link" data-scroll-target="#keen-j.">Keen, J.</a></li>
+  <li><a href="#handy-j." id="toc-handy-j." class="nav-link" data-scroll-target="#handy-j.">Handy, J.</a></li>
+  <li><a href="#tatting-j." id="toc-tatting-j." class="nav-link" data-scroll-target="#tatting-j.">Tatting, J.</a></li>
+  <li><a href="#counter-to-counter-argument" id="toc-counter-to-counter-argument" class="nav-link" data-scroll-target="#counter-to-counter-argument">Counter to Counter Argument</a></li>
   </ul></li>
+  <li><a href="#utilitarian-positivism-bentham-principles-of-morals-and-legislation-jan-2530" id="toc-utilitarian-positivism-bentham-principles-of-morals-and-legislation-jan-2530" class="nav-link" data-scroll-target="#utilitarian-positivism-bentham-principles-of-morals-and-legislation-jan-2530">Utilitarian Positivism – Bentham, Principles of Morals and Legislation (Jan 25–30)</a>
+  <ul class="collapse">
+  <li><a href="#legal-positivism" id="toc-legal-positivism" class="nav-link" data-scroll-target="#legal-positivism">Legal Positivism</a></li>
+  <li><a href="#the-principle-of-utility" id="toc-the-principle-of-utility" class="nav-link" data-scroll-target="#the-principle-of-utility">The Principle of Utility</a></li>
+  <li><a href="#of-principles-adverse-to-that-of-utility" id="toc-of-principles-adverse-to-that-of-utility" class="nav-link" data-scroll-target="#of-principles-adverse-to-that-of-utility">Of Principles Adverse to that of Utility</a>
+  <ul class="collapse">
+  <li><a href="#asceticism" id="toc-asceticism" class="nav-link" data-scroll-target="#asceticism">Asceticism</a></li>
+  <li><a href="#of-human-actions-in-general" id="toc-of-human-actions-in-general" class="nav-link" data-scroll-target="#of-human-actions-in-general">Of Human Actions in General</a></li>
+  <li><a href="#but-for-what" id="toc-but-for-what" class="nav-link" data-scroll-target="#but-for-what">But for what?</a></li>
+  </ul></li>
+  <li><a href="#moving-on" id="toc-moving-on" class="nav-link" data-scroll-target="#moving-on">Moving On</a>
+  <ul class="collapse">
+  <li><a href="#of-the-limits-of-the-penal-branch-of-jurisprudence" id="toc-of-the-limits-of-the-penal-branch-of-jurisprudence" class="nav-link" data-scroll-target="#of-the-limits-of-the-penal-branch-of-jurisprudence">Of the Limits of the Penal Branch of Jurisprudence</a></li>
+  </ul></li>
+  </ul></li>
+  <li><a href="#exclusive-positivism-and-inclusive-positivism" id="toc-exclusive-positivism-and-inclusive-positivism" class="nav-link" data-scroll-target="#exclusive-positivism-and-inclusive-positivism">Exclusive Positivism and Inclusive Positivism</a>
+  <ul class="collapse">
+  <li><a href="#exclusive-source-of-law" id="toc-exclusive-source-of-law" class="nav-link" data-scroll-target="#exclusive-source-of-law">Exclusive Source of Law</a></li>
+  <li><a href="#inclusive-source-of-law" id="toc-inclusive-source-of-law" class="nav-link" data-scroll-target="#inclusive-source-of-law">Inclusive Source of Law</a></li>
+  <li><a href="#limits-of-civil-and-penal-law" id="toc-limits-of-civil-and-penal-law" class="nav-link" data-scroll-target="#limits-of-civil-and-penal-law">Limits of Civil and Penal Law</a>
+  <ul class="collapse">
+  <li><a href="#some-preliminaries-ii-iv" id="toc-some-preliminaries-ii-iv" class="nav-link" data-scroll-target="#some-preliminaries-ii-iv">Some preliminaries, II-IV</a></li>
+  <li><a href="#the-art-of-government-and-private-government-education" id="toc-the-art-of-government-and-private-government-education" class="nav-link" data-scroll-target="#the-art-of-government-and-private-government-education">The Art of Government and Private Government (Education)</a></li>
+  <li><a href="#duties-and-obligations" id="toc-duties-and-obligations" class="nav-link" data-scroll-target="#duties-and-obligations">Duties and Obligations</a></li>
+  <li><a href="#both-private-ethics-and-legislation" id="toc-both-private-ethics-and-legislation" class="nav-link" data-scroll-target="#both-private-ethics-and-legislation">Both private ethics and legislation</a></li>
+  <li><a href="#where-is-the-difference" id="toc-where-is-the-difference" class="nav-link" data-scroll-target="#where-is-the-difference">Where is the difference?</a></li>
+  <li><a href="#positive-and-negative-injunctions-rights-and-obligations" id="toc-positive-and-negative-injunctions-rights-and-obligations" class="nav-link" data-scroll-target="#positive-and-negative-injunctions-rights-and-obligations">Positive and Negative Injunctions, Rights and Obligations</a></li>
+  <li><a href="#four-cases-of-punishment" id="toc-four-cases-of-punishment" class="nav-link" data-scroll-target="#four-cases-of-punishment">Four Cases of Punishment</a></li>
+  <li><a href="#when-the-punishment-is-more-evil-than-the-crime" id="toc-when-the-punishment-is-more-evil-than-the-crime" class="nav-link" data-scroll-target="#when-the-punishment-is-more-evil-than-the-crime">When the punishment is more evil than the crime</a></li>
+  </ul></li>
+  <li><a href="#subordinate-ends" id="toc-subordinate-ends" class="nav-link" data-scroll-target="#subordinate-ends">Subordinate Ends</a>
+  <ul class="collapse">
+  <li><a href="#civil-law" id="toc-civil-law" class="nav-link" data-scroll-target="#civil-law">Civil Law</a></li>
+  <li><a href="#e.g." id="toc-e.g." class="nav-link" data-scroll-target="#e.g.">E.g.,</a></li>
+  <li><a href="#however" id="toc-however" class="nav-link" data-scroll-target="#however">However</a></li>
+  <li><a href="#penal-law" id="toc-penal-law" class="nav-link" data-scroll-target="#penal-law">Penal Law</a></li>
+  </ul></li>
+  </ul></li>
+  <li><a href="#sources" id="toc-sources" class="nav-link" data-scroll-target="#sources">Sources</a></li>
+  <li><a href="#modern-positivism-hart-law-as-the-union-of-primary-and-secondary-rules-feb-16" id="toc-modern-positivism-hart-law-as-the-union-of-primary-and-secondary-rules-feb-16" class="nav-link" data-scroll-target="#modern-positivism-hart-law-as-the-union-of-primary-and-secondary-rules-feb-16">Modern Positivism – Hart, “Law as the Union of Primary and Secondary Rules” (Feb 1–6)</a>
+  <ul class="collapse">
+  <li><a href="#recap-of-previous-topics" id="toc-recap-of-previous-topics" class="nav-link" data-scroll-target="#recap-of-previous-topics">Recap of Previous Topics</a></li>
+  <li><a href="#introduction-to-hla-hart" id="toc-introduction-to-hla-hart" class="nav-link" data-scroll-target="#introduction-to-hla-hart">Introduction to HLA Hart</a></li>
+  <li><a href="#harts-primary-rules" id="toc-harts-primary-rules" class="nav-link" data-scroll-target="#harts-primary-rules">Hart’s Primary Rules</a></li>
+  <li><a href="#harts-secondary-rules" id="toc-harts-secondary-rules" class="nav-link" data-scroll-target="#harts-secondary-rules">Hart’s Secondary Rules</a></li>
+  <li><a href="#union-of-primary-and-secondary-rules" id="toc-union-of-primary-and-secondary-rules" class="nav-link" data-scroll-target="#union-of-primary-and-secondary-rules">Union of Primary and Secondary Rules</a></li>
+  <li><a href="#legal-obligation" id="toc-legal-obligation" class="nav-link" data-scroll-target="#legal-obligation">Legal Obligation</a></li>
+  <li><a href="#introduction-to-ronald-dworkin" id="toc-introduction-to-ronald-dworkin" class="nav-link" data-scroll-target="#introduction-to-ronald-dworkin">Introduction to Ronald Dworkin</a></li>
+  <li><a href="#dworkins-rules-vs.-principles" id="toc-dworkins-rules-vs.-principles" class="nav-link" data-scroll-target="#dworkins-rules-vs.-principles">Dworkin’s Rules vs.&nbsp;Principles</a></li>
+  <li><a href="#dworkins-model-of-rules" id="toc-dworkins-model-of-rules" class="nav-link" data-scroll-target="#dworkins-model-of-rules">Dworkin’s Model of Rules</a></li>
+  <li><a href="#comparison-hart-vs.-dworkin" id="toc-comparison-hart-vs.-dworkin" class="nav-link" data-scroll-target="#comparison-hart-vs.-dworkin">Comparison: Hart vs.&nbsp;Dworkin</a></li>
+  <li><a href="#connections-to-prior-topics" id="toc-connections-to-prior-topics" class="nav-link" data-scroll-target="#connections-to-prior-topics">Connections to Prior Topics</a></li>
+  <li><a href="#discussion-questions" id="toc-discussion-questions" class="nav-link" data-scroll-target="#discussion-questions">Discussion Questions</a></li>
+  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
   <li><a href="#oliver-wendell-holmes" id="toc-oliver-wendell-holmes" class="nav-link" data-scroll-target="#oliver-wendell-holmes">Oliver Wendell Holmes</a>
   <ul class="collapse">
-  <li><a href="#duties-and-obligations" id="toc-duties-and-obligations" class="nav-link" data-scroll-target="#duties-and-obligations">Duties and Obligations</a></li>
+  <li><a href="#duties-and-obligations-1" id="toc-duties-and-obligations-1" class="nav-link" data-scroll-target="#duties-and-obligations-1">Duties and Obligations</a></li>
   <li><a href="#two-accounts-of-malevolent-motive" id="toc-two-accounts-of-malevolent-motive" class="nav-link" data-scroll-target="#two-accounts-of-malevolent-motive">Two Accounts of Malevolent Motive</a></li>
   </ul></li>
-  <li><a href="#lecture-notes-oliver-wendell-holmes-and-jerome-frank-legal-realism" id="toc-lecture-notes-oliver-wendell-holmes-and-jerome-frank-legal-realism" class="nav-link" data-scroll-target="#lecture-notes-oliver-wendell-holmes-and-jerome-frank-legal-realism">Lecture Notes – Oliver Wendell Holmes and Jerome Frank, Legal Realism</a>
-  <ul class="collapse">
-  <li><a href="#cls" id="toc-cls" class="nav-link" data-scroll-target="#cls">CLS</a></li>
+  <li><a href="#lecture-notes-oliver-wendell-holmes-and-jerome-frank-legal-realism" id="toc-lecture-notes-oliver-wendell-holmes-and-jerome-frank-legal-realism" class="nav-link" data-scroll-target="#lecture-notes-oliver-wendell-holmes-and-jerome-frank-legal-realism">Lecture Notes – Oliver Wendell Holmes and Jerome Frank, Legal Realism</a></li>
   </ul></li>
-  <li><a href="#lecture-slides" id="toc-lecture-slides" class="nav-link" data-scroll-target="#lecture-slides">👨‍🏫 Lecture Slides</a></li>
-  <li><a href="#coursework" id="toc-coursework" class="nav-link" data-scroll-target="#coursework">✍️ Coursework</a></li>
-  <li><a href="#recommended-reading" id="toc-recommended-reading" class="nav-link" data-scroll-target="#recommended-reading">📚 Recommended Reading</a></li>
-  <li><a href="#communication" id="toc-communication" class="nav-link" data-scroll-target="#communication">📟 Communication</a></li>
-  <li><a href="#cls-scholars-try-to-establish-the-illegitimacy-of-the-legal-order-by-debunking-laws-pretensions-to-determinacy-neutrality-and-objectivity." id="toc-cls-scholars-try-to-establish-the-illegitimacy-of-the-legal-order-by-debunking-laws-pretensions-to-determinacy-neutrality-and-objectivity." class="nav-link" data-scroll-target="#cls-scholars-try-to-establish-the-illegitimacy-of-the-legal-order-by-debunking-laws-pretensions-to-determinacy-neutrality-and-objectivity.">CLS scholars try to establish the illegitimacy of the legal order by debunking law’s pretensions to determinacy, neutrality, and objectivity.</a></li>
+  <li><a href="#cls" id="toc-cls" class="nav-link" data-scroll-target="#cls">CLS</a></li>
   <li><a href="#rhetorical-modes-and-substantive-issues-in-the-law" id="toc-rhetorical-modes-and-substantive-issues-in-the-law" class="nav-link" data-scroll-target="#rhetorical-modes-and-substantive-issues-in-the-law">Rhetorical Modes and Substantive Issues in the Law</a>
   <ul class="collapse">
   <li><a href="#two-modes-for-dealing-with-questions-of-the-form-in-which-legal-solutions-to-the-substantive-problems" id="toc-two-modes-for-dealing-with-questions-of-the-form-in-which-legal-solutions-to-the-substantive-problems" class="nav-link" data-scroll-target="#two-modes-for-dealing-with-questions-of-the-form-in-which-legal-solutions-to-the-substantive-problems">Two modes for dealing with questions of the form in which legal solutions to the substantive problems:</a>
@@ -278,10 +359,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#v.-the-correspondence-between-formal-and-substantive-moral-arguments" id="toc-v.-the-correspondence-between-formal-and-substantive-moral-arguments" class="nav-link" data-scroll-target="#v.-the-correspondence-between-formal-and-substantive-moral-arguments">V. THE CORRESPONDENCE BETWEEN FORMAL AND SUBSTANTIVE MORAL ARGUMENTS</a></li>
   <li><a href="#vi.-the-correspondence-between-formal-and-substantive-economic-arguments" id="toc-vi.-the-correspondence-between-formal-and-substantive-economic-arguments" class="nav-link" data-scroll-target="#vi.-the-correspondence-between-formal-and-substantive-economic-arguments">VI. THE CORRESPONDENCE BETWEEN FORMAL AND SUBSTANTIVE ECONOMIC ARGUMENTS</a></li>
   <li><a href="#vii.-the-political-arguments-about-judicial-result-orientation" id="toc-vii.-the-political-arguments-about-judicial-result-orientation" class="nav-link" data-scroll-target="#vii.-the-political-arguments-about-judicial-result-orientation">VII. THE POLITICAL ARGUMENTS ABOUT JUDICIAL RESULT ORIENTATION</a></li>
-  <li><a href="#viii.-fundamental-premises-of-individualism-and-altruism" id="toc-viii.-fundamental-premises-of-individualism-and-altruism" class="nav-link" data-scroll-target="#viii.-fundamental-premises-of-individualism-and-altruism">VIII. FUNDAMENTAL PREMISES OF INDIVIDUALISM AND ALTRUISM</a>
-  <ul class="collapse">
-  <li><a href="#week-6" id="toc-week-6" class="nav-link" data-scroll-target="#week-6">Week 6</a></li>
-  </ul></li>
+  <li><a href="#viii.-fundamental-premises-of-individualism-and-altruism" id="toc-viii.-fundamental-premises-of-individualism-and-altruism" class="nav-link" data-scroll-target="#viii.-fundamental-premises-of-individualism-and-altruism">VIII. FUNDAMENTAL PREMISES OF INDIVIDUALISM AND ALTRUISM</a></li>
   <li><a href="#crito" id="toc-crito" class="nav-link" data-scroll-target="#crito">Crito</a>
   <ul class="collapse">
   <li><a href="#betrayal-by-friends" id="toc-betrayal-by-friends" class="nav-link" data-scroll-target="#betrayal-by-friends">Betrayal By Friends</a></li>
@@ -292,9 +370,9 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../data/course.phil.law/index.html">Philosophy of Law</a></li><li class="breadcrumb-item"><a href="../../../data/course.phil.law/lectures/index.html"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Lectures</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../data/course.phil.law/index.html">Philosophy of Law</a></li><li class="breadcrumb-item"><a href="../../../data/course.phil.law/course-lecture-notes/index.html"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Lectures</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">🗓️ Week 5 - Critical Legal Studies</h1>
+<h1 class="title">Lectures</h1>
 </div>
 
 
@@ -311,11 +389,743 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="week-5" class="level2">
-<h2 class="anchored" data-anchor-id="week-5">Week 5</h2>
-<section id="formalism" class="level3">
-<h3 class="anchored" data-anchor-id="formalism">Formalism</h3>
+<section id="unit-1-introduction-fuller-the-case-of-the-speluncean-explorers-jan-1315" class="level2">
+<h2 class="anchored" data-anchor-id="unit-1-introduction-fuller-the-case-of-the-speluncean-explorers-jan-1315">2. Unit 1: Introduction &amp; Fuller – “The Case of the Speluncean Explorers” (Jan 13–15)</h2>
+<p>Core thesis: Extreme hypothetical reveals deep divides in legal reasoning; no single “correct” answer—law blends rules, morality, consequences, and interpretation. Key contrasting judges (organize essays around these four views): True judge (positivist/formalist): strict letter of statute. Natural-law judge: unjust “law” is no law. Utilitarian judge: greatest happiness / least suffering. Interpretive judge: purpose and spirit of law.</p>
+<p>High-level takeaway: Law is not mechanical; judges inevitably import philosophy.</p>
 </section>
+<section id="unit-2-natural-law-tradition-kretzmann-lex-iniusta-non-est-lex-jan-2023" class="level2">
+<h2 class="anchored" data-anchor-id="unit-2-natural-law-tradition-kretzmann-lex-iniusta-non-est-lex-jan-2023">3. Unit 2: Natural Law Tradition – Kretzmann, “Lex Iniusta Non Est Lex” (Jan 20–23)</h2>
+<p>Core thesis: Unjust law is not truly law (Aquinas-derived: law must be ordered to common good, promulgated, etc.). Key concepts: Validity vs.&nbsp;obligatoriness; “no law” vs.&nbsp;“bad law” distinction. Comparison anchor: Direct foil to positivism (Bentham/Hart: a valid law can still be unjust and still bind).</p>
+</section>
+<section id="unit-3-utilitarian-positivism-bentham-principles-of-morals-and-legislation-jan-2530" class="level2">
+<h2 class="anchored" data-anchor-id="unit-3-utilitarian-positivism-bentham-principles-of-morals-and-legislation-jan-2530">4. Unit 3: Utilitarian Positivism – Bentham, Principles of Morals and Legislation (Jan 25–30)</h2>
+<p>Core thesis: Law’s purpose = maximize utility (pleasure – pain); legislation as social engineering. Key concepts: Principle of utility, hedonic calculus, sovereign commands, separation of law-as-it-is from law-as-it-ought-to-be. Bridge to next: Bentham = classical positivist foundation for Hart.</p>
+</section>
+<section id="unit-4-modern-positivism-hart-law-as-the-union-of-primary-and-secondary-rules-feb-16" class="level2">
+<h2 class="anchored" data-anchor-id="unit-4-modern-positivism-hart-law-as-the-union-of-primary-and-secondary-rules-feb-16">5. Unit 4: Modern Positivism – Hart, “Law as the Union of Primary and Secondary Rules” (Feb 1–6)</h2>
+<p>Core thesis: Law = system of rules, not commands (rejects Austin/Bentham sovereign model). Primary rules: duty-imposing (what citizens must do). Secondary rules: power-conferring (rule of recognition, rule of change, rule of adjudication).</p>
+<p>Key test: Rule of recognition (what officials accept as valid law). Strengths: Explains legal systems in modern states; internal point of view. Classic comparison: Hart vs.&nbsp;Dworkin (rules vs.&nbsp;principles).</p>
+</section>
+<section id="unit-5-dworkins-interpretivism-feb-813" class="level2">
+<h2 class="anchored" data-anchor-id="unit-5-dworkins-interpretivism-feb-813">6. Unit 5: Dworkin’s Interpretivism (Feb 8–13)</h2>
+<p>Readings: “The Model of Rules” + “Integrity in Law”. Core theses: Rules alone insufficient; law includes principles (weighted, not all-or-nothing). Law as integrity: best constructive interpretation that fits past decisions and justifies them in moral light (“law as a chain novel”).</p>
+<p>Key critique of Hart: “semantic sting” – positivists wrong about criteria of legality. Essay-ready contrast table (memorize structure):AspectHart (Positivism)Dworkin (Interpretivism)Nature of lawRules + social factPrinciples + moral fitJudicial roleApply valid rulesInterpret for integrityLaw-moralitySeparableInseparable in hard cases</p>
+</section>
+<section id="unit-6-legal-realism-holmes-frank-feb-17-per-schedule-alignment" class="level2">
+<h2 class="anchored" data-anchor-id="unit-6-legal-realism-holmes-frank-feb-17-per-schedule-alignment">7. Unit 6: Legal Realism – Holmes &amp; Frank (Feb 17? per schedule alignment)</h2>
+<p>Holmes, “The Path of the Law”: Law = prediction of what courts will do (“bad man” view). Focus on consequences, not logic or morality. Frank, “Legal Realism”: Rule skepticism + fact skepticism; judges decide first, rationalize later; law is uncertain and human. High-level role: Bridge from positivism to CLS; law is not a closed system of rules.</p>
+</section>
+<section id="unit-7-critical-legal-studies-cls-feb-20-per-syllabus.html" class="level2">
+<h2 class="anchored" data-anchor-id="unit-7-critical-legal-studies-cls-feb-20-per-syllabus.html">8. Unit 7: Critical Legal Studies (CLS) (Feb 20 per syllabus.html)</h2>
+<p>Core thesis: Law is politics/indeterminacy masked as neutral; serves dominant power structures (race, class, gender). Key moves: Trashing (indeterminacy of doctrine), deconstruction, alternative narratives. Relation to prior units: Radical extension of Realism + Marxist/feminist critique of Hart/Dworkin “liberal” assumptions.</p>
+</section>
+<section id="unit-8-plato-crito-feb-2227-likely-on-quiz" class="level2">
+<h2 class="anchored" data-anchor-id="unit-8-plato-crito-feb-2227-likely-on-quiz">9. Unit 8: Plato, Crito (Feb 22–27 – likely on Quiz)</h2>
+<p>Core thesis: Socrates must obey Athens’ laws (social contract, gratitude, consistency arguments). Key arguments: Personified Laws speech; harm to the city; better to suffer injustice than commit it. Essay hook: Does Crito support natural-law obligation or positivist duty to obey any law? Link to Kretzmann (“unjust law”) and CLS (law as power).</p>
+</section>
+<section id="what-is-law" class="level1">
+<h1>What is Law?</h1>
+<p>Jurisprudence is a theory about the ontological nature of law.</p>
+<p>Some important questions include:</p>
+<ul>
+<li>How do we answer this question?
+<ul>
+<li>With a Definition?</li>
+<li>A Description of the word law?</li>
+<li>A historical analysis of the ways in which this term was used?</li>
+</ul></li>
+</ul>
+<p>Is Law . . . and if so . . .:</p>
+<ul>
+<li>a set of practices?
+<ul>
+<li>Which ones count as law?</li>
+<li>Who decides?</li>
+<li>Who’s practices count?</li>
+</ul></li>
+</ul>
+<section id="overview" class="level2">
+<h2 class="anchored" data-anchor-id="overview">Overview</h2>
+<ul>
+<li>Setting: Court of Law, year 4299</li>
+<li>Theme: The Speluncean explorers have been tried for the murder of Roger Whetmore and found guilty. Five chief justices give their opinions on the case and whether or not the judgment is just.</li>
+<li>Hook: Two points of interest, the opinions of the justices and the justification they use in this opinion.</li>
+</ul>
+</section>
+<section id="background" class="level2">
+<h2 class="anchored" data-anchor-id="background">Background</h2>
+<ul>
+<li><p>Key history: The explorers were all members of the Speluncean explorer society. They were trapped during one of their expeditions by large boulders blocking their exit from a cave they were exploring. Initially the explorers had been in contact with the outside world and their potential rescurers. However, this communication had become disrupted shortly after bein informed that it was likely they would die of starvation before their rescue. Upon their eventual rescue, it was learned that this party had survived, possibly because of the murder and cannibilization of one of their members, Mr.&nbsp;Roger Whetmore. Further it was learned that it was initially Whetmore’s idea that they pick lots to decide whose flesh should serve as sustinance for the remaining members, although shortly before lots were drawn, Whetmore had withdrawn his support from this idea implying that he did not consent to this arrangement. His lot in turn, was cast for him.</p></li>
+<li><p>Important factions: Truepenny, Foster, Tatting, Keen, Handy.</p></li>
+</ul>
+</section>
+<section id="major-conflicts" class="level2">
+<h2 class="anchored" data-anchor-id="major-conflicts">Major conflicts</h2>
+<p>Natural Law</p>
+<p>Legal Positivism</p>
+<p>Legal Realism and Scepticism</p>
+<p>Interpretationist theories</p>
+<p>When trying to develop a theory of law:</p>
+<ul>
+<li>Obligation is important</li>
+<li>Normativity, when deciding what to do, we ask “what counts”, or what is “entitled” to count.
+<ul>
+<li>Concerning the normative account, when we speak of normativity, we will ask whether there are behaviors that are normative prior to our choices.</li>
+</ul></li>
+<li>Law == criteria of right judgment in conduct, action</li>
+<li>Acts as a standard for human conduct: enables judgments such as good; bad, right; wrong; desirable; undesirable; decent or unworth.</li>
+</ul>
+<p>The judges include:</p>
+<p>Truepenny, CJ</p>
+<p>Foster, J</p>
+<p>Keen, J.</p>
+<p>Handy, J.</p>
+<p>Tatting, J.</p>
+<p>Core thesis: Extreme hypothetical reveals deep divides in legal reasoning; no single “correct” answer—law blends rules, morality, consequences, and interpretation.</p>
+<p>Key contrasting judges (organize essays around these four views):</p>
+<ul>
+<li>True judge (positivist/formalist): strict letter of statute.</li>
+<li>Natural-law judge: unjust “law” is no law.</li>
+<li>Utilitarian judge: greatest happiness / least suffering.</li>
+<li>Interpretive judge: purpose and spirit of law.</li>
+</ul>
+<p>High-level takeaway: Law is not mechanical; judges inevitably import philosophy, beliefs, opinions, morals, etc.</p>
+</section>
+<section id="truepenny-cj" class="level2">
+<h2 class="anchored" data-anchor-id="truepenny-cj">Truepenny, CJ</h2>
+<p>Is in favor of the court’s decision. Ruling of the court should be upheld, namely against murder, while clemency should be offered to the defendants recognizing the extreme circumstances and choices they were faced with.</p>
+<ul>
+<li>But distinguishes between spirit and letter of the law.</li>
+<li>Letter: “Whoever shall willfully take the life of another shall be punished by death.” Spirit?</li>
+<li>Obligation vs.&nbsp;normativity.
+<ul>
+<li>Does the law give us reason to perform, or refrain from performing a given action?</li>
+<li>Does the law count as a measure for assessing whether an action was good, bad, desirable, unworthy, right, wrong?</li>
+</ul></li>
+</ul>
+</section>
+<section id="foster-j" class="level2">
+<h2 class="anchored" data-anchor-id="foster-j">Foster, J</h2>
+<blockquote class="blockquote">
+<p>For us to assert that the law we uphold and expound compels us to a conclusion we are ashamed of, and from which we can only escape by appealing to a dispensation resting within the personal whim of the Executive, seems to me to amount to an admission that the law of this Commonwealth no longer pretends to incorporate justice. <span class="citation" data-cites="full49">(<a href="../../../references.html#ref-full49" role="doc-biblioref"><strong>full49?</strong></a>)</span></p>
+</blockquote>
+<ul>
+<li>How? Law is grounded in spirit, “possibility of men’s coexistence in society”. When possibility is impossible, then positive law is no longer applicable.</li>
+</ul>
+<blockquote class="blockquote">
+<p>When the assumption that men live together loses its truth, as it obviously did in this extraordinary situation where life only became possible by the taking of a life, then the basic principles underlying our whole legal order have lost their meaning and force. <span class="citation" data-cites="full49">(<a href="../../../references.html#ref-full49" role="doc-biblioref"><strong>full49?</strong></a>)</span></p>
+</blockquote>
+<p>Consider two important distinctions: Established law, principles grounding established law.</p>
+<ul>
+<li>Law is grounded in contracts and agreements.</li>
+<li>Ancient: Original contract</li>
+<li>Skeptics: However, there is no evidence to support the claim that law is settled agreement.</li>
+<li>Moralists: However, if there is no evidence, then there is no evidence justifying the powers of government including the taking of lives.</li>
+</ul>
+<p>Instead however, there is an original charter and all settled law points ‘back’ to it.</p>
+<blockquote class="blockquote">
+<p>We know as a matter of historical truth that our government was founded upon a contract or free accord of men. The archaeological proof is conclusive that in the first period following the Great Spiral the survivors of that holocaust voluntarily came together and drew up a charter of government. Sophistical writers have raised questions as to the power of those remote contractors to bind future generations, but the fact remains that our government traces itself back in an unbroken line to that original charter. <span class="citation" data-cites="full49">(<a href="../../../references.html#ref-full49" role="doc-biblioref"><strong>full49?</strong></a>)</span></p>
+</blockquote>
+</section>
+<section id="rule-of-law-argument" class="level2">
+<h2 class="anchored" data-anchor-id="rule-of-law-argument">Rule of Law Argument</h2>
+<ol type="1">
+<li>Governments have certain powers.</li>
+<li>These powers are grounded in the original compact: agreement to ensure the possibility of coexistence.</li>
+<li>If there is no precedent available to ensure peaceful cooperation, then the original contract is impossible.</li>
+<li>When the original contract is impossible, then governmental powers are not justified.</li>
+<li>The original contract is impossible.</li>
+<li>Therefore current laws are not applicable.</li>
+<li>As such, defendants are innocent.</li>
+</ol>
+</section>
+<section id="rule-of-law-counter-argument" class="level2">
+<h2 class="anchored" data-anchor-id="rule-of-law-counter-argument">Rule of Law Counter Argument</h2>
+<ol type="1">
+<li>Governments have certain powers.</li>
+<li>These powers are grounded in the original compact: agreement to ensure the possibility of coexistence.</li>
+<li>If there is no precedent available to ensure peaceful cooperation, then the original contract is impossible.</li>
+<li>When the original contract is impossible, then governmental powers are not justified.</li>
+<li>[counter] original contract is possible.</li>
+<li>Self-defense example:</li>
+</ol>
+<blockquote class="blockquote">
+<p>When the rationale of the excuse of self-defense is thus explained, it becomes apparent that precisely the same reasoning is applicable to the case at bar. If in the future any group of men ever find themselves in the tragic predicament of these defendants, we may be sure that their decision whether to live or die will not be controlled by the contents of our criminal code. <span class="citation" data-cites="full49">(<a href="../../../references.html#ref-full49" role="doc-biblioref"><strong>full49?</strong></a>)</span></p>
+</blockquote>
+<ol start="7" type="1">
+<li>Law would be ignored leading to impossibility of peaceful coexistence.</li>
+<li>Therefore current laws are not applicable.</li>
+<li>Defendants are innocent.</li>
+</ol>
+</section>
+<section id="keen-j." class="level2">
+<h2 class="anchored" data-anchor-id="keen-j.">Keen, J.</h2>
+</section>
+<section id="handy-j." class="level2">
+<h2 class="anchored" data-anchor-id="handy-j.">Handy, J.</h2>
+</section>
+<section id="tatting-j." class="level2">
+<h2 class="anchored" data-anchor-id="tatting-j.">Tatting, J.</h2>
+<section id="counter-to-state-of-nature-rule-of-law-argument" class="level4">
+<h4 class="anchored" data-anchor-id="counter-to-state-of-nature-rule-of-law-argument">Counter to State of Nature / Rule of Law Argument</h4>
+<ol type="1">
+<li>The defendants were merely protecting their own lives.</li>
+<li>In a state of nature, this is a justified and legal action.</li>
+<li>Therefore, Whetmore with a revolver protecting his own life is unjustified killing (murder).</li>
+<li>2 and 3 == contradiction.</li>
+<li>Argument from state of nature is a contradiction.</li>
+</ol>
+</section>
+</section>
+<section id="counter-to-counter-argument" class="level2">
+<h2 class="anchored" data-anchor-id="counter-to-counter-argument">Counter to Counter Argument</h2>
+<ol type="1">
+<li>Law ensures peaceful cooperation.</li>
+<li>When peaceful cooperation is impossible, then no law is justified.</li>
+</ol>
+<p>Why?</p>
+<ol type="1">
+<li>Laws have purposes, positive effect and negative effect.</li>
+<li>Positive effect, ensure peaceful cooperation</li>
+<li>Negative effect, self-defense</li>
+</ol>
+</section>
+</section>
+<section id="utilitarian-positivism-bentham-principles-of-morals-and-legislation-jan-2530" class="level1">
+<h1>Utilitarian Positivism – Bentham, Principles of Morals and Legislation (Jan 25–30)</h1>
+<p>Core thesis: Law’s purpose = maximize utility (pleasure – pain); legislation as social engineering.</p>
+<p>Key concepts: Principle of utility, hedonic calculus, sovereign commands, separation of law-as-it-is from law-as-it-ought-to-be.</p>
+<p>Bridge to next: Bentham = classical positivist foundation for Hart.</p>
+<section id="legal-positivism" class="level2">
+<h2 class="anchored" data-anchor-id="legal-positivism">Legal Positivism</h2>
+<p>John Austin:</p>
+<blockquote class="blockquote">
+<p>A law, in the most general and comprehensive acceptation in which the term, in its literal meaning, is employed, may be said to be a rule laid down for the guidance of an intelligent being by an intelligent being having power over him. [The Province of Jurisprudence Determined, selections from Lectures I and VI, 1832]</p>
+</blockquote>
+<p>But notice Bentham’s formulation:</p>
+</section>
+<section id="the-principle-of-utility" class="level2">
+<h2 class="anchored" data-anchor-id="the-principle-of-utility">The Principle of Utility</h2>
+<blockquote class="blockquote">
+<p>Nature has placed mankind under the governance of two sovereign masters, <em>pain</em>, and <em>pleasure</em>.</p>
+</blockquote>
+<ul>
+<li>Every action either promotes pleasure, or mitigates pain.</li>
+<li>Therefore, we evaluate all action by its ability to promote pleasure or mitigate pain.</li>
+</ul>
+<hr>
+<blockquote class="blockquote">
+<p>An action then may be said to be conformable to the principle of utility, or, for shortness sake, to utility, (meaning with respect to the community at large) when the tendency it has to augment the happiness of the community is greater than any it has to diminish it.</p>
+</blockquote>
+</section>
+<section id="of-principles-adverse-to-that-of-utility" class="level2">
+<h2 class="anchored" data-anchor-id="of-principles-adverse-to-that-of-utility">Of Principles Adverse to that of Utility</h2>
+<p>Other possible determinates of actions:</p>
+<ul>
+<li>Asceticism</li>
+<li>Principle of Sympathy and Antipathy</li>
+</ul>
+<hr>
+<section id="asceticism" class="level3">
+<h3 class="anchored" data-anchor-id="asceticism">Asceticism</h3>
+<p>Come in Two Kinds</p>
+<ul>
+<li>Moralists</li>
+<li>Religionists</li>
+</ul>
+<hr>
+<ul>
+<li>like utility, guise through which we might approve or disapprove actions</li>
+<li>actions that diminish happiness are good, actions that promote pain good</li>
+<li>actions promote happiness are bad, actions that diminish pain are good</li>
+</ul>
+<hr>
+<blockquote class="blockquote">
+<p>By the principle of asceticism I mean that principle, which, like the principle of utility, approves or disapproves of any action, according to the tendency which it appears to have to augment or diminish the happiness of the party whose interest is in question; but in an inverse manner: approving of actions in as far as they tend to diminish his happiness; disapproving of them in as far as they tend to augment it. (Principles of Morals and Legislation)</p>
+</blockquote>
+<hr>
+<section id="four-sources-of-pleasure-pain-and-sanction" class="level4">
+<h4 class="anchored" data-anchor-id="four-sources-of-pleasure-pain-and-sanction">Four Sources of Pleasure, Pain, and Sanction</h4>
+<p>Sources of Pleasures and Pains</p>
+<ol type="1">
+<li>Physical</li>
+<li>Political</li>
+<li>Moral</li>
+<li>And Religious</li>
+</ol>
+<hr>
+<ul>
+<li>Physical pains are often natural, i.e., car accidents.</li>
+<li>But, pains from a judge, sovereign, supreme ruling power are synonymous with political sanction</li>
+</ul>
+<hr>
+<p>But . . .</p>
+<blockquote class="blockquote">
+<p>If at the hands of such chance persons in the community, as the party in question may happen in the course of his life to have concerns with, according to each man’s spontaneous disposition, and not according to any settled or concerted rule, it may be said to issue from the <em>moral</em> or <em>popular sanction</em>. [Of Morals, 28]</p>
+</blockquote>
+<hr>
+<p>Superior or invisible being, = religious sanction</p>
+<hr>
+<ul>
+<li><p>Of the Four Sanctions or Sources of Pain and Pleasure</p></li>
+<li><p>Value of a Lot of Pleasure or Pain, How to be Measured</p></li>
+<li><p>Pleasures and Pains, Their Kinds</p></li>
+<li><p>Of Circumstances Influencing Sensibility</p></li>
+</ul>
+</section>
+</section>
+<section id="of-human-actions-in-general" class="level3">
+<h3 class="anchored" data-anchor-id="of-human-actions-in-general">Of Human Actions in General</h3>
+<p>What is the purpose of Government?</p>
+<blockquote class="blockquote">
+<p>The business of government is to promote the happiness of the society, by punishing and rewarding. [61]</p>
+</blockquote>
+<p>Contrast with Aquinas:</p>
+<ul>
+<li>Law = rule and measure of acts whereby man is induced to act or restrained from acting</li>
+</ul>
+</section>
+<section id="but-for-what" class="level3">
+<h3 class="anchored" data-anchor-id="but-for-what">But for what?</h3>
+<blockquote class="blockquote">
+<p>Now the first principle in practical matters, which are the object of the practical reason, is the last end, and the last end of human life is bliss or happiness, as stated above. Consdquently, the law must needs regard principally the relationship to happiness. [Aquinas, ST I-II, Q. 90, 2nd]</p>
+</blockquote>
+</section>
+</section>
+<section id="moving-on" class="level2">
+<h2 class="anchored" data-anchor-id="moving-on">Moving On</h2>
+<p>The proper objectives of law is to promote happiness. This can be found in:</p>
+<blockquote class="blockquote">
+<p>Concrete manifestations of happiness, for example, may be found in personal security and reduced crime rates, enhanced health and declining death rates, broader opportunities for education, the reduction of diseases caused by sewage pollution, and so on. <span class="citation" data-cites="crim26">(<a href="../../../references.html#ref-crim26" role="doc-biblioref"><strong>crim26?</strong></a>)</span></p>
+</blockquote>
+<section id="of-the-limits-of-the-penal-branch-of-jurisprudence" class="level3">
+<h3 class="anchored" data-anchor-id="of-the-limits-of-the-penal-branch-of-jurisprudence">Of the Limits of the Penal Branch of Jurisprudence</h3>
+<p>What can the law forbid?</p>
+<p>Consider:</p>
+<ul>
+<li>Seat belt laws</li>
+<li>Laws against suicide</li>
+<li>Laws against incest</li>
+</ul>
+<hr>
+<p>Kinds of Legal Matter</p>
+<ul>
+<li>Criminal</li>
+<li>Civil</li>
+</ul>
+<hr>
+<p>Two kinds of Legislation</p>
+<ul>
+<li>Moral (Private Ethics)</li>
+<li>Civil (Community), Penal (Penalties)</li>
+</ul>
+<hr>
+<p>How do we distinguish between the limits of law, matters of public and private.</p>
+<p>Ethics == the art of directing men’s actions to the production of the greatest possible quantify of happiness, on the part of those whose interest is in view.</p>
+<hr>
+<p>Directing to action = Coercion</p>
+<blockquote class="blockquote">
+<p>What then are the actions which it can be in a man’s power to direct? They must be either his own actions, or those of other agents. Ethics, in as far as it is the art of directing a man’s own actions, may be styled the <em>art of self-government</em>, or <em>private ethics</em>.</p>
+</blockquote>
+<ul>
+<li>What is coercion?</li>
+<li>Who can be coerced?</li>
+<li>How can they be coerced?</li>
+</ul>
+</section>
+</section>
+</section>
+<section id="exclusive-positivism-and-inclusive-positivism" class="level1">
+<h1>Exclusive Positivism and Inclusive Positivism</h1>
+<ul>
+<li>Rules of recognition
+<ul>
+<li>determine certain facts or events</li>
+<li>taken to yield established ways for creating, modifying, and annuling legal standards</li>
+</ul></li>
+</ul>
+<section id="exclusive-source-of-law" class="level3">
+<h3 class="anchored" data-anchor-id="exclusive-source-of-law">Exclusive Source of Law</h3>
+<blockquote class="blockquote">
+<p>The kind of exclusive positivism I have in mind would baasically hold that legal validity is exhausted by reference to the conventional sources of law: all law is source based, and anything which is not souce based is not laww.</p>
+</blockquote>
+</section>
+<section id="inclusive-source-of-law" class="level3">
+<h3 class="anchored" data-anchor-id="inclusive-source-of-law">Inclusive Source of Law</h3>
+<ul>
+<li><p>Law can include considerations of morality</p></li>
+<li><p>i.e., Ronald Dworkin “maintains that the dependence of legal validity on moral jconsiderations is an essential feature of law which basically derives from law’s profound interpretative nature</p></li>
+</ul>
+</section>
+<section id="limits-of-civil-and-penal-law" class="level2">
+<h2 class="anchored" data-anchor-id="limits-of-civil-and-penal-law">Limits of Civil and Penal Law</h2>
+<ul>
+<li>Legislation and Private ethics</li>
+</ul>
+<section id="some-preliminaries-ii-iv" class="level3">
+<h3 class="anchored" data-anchor-id="some-preliminaries-ii-iv">Some preliminaries, II-IV</h3>
+<ul>
+<li>Ethics: art of directing men’s happiness to the production of the greatest possible quantity of happiness</li>
+</ul>
+<p>Two kinds of action:</p>
+<ul>
+<li>His or her own: private ethics, art of self-government</li>
+<li>Those of other agents:</li>
+</ul>
+<hr>
+<blockquote class="blockquote">
+<p>What other agents then are there, which, at the same time that they are under the influence of man’s direction, are susceptible of happiness. They are of two sorts:</p>
+</blockquote>
+<ol type="1">
+<li><p>Other human beings who are styled persons.</p></li>
+<li><p>Other animals, which, on account of their interests having been neglected by the insensibility of the ancient jurists, stand degraded into the class of things.</p></li>
+</ol>
+</section>
+<section id="the-art-of-government-and-private-government-education" class="level3">
+<h3 class="anchored" data-anchor-id="the-art-of-government-and-private-government-education">The Art of Government and Private Government (Education)</h3>
+<p>Who is responsible for directing others toward happiness?</p>
+<blockquote class="blockquote">
+<p>As to other human beings, the art of directing their actions to the above end is what we mean, or at least, we <em>ought</em> to mean, by the art of government: which, in as far as the measures it displays itself in are of a permanent nature, is generally distinguished by the name of <strong><em>legislation</em></strong>: as it is by that of <strong><em>administration</em></strong>, when they are of a temporary nature, determined by the occurrences of the day.</p>
+</blockquote>
+<ul>
+<li>education for children</li>
+<li>best administered “in virtue of some <strong><em>private</em></strong> relationship”.</li>
+<li>Private vs.&nbsp;Public education</li>
+</ul>
+</section>
+<section id="duties-and-obligations" class="level3">
+<h3 class="anchored" data-anchor-id="duties-and-obligations">Duties and Obligations</h3>
+<ul>
+<li>To one’s self in the pursuit of happiness</li>
+<li>To other’s in <strong><em>their</em></strong> pursuit of happiness</li>
+</ul>
+<p>Obligations depend in part on effects of one’s behavior:</p>
+<ul>
+<li>behavior that effects the agent (Prudence)</li>
+<li>behavior which effects someone other than the agent (duty to one’s neighbor)</li>
+</ul>
+<p>Of that which affects the neighbor, we have:</p>
+<ul>
+<li>Probity, forbearing to diminish another’s happiness</li>
+<li>Beneficence, seek to increase another’s happiness
+<ul>
+<li>Selfish motives, love of reputation for self</li>
+<li>selfless motives sympathy for others</li>
+</ul></li>
+</ul>
+</section>
+<section id="both-private-ethics-and-legislation" class="level3">
+<h3 class="anchored" data-anchor-id="both-private-ethics-and-legislation">Both private ethics and legislation</h3>
+<ul>
+<li>Directed at happiness</li>
+<li>Happiness of every member</li>
+</ul>
+</section>
+<section id="where-is-the-difference" class="level3">
+<h3 class="anchored" data-anchor-id="where-is-the-difference">Where is the difference?</h3>
+<blockquote class="blockquote">
+<p>In that the acts which they ought to be conversant about, though in a great measure, are not perfectly and throughout the same. There is no case in which a private man ought not to direct his own conduct to the production of his own happiness, and of that of his fellow-creatures: but there are cases in which the legislator ought not (in a direct way at least, and by means of punishment applied immediately to particular individual acts) to attempt to direct the conduct of the several other members of the community. Every act which promises to be beneficial upon the whole to the community (himself included) each individual ought to perform of himself: but it is not every such act that the legislator ought to compel him to perform. Every act which promises to be pernicious upon the whole to the community (himself included) each individual ought to abstain from of him: but it is not every such act that the legislator ought to compel him to abstain from.</p>
+</blockquote>
+</section>
+<section id="positive-and-negative-injunctions-rights-and-obligations" class="level3">
+<h3 class="anchored" data-anchor-id="positive-and-negative-injunctions-rights-and-obligations">Positive and Negative Injunctions, Rights and Obligations</h3>
+<blockquote class="blockquote">
+<p>The business is to give an idea of the cases in which ethics ought, and in which legislation ought not (in a direct manner at least) to interfere. If legislation interferes in a direct manner, it must be by punishment. Now the cases in which punishment, meaning the punishment of the political sanction, ought not to be inflicted, have been already stated. [227]</p>
+</blockquote>
+</section>
+<section id="four-cases-of-punishment" class="level3">
+<h3 class="anchored" data-anchor-id="four-cases-of-punishment">Four Cases of Punishment</h3>
+<ol type="1">
+<li>Where it would be groundless</li>
+<li>Where it would be inefficacious</li>
+<li>Where it would be unprofitable</li>
+<li>Where it would be needless</li>
+</ol>
+<hr>
+<ol type="1">
+<li>In actions that are not morally wrong</li>
+<li>Two classes of ineffective laws:</li>
+</ol>
+<ul>
+<li>Bad timing, <em>ex-post-facto</em></li>
+<li>Unadvertised law</li>
+</ul>
+<ol start="3" type="1">
+<li>Where the action could not be prevented by a commandment</li>
+</ol>
+<ul>
+<li>Small children</li>
+<li>Mental health</li>
+<li>Inebriation</li>
+</ul>
+</section>
+<section id="when-the-punishment-is-more-evil-than-the-crime" class="level3">
+<h3 class="anchored" data-anchor-id="when-the-punishment-is-more-evil-than-the-crime">When the punishment is more evil than the crime</h3>
+<blockquote class="blockquote">
+<p>1, The evil of coercion, including constraint or restraint, according as the act commanded is of the positive kind or the negative. 2. The evil of apprehension. 3. The evil of sufferance. 4. The derivative evils resulting to persons in connection with those by whom the three above-mentioned original evils are sustained.</p>
+</blockquote>
+</section>
+</section>
+<section id="subordinate-ends" class="level2">
+<h2 class="anchored" data-anchor-id="subordinate-ends">Subordinate Ends</h2>
+<section id="civil-law" class="level3">
+<h3 class="anchored" data-anchor-id="civil-law">Civil Law</h3>
+<ul>
+<li>Security</li>
+<li>Subsistence</li>
+<li>Abundance</li>
+<li>Equality</li>
+</ul>
+<blockquote class="blockquote">
+<p>As we have seen, security is maintained by laws that protect property and the expectations derived from ownership, and uphold the contracts that facilitate the trade in goods and services. Subsistence and abundance are also derived from this source. When an overall abundance exists but not all enjoy the necessary means of subsistence, then legislative intervention may be conducted in accordance with the “disappointment-prevention principle”, such as when the state takes ownership of an estate for which there is no legitimate heir (122–23), or when a tax on income or property can be introduced without materially detracting from a person’s expectations, and the funds accrued used to provide food and basic services to those in need.</p>
+</blockquote>
+</section>
+<section id="e.g." class="level3">
+<h3 class="anchored" data-anchor-id="e.g.">E.g.,</h3>
+<ul>
+<li>Post-Feudal Europe</li>
+<li>More equal distribution of property</li>
+<li>Slow progress towards equality</li>
+</ul>
+</section>
+<section id="however" class="level3">
+<h3 class="anchored" data-anchor-id="however">However</h3>
+<blockquote class="blockquote">
+<p>The important caveat Bentham introduced to justify his optimism is the proviso that government must not impede this tendency by allowing monopolies, putting “shackles” on trade and industry, or placing obstacles in the path of the division of property on inheritance. <span class="citation" data-cites="crim26">(<a href="../../../references.html#ref-crim26" role="doc-biblioref"><strong>crim26?</strong></a>)</span></p>
+</blockquote>
+<p>Not strictly wealth redistribution:</p>
+<ul>
+<li>No monopolies but . . . No shackles on trade and industry</li>
+<li>Free division of property / inheritance</li>
+</ul>
+<hr>
+<blockquote class="blockquote">
+<p>Bentham believed that facilitating individuals in the pursuit of their interests in a free market is what government should do, because this is the proven best way to maximise the public good. Where laissez-faire does not produce the best result, however, the legislator must act in other direct and indirect ways to produce the optimal outcome. <span class="citation" data-cites="crim26">(<a href="../../../references.html#ref-crim26" role="doc-biblioref"><strong>crim26?</strong></a>)</span></p>
+</blockquote>
+</section>
+<section id="penal-law" class="level3">
+<h3 class="anchored" data-anchor-id="penal-law">Penal Law</h3>
+<ul>
+<li>Directed at deterrence</li>
+<li>Moral Reformation</li>
+<li>Compensation</li>
+<li>Must be appropriate between crimes and punishments</li>
+</ul>
+</section>
+</section>
+</section>
+<section id="sources" class="level1">
+<h1>Sources</h1>
+</section>
+<section id="modern-positivism-hart-law-as-the-union-of-primary-and-secondary-rules-feb-16" class="level1">
+<h1>Modern Positivism – Hart, “Law as the Union of Primary and Secondary Rules” (Feb 1–6)</h1>
+<p>Core thesis: Law = system of rules, not commands (rejects Austin/Bentham sovereign model).</p>
+<p>Primary rules: duty-imposing (what citizens must do).</p>
+<p>Secondary rules: power-conferring (rule of recognition, rule of change, rule of adjudication).</p>
+<p>Key test: Rule of recognition (what officials accept as valid law).</p>
+<p>Strengths: Explains legal systems in modern states; internal point of view.</p>
+<p>Classic comparison: Hart vs.&nbsp;Dworkin (rules vs.&nbsp;principles).</p>
+<section id="recap-of-previous-topics" class="level2">
+<h2 class="anchored" data-anchor-id="recap-of-previous-topics">Recap of Previous Topics</h2>
+<ul>
+<li><strong>Kretzmann’s Lex Iniusta Non Est Lex</strong>: Natural law perspective – unjust laws are not true laws.</li>
+<li><strong>Fuller’s Case of the Speluncean Explorers</strong>: Hypothetical case exploring judicial philosophies, including positivism, natural law, and purposivism.</li>
+<li><strong>Bentham’s Principles of Morals</strong>: Utilitarian foundation for positivism – laws based on utility, separation of law from morality.</li>
+</ul>
+<div class="notes">
+<p>Brief high-level recap to connect to today’s topics on legal positivism and its critiques.</p>
+</div>
+</section>
+<section id="introduction-to-hla-hart" class="level2">
+<h2 class="anchored" data-anchor-id="introduction-to-hla-hart">Introduction to HLA Hart</h2>
+<ul>
+<li>HLA Hart (1907–1992): British legal philosopher.</li>
+<li>Key work: <em>The Concept of Law</em> (1961).</li>
+<li>Builds on Bentham’s positivism but refines it.</li>
+<li>Addresses limitations in command theories (e.g., Austin’s sovereign commands).</li>
+</ul>
+<div class="notes">
+<p>Hart advances positivism by introducing a more sophisticated structure of legal systems.</p>
+</div>
+</section>
+<section id="harts-primary-rules" class="level2">
+<h2 class="anchored" data-anchor-id="harts-primary-rules">Hart’s Primary Rules</h2>
+<hr>
+<p>Some prerequisites:</p>
+<ol type="1">
+<li>Penal law = Just distribution of proposed threats backed by sanctions</li>
+<li>Legislative and Administrative rules for creating legal entities.</li>
+<li>Rules vs.&nbsp;Orders distinction</li>
+<li>Sovereign vs.&nbsp;Legislative authority</li>
+</ol>
+<hr>
+<ul>
+<li><strong>Definition</strong>: Rules that impose duties or obligations directly on individuals (e.g., “Do not steal”).</li>
+<li><strong>Characteristics</strong>:
+<ul>
+<li>Oblige behavior.</li>
+<li>Often backed by sanctions.</li>
+</ul></li>
+<li><strong>Limitations</strong>: In primitive societies, primary rules alone lead to issues like uncertainty, static nature, and inefficiency in disputes.</li>
+</ul>
+<div class="notes">
+<p>Primary rules are the basic content of law, similar to Bentham’s utility-driven commands.</p>
+</div>
+</section>
+<section id="harts-secondary-rules" class="level2">
+<h2 class="anchored" data-anchor-id="harts-secondary-rules">Hart’s Secondary Rules</h2>
+<ul>
+<li><strong>Definition</strong>: Rules about rules – meta-rules that address deficiencies in primary rules.</li>
+<li><strong>Types</strong>:
+<ul>
+<li><strong>Rule of Recognition</strong>: Identifies what counts as valid law (e.g., constitution).</li>
+<li><strong>Rules of Change</strong>: Allow creation, modification, or repeal of primary rules (e.g., legislative procedures).</li>
+<li><strong>Rules of Adjudication</strong>: Empower officials to resolve disputes (e.g., courts).</li>
+</ul></li>
+</ul>
+<div class="notes">
+<p>Secondary rules provide the framework for a mature legal system, distinguishing law from mere habits.</p>
+</div>
+</section>
+<section id="union-of-primary-and-secondary-rules" class="level2">
+<h2 class="anchored" data-anchor-id="union-of-primary-and-secondary-rules">Union of Primary and Secondary Rules</h2>
+<ul>
+<li><strong>Core Idea</strong>: Law is the union of primary (content) and secondary (structure) rules.</li>
+<li><strong>Advantages</strong>:
+<ul>
+<li>Solves problems in primitive rule systems.</li>
+<li>Explains legal validity without relying on morality (contra natural law like Kretzmann).</li>
+</ul></li>
+<li><strong>Connection to Speluncean Explorers</strong>: Judges apply secondary rules to interpret primary ones.</li>
+</ul>
+<div class="notes">
+<p>This model separates “is” (positive law) from “ought” (morality), echoing Bentham.</p>
+</div>
+</section>
+<section id="legal-obligation" class="level2">
+<h2 class="anchored" data-anchor-id="legal-obligation">Legal Obligation</h2>
+<p><img src="./../../../readings/gunman.png" class="img-fluid"></p>
+<hr>
+<ul>
+<li>Legal Obligation: beliefs and motivations regarding punishment are not sufficient</li>
+<li>Being Obliged: beliefs and motivations are sufficient</li>
+</ul>
+<p>For instance, military service.</p>
+</section>
+<section id="introduction-to-ronald-dworkin" class="level2">
+<h2 class="anchored" data-anchor-id="introduction-to-ronald-dworkin">Introduction to Ronald Dworkin</h2>
+<ul>
+<li>Ronald Dworkin (1931–2013): American legal philosopher.</li>
+<li>Key work: <em>The Model of Rules</em> (1967), part of <em>Taking Rights Seriously</em>.</li>
+<li>Critiques legal positivism, including Hart’s model.</li>
+<li>Argues positivism is incomplete for hard cases.</li>
+</ul>
+<div class="notes">
+<p>Dworkin challenges the rule-based view, introducing principles for judicial decision-making.</p>
+</div>
+</section>
+<section id="dworkins-rules-vs.-principles" class="level2">
+<h2 class="anchored" data-anchor-id="dworkins-rules-vs.-principles">Dworkin’s Rules vs.&nbsp;Principles</h2>
+<ul>
+<li><strong>Rules</strong>: All-or-nothing; apply strictly if conditions met (e.g., Hart’s primary/secondary rules).</li>
+<li><strong>Principles</strong>: Weigh and balance; have dimension of weight (e.g., justice, fairness).</li>
+<li><strong>Key Distinction</strong>:
+<ul>
+<li>Rules are like recipes; principles guide discretion.</li>
+</ul></li>
+<li><strong>Critique of Hart</strong>: Positivism focuses on rules but ignores principles in adjudication.</li>
+</ul>
+<div class="notes">
+<p>Links to Speluncean Explorers: Different judges weigh principles differently in the cave dilemma.</p>
+</div>
+</section>
+<section id="dworkins-model-of-rules" class="level2">
+<h2 class="anchored" data-anchor-id="dworkins-model-of-rules">Dworkin’s Model of Rules</h2>
+<ul>
+<li><strong>Positivism’s Flaw</strong>: Treats law as only explicit rules; fails in ambiguous cases.</li>
+<li><strong>Alternative</strong>: Law includes rules + principles + policies.</li>
+<li><strong>Hercules Judge</strong>: Ideal judge interprets law as a coherent whole, fitting principles.</li>
+<li><strong>Implications</strong>: Blurs separation of law and morality (contra Bentham/Hart, closer to natural law elements).</li>
+</ul>
+<div class="notes">
+<p>Dworkin argues for interpretive approach, where morality informs legal validity in hard cases.</p>
+</div>
+</section>
+<section id="comparison-hart-vs.-dworkin" class="level2">
+<h2 class="anchored" data-anchor-id="comparison-hart-vs.-dworkin">Comparison: Hart vs.&nbsp;Dworkin</h2>
+<table class="table">
+<colgroup>
+<col style="width: 19%">
+<col style="width: 40%">
+<col style="width: 40%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Aspect</th>
+<th>Hart (Positivism)</th>
+<th>Dworkin (Interpretivism)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Law’s Nature</td>
+<td>Rules (primary + secondary)</td>
+<td>Rules + principles</td>
+</tr>
+<tr class="even">
+<td>Validity</td>
+<td>Rule of recognition (pedigree)</td>
+<td>Best fit with moral principles</td>
+</tr>
+<tr class="odd">
+<td>Hard Cases</td>
+<td>Judicial discretion (open texture)</td>
+<td>Principled interpretation</td>
+</tr>
+<tr class="even">
+<td>Morality</td>
+<td>Separated from law</td>
+<td>Integrated into interpretation</td>
+</tr>
+</tbody>
+</table>
+<div class="notes">
+<p>High-level contrast building on Bentham’s positivism and Fuller’s exploratory case.</p>
+</div>
+</section>
+<section id="connections-to-prior-topics" class="level2">
+<h2 class="anchored" data-anchor-id="connections-to-prior-topics">Connections to Prior Topics</h2>
+<ul>
+<li><strong>Bentham</strong>: Hart refines utilitarian positivism; Dworkin critiques its moral detachment.</li>
+<li><strong>Kretzmann</strong>: Dworkin’s principles echo natural law’s moral criteria.</li>
+<li><strong>Speluncean Explorers</strong>: Illustrates Hart’s rules in action and Dworkin’s need for principles.</li>
+</ul>
+<div class="notes">
+<p>Ties back for course continuity.</p>
+</div>
+</section>
+<section id="discussion-questions" class="level2">
+<h2 class="anchored" data-anchor-id="discussion-questions">Discussion Questions</h2>
+<ul>
+<li>How does Hart’s model address limitations in Bentham’s theory?</li>
+<li>In what ways does Dworkin extend or challenge the Speluncean judges’ approaches?</li>
+<li>Can unjust laws (per Kretzmann) exist under Hart vs.&nbsp;Dworkin?</li>
+</ul>
+<div class="notes">
+<p>Encourage high-level organization of ideas for class discussion.</p>
+</div>
+</section>
+<section id="references" class="level2">
+<h2 class="anchored" data-anchor-id="references">References</h2>
+<ul>
+<li>Hart, H.L.A. <em>The Concept of Law</em> (1961).</li>
+<li>Dworkin, Ronald. <em>Taking Rights Seriously</em> (1977).</li>
+<li>Fuller, Lon L. “The Case of the Speluncean Explorers” (1949).</li>
+</ul>
+<div class="notes">
+<p>High-level sources for further reading.</p>
+</div>
 </section>
 <section id="oliver-wendell-holmes" class="level2">
 <h2 class="anchored" data-anchor-id="oliver-wendell-holmes">Oliver Wendell Holmes</h2>
@@ -324,8 +1134,8 @@ ul.task-list li input[type="checkbox"] {
 <li>And knowing what the court’s expectations are to avoid punishment</li>
 <li>We want to be able to make predictions</li>
 </ul>
-<section id="duties-and-obligations" class="level3">
-<h3 class="anchored" data-anchor-id="duties-and-obligations">Duties and Obligations</h3>
+<section id="duties-and-obligations-1" class="level3">
+<h3 class="anchored" data-anchor-id="duties-and-obligations-1">Duties and Obligations</h3>
 <ul>
 <li>Legal Duty is the prediction of what would happen in the court of law.</li>
 </ul>
@@ -396,53 +1206,30 @@ ul.task-list li input[type="checkbox"] {
 <p>▪ This would allow for a re-examination of history and tradition in the law.</p>
 <p>• Turn to p.&nbsp;470.</p>
 <p>• Example of whether we can know that the criminal law does more good than harm in present circumstances.</p>
-<section id="cls" class="level3">
-<h3 class="anchored" data-anchor-id="cls">CLS</h3>
-<table class="table">
-<thead>
-<tr class="header">
-<th>Day</th>
-<th>Date</th>
-<th>Discussion</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Tuesday</td>
-<td>February 20</td>
-<td>Critical Legal Studies (Handout – D2L)</td>
-</tr>
-</tbody>
-</table>
+<p>As the following quote shows, Bonaventure was not only committed to theology, but philosophy which according to him, was to better understand the beliefs he held. It is important to note, that philosophy was important even for what he considered matters of faith, which at times, is thought to be immune from the critical reflections that philosophy enables.</p>
+<blockquote class="blockquote">
+<p>And so, if the writings of the philosophers are sometimes of much value in understanding truth and refuting errors, we are not departing from the purity of faith if we at times study them, especially since there are many questions of faith which cannot be settled without recourse to them. (trans. Monti 1994: 53)</p>
+</blockquote>
+<p>From 1243 to 1248, Bonaventure studied theology at the university of Paris. During the course of his studies, he worked with the Fransiscans, a group of Catholic organizations founded by St.&nbsp;Fransis of Assisi, named for the town in Italy where he was born in the year 1209. At the University of Paris, Bonaventure became a <em>Formed Bachelor</em> which meant that he would take on the academic roles of lecturing, getting involved in <em>the</em> disputes, a class of philosophical questions rooted in theology, and preaching. While a formed bachelor, not yet a master, the university’s masters and its students when on strike, leading to them becoming expelled. During this conflict, Bonaventure would be elected to the Fransiscan Chair in theology though he would only teach at the Fransiscan convent which was not recognized by the University.</p>
+<p>There would be some controversy surrounding this since, though the duties Bonaventure performed where those of a Master, he was not recognized as one until 1256 by order of Pope Alexander IV. During this time however, Bonaventure was a prolific scholar producing many texts including his <em>Reduction of Arts to Theology</em> which is a reflection on theological sermons as a genre of art.</p>
+<blockquote class="blockquote">
+<p>The same mode of reasoning is found in On Retracing the Arts to Theology. Here “reduction” consists in developing analogies that move the mind from the liberal arts to theology and back again. Bonaventure argues for each point by combining one claim based on reason with another based on revelation, as though they were wall and buttress of the cathedral of theology. Philosophical reasoning, then, is an absolutely integral part of Bonaventure’s faith-based theology.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>(https://plato.stanford.edu/entries/bonaventure/#BonaIlluArgu)</p>
+</blockquote>
+<p>There are objects we access through our senses. Importantly for Bonaventure, these objects always point towards their source of being, God. But it is not merely the objects in themselves, but rather our apprehension of their “weight, number, and measure” <a href="https://plato.stanford.edu/entries/bonaventure/#BonaIlluArgu">Stanford Encyclopedia of Philosophy</a>, that causes us to contemplate their “measure, beauty, and order” and to <em>delight</em> in this aspect of all that is created.</p>
+<blockquote class="blockquote">
+<p>The world as it is revealed to us through the senses provides the means for our re-entering ourselves and ascending to higher things. Furthermore, the senses themselves are equally signs of higher things.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>exercising their powers of intellect and will, intellectual creatures discover the highest and most perfect object of their powers in the Divine Source of their being, since God is the First or Highest Truth and the First or Chief Good. Accordingly, intellectual creatures have God as their ultimate object, whereas all creatures have God as their Cause. Consequently, intellectual creatures show themselves to be “images” and “likenesses” of God, while they show that all creatures are “shadows” and “vestiges” of God.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>The resolution of all our items of simple apprehension into the concept of being is metaphysically and epistemologically crucial: metaphysically, it opens up a route of argumentation that leads to the existence of God; epistemologically, such a resolution means that behind all, even the most determinate and specific, conceptions of things lies a transcendental awareness of being that informs all of our knowledge.</p>
+</blockquote>
 </section>
 </section>
-<section id="lecture-slides" class="level2">
-<h2 class="anchored" data-anchor-id="lecture-slides">👨‍🏫 Lecture Slides</h2>
-<p>Either click on the slide area below or click <a href="slides.qmd">here</a> to view it in fullscreen. Use your keypad to navigate the slides. Additionally, click <a href="summary.qmd">here</a> to view a more indepth summary of the lecture.</p>
-<div class="container" style="position: relative;overflow: hidden;width: 100%;min-height:600px;">
-<iframe src="slides.html" style="position=absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;min-height:600px;">
-</iframe>
-</div>
-<p>🎥 Looking for lecture recordings? In the future, you can find them on Canvas.</p>
-</section>
-<section id="coursework" class="level2">
-<h2 class="anchored" data-anchor-id="coursework">✍️ Coursework</h2>
-<p>🚧 Visit Canvas after the lecture to read the coursework instructions for the week 🚧</p>
-</section>
-<section id="recommended-reading" class="level2">
-<h2 class="anchored" data-anchor-id="recommended-reading">📚 Recommended Reading</h2>
-<ul>
-<li>Check the end of slides for the list of references cited in the lecture.</li>
-</ul>
-</section>
-<section id="communication" class="level2">
-<h2 class="anchored" data-anchor-id="communication">📟 Communication</h2>
-<ul>
-<li>If you feel like it, introduce your ‘selves’ in the <code>#introductions</code> channel in <a href="https://stetson.instructure.com/courses/38093/discussion_topics/162462">Discussions</a></li>
-</ul>
-</section>
-<section id="cls-scholars-try-to-establish-the-illegitimacy-of-the-legal-order-by-debunking-laws-pretensions-to-determinacy-neutrality-and-objectivity." class="level1">
-<h1>CLS scholars try to establish the illegitimacy of the legal order by debunking law’s pretensions to determinacy, neutrality, and objectivity.</h1>
+<section id="cls" class="level1">
+<h1>CLS</h1>
+<p>Scholars try to establish the illegitimacy of the legal order by debunking law’s pretensions to determinacy, neutrality, and objectivity.</p>
 <p>Shaped by:</p>
 <ul>
 <li>Marxist</li>
@@ -857,9 +1644,6 @@ ul.task-list li input[type="checkbox"] {
 <p>In place of the apparatus of rule making and rule application, with its attendant premises and attitudes, we come suddenly on a gap, a balancing test, a good faith standard, a fake or incoherent rule, or the enthusiastic adoption of a train of reasoning all know will be ignored in the next case.</p>
 <p>In terms of individualism, the judge has suddenly begun to act in bad faith. In terms of altruism she has found herself.</p>
 <p>The only thing that counts is this change in attitude, but it is hard to imagine anything more elusive of analysis.</p>
-<section id="week-6" class="level2">
-<h2 class="anchored" data-anchor-id="week-6">Week 6</h2>
-</section>
 </section>
 <section id="crito" class="level1">
 <h1>Crito</h1>
@@ -906,6 +1690,12 @@ ul.task-list li input[type="checkbox"] {
 
 </section>
 </section>
+<aside id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn1"><p>Stanford Encyclopedia of Philosophy, bottom of section 2<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</aside>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -1305,8 +2095,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../../../data/course.phil.law/assignments/index.html" class="pagination-link" aria-label="<span class='chapter-number'>13</span>&nbsp; <span class='chapter-title'>Assignment Rules</span>">
-        <span class="nav-page-text"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">Assignment Rules</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../../../data/course.phil.law/course-assignments/index.html" class="pagination-link" aria-label="<span class='chapter-number'>13</span>&nbsp; <span class='chapter-title'>index.html</span>">
+        <span class="nav-page-text"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">index.html</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

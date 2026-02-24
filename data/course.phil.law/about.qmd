@@ -6,22 +6,12 @@
 [Stetson University](#)</a><br/>
 📧 [mreynolds1@stetson.edu](mailto:)
 
-Office Hours:
-
-- When:
-  * Tuesday: 1:00–3:00 PM
-  * Thursday: 1:00–3:00 PM
-- Where: Elizabeth Hall 104
-- How to book: Drop in, email, or book via [Microsoft Bookings](https://outlook.office.com/bookwithme/user/59570715559b43fdabc651a89a3ed839@stetson.edu?anonymous&ismsaljsauthenabled&ep=plink)
 
 ## Course Information
 
 ### Required Texts:
 
-[Feinberg, Joel, and Jules L. Coleman. 2008. Philosophy of Law / Edited by Joel Feinberg, Jules Coleman. 8th ed. Thomson/Wadsworth.
-](https://www.amazon.com/Philosophy-text-Eighth-Feinberg-Coleman/dp/B004IS2MP6/ref=monarch_sidesheet_title)
-
-Required: Handouts
+{{< include ./course-schedule/index.qmd >}}
 
 ### Expectations:
 
@@ -43,13 +33,7 @@ Makeup Process: Email the instructor within 48 hours to arrange an extension. No
 
 ## Grading Calculation
 
-***Weekly Reflections:*** Each reflection is worth a possible total of 8 points. There are 12 possible reflections. I will only grade 8 or your best reflections.
-
-***Reflective Analysis 1 & 2 (160 points):*** Each reflective analysis is worth a possible total of 20 points per category, times 4 categories equals 80 points times 2 reflection pieces.
-
-***Essay 1 & 2 (80 points):*** Each Quiz is worth a possible total of 10 points per category, times 4 categories equals 40 points times 2 Quizzes.
-
-{{< include ./../assignments/d&d-campaigns/assignment-summary.qmd >}}
+{{< include ./course-assignments/index.qmd >}}
 
 Students will be evaluated based on a total of 640 points, with the final grade determined by the percentage of points earned. The components are as follows:
 
@@ -57,59 +41,15 @@ Students will be evaluated based on a total of 640 points, with the final grade 
 
 #### For more detailed information regarding the DND Adventures, [see the DND addendum here](./weeks/dnd-campaign.qmd)
 
-### Attendance (5% of final grade, 32 points):
+{{< include ./course-assignments/weeklies/index.qmd >}}
 
-* Based on unexcused absences throughout the semester.
+{{< include ./course-assignments/critical-reflections/index.qmd >}}
 
-Grading Scale (equal increments of 8 points):
+{{< include ./course-assignments/quizzes/index.qmd >}}
 
-||||
-|---|---|---|
-| 0–1 | unexcused absences: | 32 points |
-| 2 | unexcused absences: | 24 points |
-| 3–4 | unexcused absences: | 16 points |
-| 5–6 | unexcused absences: | 8 points |
-| 6 | unexcused absences: | 0 points |
+{{< include ./course-assignments/d&d-campaigns/index.qmd >}}
 
-## Course Schedule
-
-Here is the syllabus formatted as a clean Markdown table using only the vertical line `|` as the separator (with a properly spanned title row):
-
-| Day | Date | Discussion |
-| --- | --- | --- |
-| Tuesday | January 13 | Introduction to Philosophy of Law and Organization of Class |
-| Thursday | January 15 | Fuller, "The Case of the Speluncean Explorers" (Handout - Canvas) |
-| Tuesday | January 20 | Kretzmann, “Lex Iniusta Non Est Lex: Laws on Trial” (Handout – Canvas) |
-| Thursday | January 22 | Bentham, “The Principles of Morals and Legislation” (Handout, pages 224-248 -D2L) |
-| Tuesday | January 27 | Bentham (Continued) |
-| Thursday | January 29 | Hart, “Law as the Union of Primary and Secondary Rules” (crc, 53) |
-| Tuesday | February 3 | Hart (Continued) |
-| Thursday | February 5 | Dworkin, “The Model of Rules” (148) |
-| Tuesday | February 10 | Dworkin, “Integrity in Law” (169) |
-| Thursday | February 12 | Holmes, “The Path of the Law” (197); Frank, “Legal Realism” (205) |
-| Tuesday | February 17 | Critical Legal Studies (Handout – D2L) |
-| Thursday | February 19 | Plato, Crito (Handout – D2L) |
-| Tuesday | February 24 | Crito (Continued) |
-| Thursday | February 26 | Quiz 1 |
-| Tuesday | March 3 | Spring Break |
-| Thursday | March 5 | Spring Break |
-| Tuesday | March 10 | Hart, “Postscript: Responsibility and Retribution” (317) |
-| Thursday | March 12 | Duff, “Choice, Character, and Action” (328) |
-| Tuesday | March 17 | Parker, “Blame, Punishment and the Role of Result” (Handout – D2L) |
-| Thursday | March 19 | Spring Break |
-| Tuesday | March 24 | Spring Break |
-| Thursday | March 26 | Self Defense (Handout – D2L) |
-| Tuesday | March 31 | Self Defense (Continued) |
-| Thursday | April 2 | Excuse, Justification, Subjective/Objective Liability (Handout – D2L) |
-| Tuesday | April 7 | Mill, “On Liberty” (258) |
-| Thursday | April 9 | Dworkin, “Paternalism” (271); Griswold v. Connecticut (summary on www) |
-| Tuesday | April 14 | Devlin, “Morals and the Criminal Law” (283) |
-| Thursday | April 16 | “The Moral Significance of Terrorism” (Handout – D2L) |
-| Tuesday | April 21 | Dershowitz, “Should the Ticking Bomb Terrorist be Tortured” (Paper Due at End of Class) |
-| Thursday | April 23 | Bork, “The Original Understanding” (Handout – D2L) |
-| Tuesday | April 28 | Bork (Continued), last day of classes|
-| Thursday | April 30 | Final exams, final paper due, TBD |
-| Tuesday | May 3 | Final exams TBD |
+{{< include ./course-assignments/attendance-policy/index.qmd >}}
 
 ## Grading Calculation
 

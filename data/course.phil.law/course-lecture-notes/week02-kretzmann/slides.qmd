@@ -1,4 +1,10 @@
-# Introduction
+#  Natural Law Tradition – Kretzmann, “Lex Iniusta Non Est Lex” (Jan 20–23)
+
+Core thesis: Unjust law is not truly law (Aquinas-derived: law must be ordered to common good, promulgated, etc.).
+
+Key concepts: Validity vs. obligatoriness; “no law” vs. “bad law” distinction.
+
+Comparison anchor: Direct foil to positivism (Bentham/Hart: a valid law can still be unjust and still bind).
 
 ## Three Questions
 
@@ -29,8 +35,6 @@ Claims about natural ontological inclusion conditions
 
 > Many kinds of things have inclusion conditions that are entirely non-evaluative. For instance, it seems reasonable to suppose that no natural kinds have evaluative conditions among their inclusion among their standard inclusion conditions.
 
----
-
 Claims about non-natural ontological inclusion conditions
 
 * These are entirely non-evaluative, such as the iambic pentameter
@@ -40,8 +44,6 @@ The employee example is interesting. What makes an employee?:
 * That they work?
 * That they do just enough work?
 * That they do not do any work but are still paid by an employer?
-
----
 
 Overt and Invariable evaluative kinds:
 
@@ -61,8 +63,6 @@ Law == justice and truth
 * Corrupt judges
 * Counter fit dollar bills
 
----
-
 Difference between evaluative and ontological judgments.
 
 * Is a corrupt judge still a judge?
@@ -71,8 +71,6 @@ Difference between evaluative and ontological judgments.
 These judgments are different in kind from judgments about counter fit dollar bills but they are made analogously.
 
 Lyon's rejects the slogan, Kretzmann finds truth in it that is not paradoxical.
-
----
 
 1. Laws can intelligently be judged good or bad
 2. Wise or foolish
@@ -159,12 +157,3 @@ As such,
 1. Fundamental directives of human action
 2. Grounded in principles of practical reason
 
-# Definition and Evaluation in Aquinas' Treatise on Law
-
-# Inclusion Conditions for Law
-
-# Non-Evaluative and Evaluative Conditions
-
-# Aquinas' Assessments of Law
-
-# Laws on Trial in the Court of Conscience

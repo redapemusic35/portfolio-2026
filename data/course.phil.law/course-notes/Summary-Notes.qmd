@@ -1,0 +1,60 @@
+## 2. Unit 1: Introduction & Fuller – “The Case of the Speluncean Explorers” (Jan 13–15)
+
+Core thesis: Extreme hypothetical reveals deep divides in legal reasoning; no single “correct” answer—law blends rules, morality, consequences, and interpretation.
+Key contrasting judges (organize essays around these four views):
+True judge (positivist/formalist): strict letter of statute.
+Natural-law judge: unjust “law” is no law.
+Utilitarian judge: greatest happiness / least suffering.
+Interpretive judge: purpose and spirit of law.
+
+High-level takeaway: Law is not mechanical; judges inevitably import philosophy.
+
+## 3. Unit 2: Natural Law Tradition – Kretzmann, “Lex Iniusta Non Est Lex” (Jan 20–23)
+
+Core thesis: Unjust law is not truly law (Aquinas-derived: law must be ordered to common good, promulgated, etc.).
+Key concepts: Validity vs. obligatoriness; “no law” vs. “bad law” distinction.
+Comparison anchor: Direct foil to positivism (Bentham/Hart: a valid law can still be unjust and still bind).
+
+## 4. Unit 3: Utilitarian Positivism – Bentham, Principles of Morals and Legislation (Jan 25–30)
+
+Core thesis: Law’s purpose = maximize utility (pleasure – pain); legislation as social engineering.
+Key concepts: Principle of utility, hedonic calculus, sovereign commands, separation of law-as-it-is from law-as-it-ought-to-be.
+Bridge to next: Bentham = classical positivist foundation for Hart.
+
+## 5. Unit 4: Modern Positivism – Hart, “Law as the Union of Primary and Secondary Rules” (Feb 1–6)
+
+Core thesis: Law = system of rules, not commands (rejects Austin/Bentham sovereign model).
+Primary rules: duty-imposing (what citizens must do).
+Secondary rules: power-conferring (rule of recognition, rule of change, rule of adjudication).
+
+Key test: Rule of recognition (what officials accept as valid law).
+Strengths: Explains legal systems in modern states; internal point of view.
+Classic comparison: Hart vs. Dworkin (rules vs. principles).
+
+## 6. Unit 5: Dworkin’s Interpretivism (Feb 8–13)
+
+Readings: “The Model of Rules” + “Integrity in Law”.
+Core theses:
+Rules alone insufficient; law includes principles (weighted, not all-or-nothing).
+Law as integrity: best constructive interpretation that fits past decisions and justifies them in moral light (“law as a chain novel”).
+
+Key critique of Hart: “semantic sting” – positivists wrong about criteria of legality.
+Essay-ready contrast table (memorize structure):AspectHart (Positivism)Dworkin (Interpretivism)Nature of lawRules + social factPrinciples + moral fitJudicial roleApply valid rulesInterpret for integrityLaw-moralitySeparableInseparable in hard cases
+
+## 7. Unit 6: Legal Realism – Holmes & Frank (Feb 17? per schedule alignment)
+
+Holmes, “The Path of the Law”: Law = prediction of what courts will do (“bad man” view). Focus on consequences, not logic or morality.
+Frank, “Legal Realism”: Rule skepticism + fact skepticism; judges decide first, rationalize later; law is uncertain and human.
+High-level role: Bridge from positivism to CLS; law is not a closed system of rules.
+
+## 8. Unit 7: Critical Legal Studies (CLS) (Feb 20 per syllabus.html)
+
+Core thesis: Law is politics/indeterminacy masked as neutral; serves dominant power structures (race, class, gender).
+Key moves: Trashing (indeterminacy of doctrine), deconstruction, alternative narratives.
+Relation to prior units: Radical extension of Realism + Marxist/feminist critique of Hart/Dworkin “liberal” assumptions.
+
+## 9. Unit 8: Plato, Crito (Feb 22–27 – likely on Quiz)
+
+Core thesis: Socrates must obey Athens’ laws (social contract, gratitude, consistency arguments).
+Key arguments: Personified Laws speech; harm to the city; better to suffer injustice than commit it.
+Essay hook: Does Crito support natural-law obligation or positivist duty to obey any law? Link to Kretzmann (“unjust law”) and CLS (law as power).

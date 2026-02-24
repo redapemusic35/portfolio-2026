@@ -1,0 +1,17 @@
+# Lectures
+
+{{< include ./../course-notes/Summary-Notes.qmd >}}
+
+{{< include ./week01-fuller/slides.qmd >}}
+
+{{< include ./week02-bentham/slides.qmd >}}
+
+{{< include ./week03-hart-primary/slides.qmd >}}
+
+{{< include ./week04-holmes-frank/slides.qmd >}}
+
+{{< include ./week04-dworkin-integrity/slides.qmd >}}
+
+{{< include ./../course-lecture-notes/week05-cls/slides.qmd >}}
+
+{{< include ./../course-lecture-notes/week05-crito/slides.qmd >}}

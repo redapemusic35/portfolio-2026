@@ -2,6 +2,6 @@
 title: Exams
 ---
 
-{{< include ./exam-1-logicmatters.qmd >}}
+{{< include ./exam-1/exam-1-logicmatters.qmd >}}
 
-{{< include ./answers-exam-1-logicmatters.qmd >}}
+{{< include ./exam-1/answers-exam-1-logicmatters.qmd >}}
