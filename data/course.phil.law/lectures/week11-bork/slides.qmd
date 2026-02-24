@@ -1,30 +1,3 @@
----
-subtitle: "PHIL343A -- Aesthetics"
-title: "<font style='font-size:1em;'>🗓️ Week 08<br/> Bonaventure</font>"
-author: Prof. [Reynolds](#)
-institute: '[Stetson University](#)'
-date: 02 September 2026
-date-meta: 14 March 2023
-date-format: "DD MMM YYYY"
-toc: false
-toc-depth: 1
-toc-title: "The Art of Imitation:"
-center-title-slide: false
-from: markdown+emoji
-format:
-  revealjs:
-    theme: moon
-    fig-responsive: true
-    slide-number: true
-    incremental: true
-    mouse-wheel: false
-    auto-play-media: true
-    preview-links: auto
-    logo: /figures/icons/course_favicon.png
-    css: /css/styles_slides.css
-    footer: 'PHIL343A -- Aesthetics Aristotle'
----
-
 As the following quote shows, Bonaventure was not only committed to theology, but philosophy which according to him, was to better understand the beliefs he held. It is important to note, that philosophy was important even for what he considered matters of faith, which at times, is thought to be immune from the critical reflections that philosophy enables.
 
 > And so, if the writings of the philosophers are sometimes of much value in understanding truth and refuting errors, we are not departing from the purity of faith if we at times study them, especially since there are many questions of faith which cannot be settled without recourse to them. (trans. Monti 1994: 53)
