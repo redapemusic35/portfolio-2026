@@ -1,12 +1,12 @@
-# D&D Campaigns (96 points total)
+### D&D Campaigns (96 points total)
 
-## Overview & Purpose
+#### Overview & Purpose
 
 Your grade in this area is based on preparation and active participation during D&D-style class meetings. The format uses a simplified, philosophy-focused adaptation of Dungeons & Dragons to encourage students to talk through, debate, and critically engage with the philosophical issues in the assigned readings — not just summarize or repeat them.
 
 The core idea: Turn abstract philosophical texts into immersive, narrative "quests" or "dungeons" where the reading provides the backdrop (e.g., a moral dilemma in a kingdom, a metaphysical riddle from an adversarial entity, or an epistemological challenge). This creates lively discussion, risk, uncertainty, and stakes via dice rolls — mirroring real philosophical debate.
 
-### Key Differences from Traditional D&D
+#### Key Differences from Traditional D&D
 
 This is not full tabletop RPG gameplay (no complex combat, character stats, or long campaigns). It is a structured, turn-based discussion tool designed to make philosophy feel urgent, personal, and collaborative.
 Overall Assignment Setup

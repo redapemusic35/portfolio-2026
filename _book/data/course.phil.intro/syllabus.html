@@ -71,35 +71,6 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
@@ -243,7 +214,7 @@ window.Quarto = {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../../data/course.phil.law/assignments/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">Assignments</span></span></a>
+ <span class="menu-text"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">Assignment Rules</span></span></a>
   </div>
 </li>
       </ul>
@@ -342,22 +313,19 @@ window.Quarto = {
 <p>Each week on Wednesday (except Aug.&nbsp;19th, August 26th, Oct 14th, Nov 25th, Dec 2nd, Dec 9th) a short weekly will be due, (just the front and back of a 3x5 note card). Weeklies will be based on the assigned readings and/or the discussion from the previous class. Each weekly is worth 7 points (maximum), and I will assign a total of 11 weeklies. I will drop the three lowest scored weeklies. Since I include in your total paper grade 11 weeklies at 10 points per weekly, the total points possible on weeklies is 110. If you should earn more than one hundred points on weeklies, all additional points count as extra credit. Finally, since the weekly is due at the beginning of class, arriving to class on time is essential. I will not accept the weekly after 5 minutes from the start of class. If you arrive late or are absent, you receive a zero for the weekly. I do give partial credit for weeklies, and just putting your name on the top is worth one point. (It would be best if you purchase a set of 3x5 note cards to right your weekly on.) The purpose of these weeklies is to help me assess how e↵ectively I am going over the material. As such, what I am looking for is a short/ concise exposition of either the reading or of the discussion from the week before. I will let you know which when I assign the weekly on the Monday prior.</p>
 <p><strong><em>Quizzes 1 &amp; 2 (80 points):</em></strong> Each Quiz is worth a possible total of 10 points per category, times 4 categories equals 40 points times 2 Quizzes.</p>
 <p>Each of the scheduled examinations will cover lectures, discussions and assigned readings from the classes that precede it. You are responsible for assigned readings without regard to whether they were covered in class. The final examination will focus primarily on the lectures, discussions and readings subsequent to the first examination, but it may cover material from the whole semester. I generally do not give makeup examinations. I believe that doing so penalizes those who diligently prepare for class.</p>
-<p><strong><em>Essays 2 (80 points each):</em></strong></p>
-<ul>
-<li><p>Your paper should consist of two distinct parts. The first part, which should account for approximately half the length of the paper, should be a short explication of the essay you have chosen. This part should contain a statement of the author’s position, a statement of your own position (tell me whether you agree or disagree with the author) and an explanation of the author’s supporting arguments.</p></li>
-<li><p>The second half of the paper should consist of your own evaluation or critique of the essay. In this part of the paper you should tell me WHY you agree or disagree with the author. If you agree with the author you should tell me what argument(s) are convincing. Then tell me what argument(s) might be proffered by one who disagrees with the author and how the author might respond.</p></li>
-<li><p>If you disagree with the author, you should provide criticism of the author’s essay and attempt to explain how the author might respond to the criticism. Hence, whether you agree or disagree with the author, you should provide arguments against the author and responses thereto. Finally, you should explain why you believe your position is the best position. You must NOT use outside sources for this essay. I will provide a more detailed account in class.</p></li>
-</ul>
-<p><strong><em>D&amp;D Campaigns (96 points):</em></strong> Your grade in this area depends on your preparation and participation in the DND class meetings. <a href="https://drive.google.com/drive/folders/1ZAXxdpvv5jzylj8_18jXUTI68o9MLrXw?usp=sharing">We will use the dnd adventure sheet linked here to gage participation</a>.</p>
-<p>The DM presents a summary of the assigned text. They will then present a D&amp;D structured adventure of the text (this will be provided). The core issues of the text will be narratively framed already: The group will be a party of adventurers whose job it is to solve the issues before them in order to advance. The reading is the “quest” or “dungeon” backdrop—e.g., a moral/ethical, metaphysical/epistemological dilemma in a kingdom, or a riddle posed by an adversarial entity (the DM).</p>
-<p>The DM introduces <strong><em>several challenges</em></strong> sequentially. Each challenge draws directly from key concepts, arguments, objections, or thought experiments in the reading. Examples: You’ve created an intelligent and conscious sim population <span class="math inline">\(\rightarrow\)</span> Debate your obligations to them. You’ve fallen in love with a player in an MMO who you only know as their character <span class="math inline">\(\rightarrow\)</span> Explore is this true love?</p>
-<p>For each <strong><em>challenge</em></strong> any group member can respond by: <strong><em>Asking a clarifying question</em></strong> about the challenge (probing the text/concept). <strong><em>Offering a suggestion/solution</em></strong> (proposing a philosophical position, argument, or counter). The DM evaluates the response (as the “world” reacting). The responding player <strong><em>rolls dice</em></strong> (typically a d20, we will ignore modifiers this time around) to determine whether they defend the position or attack it.</p>
-<ul>
-<li>Success means attacking the position</li>
-<li>Failure means defending the position</li>
-</ul>
-<p>After the first response/roll: Each person’s response will be based on whether they win or loose the dice roll. Other group member get turns to <strong><em>offer their own responses</em></strong> or build on/counter the previous one. They also <strong><em>roll dice</em></strong> to suggest “other considerations” (e.g., other defenses of the DM’s positions; other criticism’s of the DM’s position; edge cases; objections from the reading). This creates a back-and-forth discussion, with dice adding chance, excitement, and stakes—mirroring how philosophical debates involve risk, uncertainty, and persuasion.</p>
-<p>Resolution &amp; Reflection occurs when the DM adjudicates the collective outcomes (what is plausible?). The session ends with debrief: How did the “adventure” illuminate the reading? What arguments won/lost? How does this apply to real philosophy? Did you change your original position?</p>
+<p><strong><em>Critical Reflection 1 &amp; 2 (160 points):</em></strong> Each reflective analysis is worth a possible total of 20 points per category, times 4 categories equals 80 points times 2 reflection pieces.</p>
+<p>You will be required to write one paper, which must be type-written, double-spaced, and six to eight pages in length. This is NOT a research paper. Below are several topics, each student must choose ONE to which s/he will respond. If you wish to write a paper on a topic other than one of those suggested by me contact me after class and we can make an appointment during my office hours to discuss other topics. (I will be more than happy to approve relevant topics.) The papers you write are not opinion papers. It is standard practice among philosophers to view mere opinion to be worth less than the energy used to express it. What is worthwhile is a reasoned defense of one’s opinion. Your paper should be written so as to present rational argument for the position which you hold.</p>
+<p>Your paper should consist of two distinct parts. The first part, which should account for approximately half the length of the paper, should be a short explication of the essay you have chosen. This part should contain a statement of the author’s position, a statement of your own position (tell me whether you agree or disagree with the author) and an explanation of the author’s supporting arguments. The second half of the paper should consist of your own evaluation or critique of the essay. In this part of the paper you should tell me WHY you agree or disagree with the author. If you agree with the author you should tell me what argument(s) are convincing. Then tell me what argument(s) might be pro↵ered by one who disagrees with the author and how the author might respond. If you disagree with the author, you should provide criticism of the author’s essay and attempt to explain how the author might respond to the criticism. Hence, whether you agree or disagree with the author, you should provide arguments against the author and responses thereto. Finally, you should explain why you believe your position is the best position. You must NOT use outside sources for this essay. I will provide a more detailed account in class.</p>
+<section id="dd-campaigns-96-points-total" class="level3">
+<h3 class="anchored" data-anchor-id="dd-campaigns-96-points-total">D&amp;D Campaigns (96 points total)</h3>
+<section id="overview-purpose" class="level4">
+<h4 class="anchored" data-anchor-id="overview-purpose">Overview &amp; Purpose</h4>
+<p>Your grade in this area is based on preparation and active participation during D&amp;D-style class meetings. The format uses a simplified, philosophy-focused adaptation of Dungeons &amp; Dragons to encourage students to talk through, debate, and critically engage with the philosophical issues in the assigned readings — not just summarize or repeat them.</p>
+<p>The core idea: Turn abstract philosophical texts into immersive, narrative “quests” or “dungeons” where the reading provides the backdrop (e.g., a moral dilemma in a kingdom, a metaphysical riddle from an adversarial entity, or an epistemological challenge). This creates lively discussion, risk, uncertainty, and stakes via dice rolls — mirroring real philosophical debate.</p>
+</section>
+<section id="key-differences-from-traditional-dd" class="level4">
+<h4 class="anchored" data-anchor-id="key-differences-from-traditional-dd">Key Differences from Traditional D&amp;D</h4>
+<p>This is not full tabletop RPG gameplay (no complex combat, character stats, or long campaigns). It is a structured, turn-based discussion tool designed to make philosophy feel urgent, personal, and collaborative. Overall Assignment Setup</p>
 <p>Students will be evaluated based on a total of 640 points, with the final grade determined by the percentage of points earned. The components are as follows:</p>
 <section id="attendance-5-of-final-grade-32-points" class="level5">
 <h5 class="anchored" data-anchor-id="attendance-5-of-final-grade-32-points">Attendance (5% of final grade, 32 points):</h5>
@@ -394,6 +362,8 @@ window.Quarto = {
 </tr>
 </tbody>
 </table>
+</section>
+</section>
 </section>
 <section id="reading-schedule" class="level3">
 <h3 class="anchored" data-anchor-id="reading-schedule">Reading Schedule</h3>

@@ -6,12 +6,17 @@
     "section": "",
     "text": "1 About\nPhD in Philosophy with 20+ years blending storytelling and education, using narratives to unpack complex philosophical theories. While volunteering with minority and disadvantaged youth, I observed how disparaging media shapes perceptions, inspiring a philosophy laboratory. As Director of the Salerno Center for Human Flourishing, I use game-based learning to foster empathy and ethical reasoning. My research, including Play and Meaning (under review), explores narrative ethics in media, drawing on Values@Play and Casas-Roma’s interactive frameworks. This lab leverages music, games, and film to teach rational self-sufficiency and critical thinking, countering negative stereotypes with empowering narratives. I aim to scale this model through an edtech foundation, transforming education for underserved communities globally. I’m eager to connect with educators, technologists, and innovators to advance arts-driven, ethical education. Let’s create cultural impact together!",
     "crumbs": [
+<<<<<<< HEAD
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>About</span>"
+=======
+      "About"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
     "objectID": "intro.html",
     "href": "intro.html",
+<<<<<<< HEAD
     "title": "2  Introduction",
     "section": "",
     "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
@@ -28,12 +33,20 @@
     "crumbs": [
       "Introduction to Logic",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Introduction</span>"
+=======
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
     "objectID": "data/course.phil.logic/index.html#summary",
     "href": "data/course.phil.logic/index.html#summary",
     "title": "Introduction",
+<<<<<<< HEAD
     "section": "",
     "text": "Holmes lived in Baker Street.\nHolmes lived nearer to Paddington Station than to Waterloo Station.\nHolmes was just a person, a person of flesh and blood.\nHolmes really existed.\nSomeone lived for many years at 22 iB Baker Street.\n\n\n\n\n‘Holmes wears a top hat’",
     "crumbs": [
@@ -50,17 +63,32 @@
     "crumbs": [
       "Introduction to Logic",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Syllabus</span>"
+=======
+    "section": "Summary",
+    "text": "Summary\nIn the image below, Sherlock Holmes is wearing a top hat. Therefore in Fiction f, it is true that:\n\nHolmes lived in Baker Street.\nHolmes lived nearer to Paddington Station than to Waterloo Station.\nHolmes was just a person, a person of flesh and blood.\nHolmes really existed.\nSomeone lived for many years at 22 iB Baker Street.\n\n\n\n\n‘Holmes wears a top hat’",
+    "crumbs": [
+      "Introduction to Logic",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
     "objectID": "data/course.phil.logic/syllabus.html#plos",
     "href": "data/course.phil.logic/syllabus.html#plos",
     "title": "Syllabus",
+<<<<<<< HEAD
     "section": "",
     "text": "Argumentation: Students can identify and evaluate argument structures effectively.",
     "crumbs": [
       "Introduction to Logic",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Syllabus</span>"
+=======
+    "section": "PLOs",
+    "text": "PLOs\nEvery course within a given department is expected to satisfy one (or more) of that program’s Learning Outcomes (PLOs), as articulated in that department’s Curriculum Map. Students who take a philosophy course will develop their capacity to (I.) understand and interpret philosophical texts, (II.) identify arguments, (III.) critically assess arguments, (IV.) identify philosophical traditions and methods, (IV.) and/or communicate clearly and effectively. The philosophy department’s five Learning Outcomes are arranged hierarchically, so that the later Learning Outcomes presuppose some familiarity with the lower-order skills. The assignments and work within a given course are expected to develop the skills associated with that course’s PLO, while strengthening the lower- order skills and setting the stage for the development of the higher- order skills. The PLO associated with this course is:\n\nArgumentation: Students can identify and evaluate argument structures effectively.\n\nInformation about the philosophy department’s PLOs can be found at:\nhttp://www.stetson.edu/artsci/philosophy/curriculummap.php",
+    "crumbs": [
+      "Introduction to Logic",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Syllabus</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -71,7 +99,11 @@
     "text": "Course Schedule\n\n\n\n\n\n\n\n\n\n\n\nWeek\nUnit\nTopic\nPages\n\n\n\n\nWeek 1\n1-3\nWhat is deductive logic, validity and soundness?\n1-8\n\n\nWeek 2\n4-6\nProofs and counter examples, and logical validity\n28\n\n\nWeek 3\n7-8\nPropositions, forms, and some syntax\n52\n\n\nWeek 4\n9-11\nMore syntax, some semantics, and form\n72\n\n\nWeek 5\n12-14\nTruth functions, adequacy and tautologies\n104\n\n\nWeek 6\n15-17\nEntailing tautologies, and absurdity\n127\n\n\nWeek 7\n18-19\nThe truth-functional conditionals and natural deduction\n148\n\n\nWeek 8\n20-22\nPredicate proofs: conjunction, negation, disjunction and conditionals\n174\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek\nUnit\nTopic\nPages\n\n\n\n\nWeek 9\n23-24\nPL proofs: theorems, and metatheory\n211\n\n\nWeek 10\n25-27\nNames, predicates, quantifiers, and variables\n230\n\n\nWeek 11\n28-31\nQL languages, simple translations, and QL argumentation\n258\n\n\nWeek 12\n\nInterlude: Arguing in QL, informal QL rules, QL proofs\n290\n\n\nWeek 13\n33-35\nMore QL Proofs, empty domains, Q-Valuations\n315\n\n\nWeek 14\n36\nQ-Validity\n346\n\n\n\n37\nQL Proofs, metatheory\n354\n\n\nWeek 15\n38\nIdentity\n361\n\n\n\n39\nQL=Languages\n367\n\n\n\n40\nDefinite Descriptions\n375\n\n\n\n41\nQL=Proofs\n382",
     "crumbs": [
       "Introduction to Logic",
+<<<<<<< HEAD
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Syllabus</span>"
+=======
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Syllabus</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -82,7 +114,11 @@
     "text": "Academic Accommodation\nIf you anticipate barriers related to the format or requirements of a course, you should meet with the course instructor to discuss ways to ensure full participation. If disability-related accommodations are necessary, you must register with Academic Success through the Accessibility Services Center located at 209 E. Bert Fish Dr. (386-822- 7127; http://www.stetson.edu/administration/academic-success/) and notify the course instructor of your eligibility for reasonable accommodations. The student, course instructor and Academic Success will plan how best to coordinate accommodations. Academic Integrity - DO NOT CHEAT. As a member of Stetson University, I agree to uphold the highest standards of integrity in my academic work. I promise that I will neither give nor receive unauthorized aid of any kind on my tests, papers, and assignments. When using the ideas, thoughts, or words of another in my work, I will always provide clear acknowledgement of the individuals and sources on which I am relying. I will avoid using fraudulent, falsified, or fabricated evidence and/or material. I will refrain from resubmitting without authorization work for one class that was obtained from work previously submitted for academic credit in another class. I will not destroy, steal, or make inaccessible any academic resource material. By my actions and my example, I will strive to promote the ideals of honesty, responsibility, trust, fairness, and respect that are at the heart of Stetson’s Honor System. Cheating violates university regulations and is a reportable offense that may result in academic suspension or dismissal from Stetson University. Every violation of the Honor System will be promptly reported to the Honor System Council for further investigation. In addition to these academic integrity standards, I expect students to treat everyone in the classroom—the instructor, fellow students, and guests—with common courtesy and respect.",
     "crumbs": [
       "Introduction to Logic",
+<<<<<<< HEAD
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Syllabus</span>"
+=======
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Syllabus</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -93,7 +129,11 @@
     "text": "Counseling Center Statement\nCollege can be extremely stressful for students, especially if this is the first time you’ve been away from home for an extended period of time or if there are other pressures that you are facing. For this reason, you may find it helpful to consult the University Counseling Center. Here is their contact information: Phone number: 386-822-8900 Location: The office is located in the gray house behind the Hollis Center pool, at the corner of University Avenue and Bert Fish Drive. Office hours: Weekdays from 8:00 a.m. to 4:30 p.m If you experience a mental health emergency after hours, you can simply call Public Safety (386-822-7300) and ask to speak with the on-call counselor. We are staffed with qualified professional counselors who are trained to support and guide students through difficult transitions, experiences, and feelings. Counseling is confidential and free of charge for all currently enrolled Stetson University students.",
     "crumbs": [
       "Introduction to Logic",
+<<<<<<< HEAD
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Syllabus</span>"
+=======
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Syllabus</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -101,10 +141,17 @@
     "href": "data/course.phil.logic/lectures.html",
     "title": "Lectures",
     "section": "",
+<<<<<<< HEAD
     "text": "Chapter 1: Deductive Logic",
     "crumbs": [
       "Introduction to Logic",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Lectures</span>"
+=======
+    "text": "Chapter 1: Deductive Logic\nSo,",
+    "crumbs": [
+      "Introduction to Logic",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -115,7 +162,11 @@
     "text": "What is an argument?\n\nHow can we determine the premises of an argument?\nWhat is an inference marker and what are some examples?\nHow do we tell whether a given statement is the premise of an argument, or the conclusion?\n\n\nAs I mentioned previously, the most important component of this course, is being able to evaluate arguments for internal cogency.\nBut before we evaluate arguments for internal cogency, we must be able to recognize something as an argument.",
     "crumbs": [
       "Introduction to Logic",
+<<<<<<< HEAD
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Lectures</span>"
+=======
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -126,7 +177,11 @@
     "text": "Some Examples\n\nWe are going to reorganize the following statements into arguments.\n\nMost doctors are caring. After all, most ordinary people are caring — and politicians are ordinary people.\nAnyone who knows how to pole vault, even if she doesn’t get a gold medal in the olympics, will at least get toned arms and abdomen. Jane knows how to pole vault, so she at least has toned arms and abdomen.\nPeter is shorter than Paul and Jim is taller than Paul. So Peter is shorter than Jim.\nAt 12am, Fred is always either bartending, or at home. And assuming he’s at home, he’s building his model train set. Fred was not bartending at midnight. So he was building his model train set.\nKermit is green all over. Hence Kermit is not red all over.\nEvery letter is in a pigeon hole. There are more letters than there are pigeon holes. So some pigeon hole contains more than one letter.\nMiracles cannot happen. Since, by definition, a miracle is an event incompatible with the laws of nature. And everything that happens is always consistent with the laws of nature.\n\n\n\nThere is more than one kind of internal cogency however. We will be talking about logical validity. Internal cogency and logical validity are what underlie the kinds “systematic” evaluations of arguments that we will learn about in this course. Once again, there are more than one of these.\nConsider the following:\n\nMost doctors are caring. After all, most ordinary people are caring — and doctors are ordinary people.\n\nMost ordinary people are caring\nDoctors are ordinary people\nMost Doctors are caring\n\nAnyone who knows how to pole vault, even if she doesn’t get a gold medal in the olympics, will at least have toned arms and abdomen. Jane knows how to pole vault, so she at least has toned arms and abdomen.\n\nAnyone who knows how to pole vault, even if she doesn’t get a gold medal in the olympics, will at least get toned arms and abdomen.\nJane knows how to pole vault.\nJane will at least have toned arms and abdomen.\n\nPeter is shorter than Paul and Jim is taller than Paul. So Peter is shorter than Jim.\n\nPeter is shorter than Paul and Jim is taller than Paul.\nSo Peter is shorter than Jim.\n\nAt 12am, Fred is always either bartending, or at home. And assuming he’s at home, he’s building his model train set. Fred was not bartending at midnight. So he was building his model train set.\n\nAt 12am, Fred is always either bartending, or at home.\nAssuming he’s at home, he’s building his model train set.\nFred was not bartending at midnight.\nSo Fred was building his model train set at midnight.\n\nKermit is green all over. Hence Kermit is not red all over.\n\nKermit is green all over.\nHence Kermit is not red all over.\n\nEvery letter is in a pigeon hole. There are more letters than there are pigeon holes. So some pigeon hole contains more than one letter.\n\nEvery letter is in a pigeon hole.\nThere are more letters than there are pigeon holes.\nSo some pigeon hole contains more than one letter.\n\nMiracles cannot happen. Since, by definition, a miracle is an event incompatible with the laws of nature. And everything that happens is always consistent with the laws of nature.\n\nA miracle is an event that is incompatible with the laws of nature.\nEverything that happens is always consistent with the laws of nature.\nTherefore miracles cannot happen.",
     "crumbs": [
       "Introduction to Logic",
+<<<<<<< HEAD
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Lectures</span>"
+=======
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -137,7 +192,11 @@
     "text": "Kinds of Evaluation\n\nAre the premises supporting the conclusion true?\nIs the inference from the premises to the conclusion lock-tight?\n\n\n\nHow do we determine whether the inference step is lock-tight?\nAssume the truth of the premises",
     "crumbs": [
       "Introduction to Logic",
+<<<<<<< HEAD
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Lectures</span>"
+=======
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -145,10 +204,17 @@
     "href": "data/course.phil.logic/lectures.html#deduction-and-induction",
     "title": "Lectures",
     "section": "Deduction and Induction",
+<<<<<<< HEAD
     "text": "Deduction and Induction\n\n\n\n\n\n\nImportant📢 Important\n\n\n\n\n\n\nIf an inference step from premises to a conclusion is complletely watertight, i.e. if the truth of the premises absolutely guarantee the truth of the conclusion, then we say that this inference step is deductively valid.\n\n\nEquivalently, when an inference step is deductively valid, we will say that its premises deductively entail its conclusion. (smit94?)",
     "crumbs": [
       "Introduction to Logic",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Lectures</span>"
+=======
+    "text": "Deduction and Induction\n\n\n\n\n\n\n📢 Important\n\n\n\n\n\n\nIf an inference step from premises to a conclusion is complletely watertight, i.e. if the truth of the premises absolutely guarantee the truth of the conclusion, then we say that this inference step is deductively valid.\n\n\nEquivalently, when an inference step is deductively valid, we will say that its premises deductively entail its conclusion. (smit94?)",
+    "crumbs": [
+      "Introduction to Logic",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -159,7 +225,11 @@
     "text": "Argument Patterns, or Generalizing\n\nLewis Carroll: No interesting poems are unpopular among people of real taste. No modern poetry is free from affectation. All your poems are on the subject of soap bubbles. No affected poetry is popular among people of real taste. Only a modern poem would be on the subject of soap bubbles. Therefore none of your poems are interesting.\n\n\n\n\nNo interesting poems are unpopular among people of real taste. No modern poetry is free from affectation. All your poems are on the subject of soap bubbles. No affected poetry is popular among people of real taste. Only a modern poem would be on the subject of soap bubbles. Therefore none of your poems are interesting.\n\n\nConclusion: None of your poems are interesting\n\nNo interesting poems are unpopular among people of real taste. (premiss)\n\n\nNo modern poetry is free from affectation. (premiss)\n\n\nAll your poems are on the subject of soap bubbles. (premiss)\n\n\nNo affected poetry is popular among people of real taste. (premiss)\n\n\nOnly a modern poem would be on the subject of soap bubbles. (premiss)\n\n\nAll your poems are modern poems. (from 3, 5)\n\n\nAll your poems are affected. (from 2, 6)\n\n\nNone of your poems are popular among people of real taste. (from 7, 4)\n\n\nAll interesting poems are popular among people of real taste. (from 1)\n\n\nNone of your poems are interesting. (from 8, 9)",
     "crumbs": [
       "Introduction to Logic",
+<<<<<<< HEAD
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Lectures</span>"
+=======
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -170,7 +240,11 @@
     "text": "Validity and Soundness\nCovered So Far:\n\nInference steps being deductively valid.\nTherefore some premises deductively entail a conclusion.\nThis chapter informally explores validity and entailment\n\n\nDefining Validity\n\nAn inference step is valid if and only if (iff) there is no possible situation in which its premises would be true and its conclusion false. Equivalently, in such a case, we will say that the inference’s premises entail its conclusion.",
     "crumbs": [
       "Introduction to Logic",
+<<<<<<< HEAD
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Lectures</span>"
+=======
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -181,7 +255,11 @@
     "text": "Consistency and Equivalency",
     "crumbs": [
       "Introduction to Logic",
+<<<<<<< HEAD
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Lectures</span>"
+=======
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -192,7 +270,11 @@
     "text": "What is a proposition?\n\nOne or more propositions are (jointly) inconsistent if and only if there is no possible situation in which these propositions are all true together.\n\n\n\nSo what is a proposition?\nAyer, A. J. Language, Truth and Logic. Vol. 47. V. Gollancz, 1936.\n\nFor, if I am right, it will also follow that any sentence, whether of the English or any other language, that is equivalent to s can be validly derived, in the language in question, from any sentence that is equivalent to r; and it this that my use of the word “proposition” indicates. (Page 7)\n\n\nFirst a sentence\nNext a statement (imperative, declarative, interrogative, exclamatory)\nEmpirically Verifiable\nTherefore is always either true or false\n\n\n\nNotice which ones can be true or false? Imperative: Go to your room!, Interrogative: Did you have dinner with the victim the night of their murder? Exclamatory: Oh darn! or Declarative?\n\n\nSome Examples\nIf some propositions are consistent with each other, then adding a further true proposition to them can’t make them inconsistent.\n\nYes?\nNo?\n\n\nConsider:\n\nSocrates is a woman.\nNo women are philosophers.\nNow consider:\n\nSocrates is a philosopher\n\n\n\nCan both be true?\nEither inconsistent, or one is false.\n\n\nValidity, Invalidity, and Truth\nThe Invalidity Principle\n\nThe only combination ruled out by the definition of validity is a valid inference step’s having all true premisses and yet a false conclusion. Deductive validity is about the necessary preservation of truth – and therefore a valid inference step cannot take us from actually true premisses to an actually false conclusion. (smit94?)\n\n\n\nEither premises can be jointly consistent, if there is at least one situation where they can all be true together\nThere are inconsistent if there is no possible situation in which all are true together in that situation.\n\nOr premises taken with with their conclusion:\n\nCan the premises of an argument be true while at the same time, denying the truth of the conclusion?\n\nYes: Inconsistent\nNo: Consistent\n\n\n\n\n\nEquivalency\n\nTwo propositions are equivalent iff they are true in exactly the same possible situations.\n\n\n\n\nSome Examples\n\nIf A entails C, and C is equivalent to C 0 , then A entails C 0 .\nIf A entails C, and A is equivalent to A0 , then A0 entails C.\nIf A and B entail C, and A is equivalent to A0 , then A0 and B entail C.",
     "crumbs": [
       "Introduction to Logic",
+<<<<<<< HEAD
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Lectures</span>"
+=======
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -203,7 +285,11 @@
     "text": "More Forms of Inference (Examples)",
     "crumbs": [
       "Introduction to Logic",
+<<<<<<< HEAD
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Lectures</span>"
+=======
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -214,6 +300,7 @@
     "text": "Chapter 1\nWhat are the premisses, inference markers, and conclusions of the following arguments? Which of these arguments do you suppose involve deductively valid reasoning? Why?\n\nSome forms or patterns of inference are deductively reliable, then, meaning that every inference step which is an instance of the same pattern is valid (Smith 2021, 6).\n\n(Just improvise, and answer the best you can!)\n\nThe Democrats will win the election. There’s only a week to go. The polls put them 20 points ahead, and a lead of 20 points with only a week to go to polling day can’t be overturned.\nMost pelicans are corrupt. After all, most ordinary birds are corrupt – and pelicans are ordinary birds.\nAnyone who is well prepared for the race, even if she doesn’t come in first, will at least come in the top 10. Jane is well prepared, so she will at least come in the top ten.\n\n\n\nChapter 2\nWhich of the following claims are true and which are false? Explain why the true claims hold good, and give counterexamples to the false claims.\n\nIf an argument has false premisses and a true conclusion, then the truth of the conclusion can’t really be owed to the premisses: so the argument cannot really be valid.\nYou can make an invalid argument valid by adding extra premisses.\n\n\n\nChapter 3\nWhich of the following patterns of inference are deductively reliable, meaning that all their instances are valid? (Here ‘F’, ‘G’ and ‘H’ hold the places for general terms.) If you suspect an inference pattern is unreliable, find an instance which has to be invalid because it has true premises and a false conclusion.\n\nSome F are G; no G is H; so, some F are not H.\n\n\n\nChapter 4\nWhich of the following arguments are valid? Where an argument is valid, sketch an informal proof. Some of the examples are enthymemes that need repair.\n\nOnly logicians are good philosophers. No existentialists are logicians. Some existentialists are French philosophers. So, some French philosophers are not good philosophers.\nNo philosopher is illogical. Jones keeps making argumentative mistakes. No logical person keeps making argumentative mistakes. All existentialists are philosophers. So, Jones is not an existentialist.\n\n\n\nChapter 6\n\nOnly logicians are wise. Some philosophers are not logicians. All who love Aristotle are wise. Hence some of those who don’t love Aristotle are still philosophers.\n\n\n\nChapter 8\nGive negations of the following in natural English:\n\nIt is not the case that both Jack and Jill went up the hill.\n\nUsing the provided interpretations, render the following into formalized language:\nP: Peter loves Jane.\nQ: Jane loves Peter.\nR: Jesse loves Jane.\nS: Peter is wise.\n\nPeter doesn’t love Jane.\nPeter is wise and he loves Jane.\nEither Peter loves Jane or Jesse does.\nPeter and Jane love each other.\nNeither Peter loves Jane nor does Jesse.\nIt isn’t the case that Peter loves Jane nor does Jane love Peter.\nEither Peter is not wise or both he and Jesse love Jane.\nIt isn’t the case that either Peter loves Jane or Jane loves Peter.\n\n\n\nChapter 1\nWhat are the premisses, inference markers, and conclusions of the following arguments? Which of these arguments do you suppose involve deductively valid reasoning? Why?\n\nSome forms or patterns of inference are deductively reliable, then, meaning that every inference step which is an instance of the same pattern is valid (Smith 2021, 6).\n\n(Just improvise, and answer the best you can!)\n\n\n\n\nThe Democrats will win the election.\nThere’s only a week to go.\nThe polls put them 20 points ahead, and a lead of 20 points with only a week to go to polling day can’t be overturned.\n\n\n\n\n\nMost pelicans are corrupt.\n[After all], most ordinary birds are corrupt – and pelicans are ordinary birds.\n\nInvalid\n\n\n\n\nAnyone who is well prepared for the race, even if she doesn’t come in first, will at least come in the top 10.\nJane is well prepared,\n[so] she will at least come in the top ten.\n\nValid\n\n\nChapter 2\nWhich of the following claims are true and which are false? Explain why the true claims hold good, and give counterexamples to the false claims.\n\nIf an argument has false premisses and a true conclusion, then the truth of the conclusion can’t really be owed to the premisses: so the argument cannot really be valid. (False)\nYou can make an invalid argument valid by adding extra premisses. (True)\n\n\n\nChapter 3\nWhich of the following patterns of inference are deductively reliable, meaning that all their instances are valid? (Here ‘F’, ‘G’ and ‘H’ hold the places for general terms.) If you suspect an inference pattern is unreliable, find an instance which has to be invalid because it has true premises and a false conclusion.\nDeductively Reliable so Valid\n\nSome F are G; no G is H; so, some F are not H.\n\n\n\nChapter 4\nWhich of the following arguments are valid? Where an argument is valid, sketch an informal proof. Some of the examples are enthymemes that need repair.\n\nOnly logicians are good philosophers. No existentialists are logicians. Some existentialists are French philosophers. So, some French philosophers are not good philosophers.\n\n\nOnly logicians are good philosophers.\nNo existentialists are logicians.\nSome existentialists are French philosophers.\nSo, some French philosophers are not good philosophers.\n\n\nOnly L are G (Premise)\nNo E are L (Premise)\nSome E are F (Premise)\nSome F are E (from 3)\nSome F are not L (from 2 and 4)\nSo some F are not G (from 1 and 5)\n\n\nNo philosopher is illogical. Jones keeps making argumentative mistakes. No logical person keeps making argumentative mistakes. All existentialists are philosophers. So, Jones is not an existentialist.\n\n\nNo P is I (Premise)\nJ is M (Premise)\nNo L is M (Premise)\nAll E are P (Premise)\nNo J is L (from 2 and 3)\nNo J is P (from 1 and 5)\nSo no J is E (from 4 and 6)\n\n\n\nChapter 6\n\nOnly logicians are wise. Some philosophers are not logicians. All who love Aristotle are wise. Hence some of those who don’t love Aristotle are still philosophers.\n\n\nOnly L are W (Premise)\nSome P are not L (Premise)\nAll A are W (Premise)\nAll A are L (from 1 and 3)\nSome P are not A (from 2 and 4)\nHence some of those who don’t love Aristotle are still philosophers. (from 5)\n\n\n\nChapter 8\nGive negations of the following in natural English:\n\nIt is not the case that both Jack and Jill went up the hill.\n\nUsing the provided interpretations, render the following into formalized language:\nP: Peter loves Jane.\nQ: Jane loves Peter.\nR: Jesse loves Jane.\nS: Peter is wise.\n\nPeter doesn’t love Jane. (\\(\\neg\\) P)\nPeter is wise and he loves Jane. (S \\(\\land\\) P)\nEither Peter loves Jane or Jesse does. (P \\(\\lor\\) R)\nPeter and Jane love each other. (P \\(\\land\\) Q)\nNeither Peter loves Jane nor does Jesse. \\(\\neg\\) (P \\(\\lor\\) R) or (\\(\\neg\\) P \\(\\land\\) \\(\\neg\\) R)\nIt isn’t the case that Peter loves Jane nor does Jane love Peter. \\(\\neg\\) (P \\(\\lor\\) Q)\nEither Peter is not wise or both he and Jesse love Jane. \\(\\neg\\) S \\(\\lor\\) (P \\(\\land\\) R)\nIt isn’t the case that either Peter loves Jane or Jane loves Peter. \\(\\neg\\) (P $Q)\n\n\n\n\n\nSmith, Peter. 2021. An Introduction to Formal Logic. Second edition, reprinted with corrections. Monee, IL: Logic Matters.",
     "crumbs": [
       "Introduction to Logic",
+<<<<<<< HEAD
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Answer Key to Exam 1</span>"
     ]
   },
@@ -226,17 +313,28 @@
     "crumbs": [
       "Introduction to Philosophy",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Introduction</span>"
+=======
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Exams</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
     "objectID": "data/course.phil.intro/index.html#the-cave",
     "href": "data/course.phil.intro/index.html#the-cave",
     "title": "Introduction",
+<<<<<<< HEAD
     "section": "",
     "text": "Descending back into Plato’s Cave: Onyx’s glowing secret cave (silent looping ambient video from Star Citizen)",
     "crumbs": [
       "Introduction to Philosophy",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Introduction</span>"
+=======
+    "section": "The Cave",
+    "text": "The Cave\n\n\n\nDescending back into Plato’s Cave: Onyx’s glowing secret cave (silent looping ambient video from Star Citizen)",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Introduction</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -247,6 +345,7 @@
     "text": "🎯 Learning Objectives\n\nDevelop critical thinking and reasoning skills\nImprove reading, writing, and discussion abilities\nRecognize and apply philosophical methods\n\n\nNo Lectures\nYou are about to enter The Cave of Wonder and Reason. Forget who you where, here — every cave, dungeon, dream, room, forces you to answer a question philosophers have bled over for 2,500 years. What is consciousness, What is reality?, What is knowledge?.\n\n\n\nHere’s the deal:\nYou roll dice. You defend a position. Is it yours? Who cares. You make choices, are they yours? No, they belong to your avatar. You question your beliefs? No, you question your avatar’s beliefs. You eat your friend.\nThis is not a game. It’s a philosophy lab inside an experience machine.\nBy December, you’ll have lived Socrates, Descartes, Mill, and Rawls — not just read them.\nPick one, this is your character for the rest of the course. That character’s beliefs are your beliefs. In fact, its better that we don’t share our personal beliefs. Make up some. Write your name on them.\nToday, we begin in Room A. A voice echoes:\n\n“What is philosophy?”\n\nRoll a d20. Tell me an answer.",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Introduction</span>"
     ]
   },
@@ -259,6 +358,20 @@
     "crumbs": [
       "Introduction to Philosophy",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Syllabus</span>"
+=======
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.intro/syllabus.html#welcome-to-introduction-to-philosophy",
+    "href": "data/course.phil.intro/syllabus.html#welcome-to-introduction-to-philosophy",
+    "title": "Syllabus",
+    "section": "Welcome to Introduction to Philosophy",
+    "text": "Welcome to Introduction to Philosophy\nA primary objective of this course is to teach students how to construct good arguments and how to assess the arguments of others. In order to accomplish this goal, during the first part of the semester we will read about and discuss what makes a particular argument good or bad and practice constructing good arguments. In addition, we will discuss knowledge and scientific inquiry as this will help us to understand the importance of methodological thought and speech.\nA second objective is to provide an introduction to philosophy. We will read and discuss a variety of philosophical theories (I understand you may not yet know what I mean by the term philosophical theory) and apply these theories to one strange issue: whether or not we are simulations. We will be looking at this issue through several important philosophical questions, if we are a simulation, what is real?, if we are a simulation, how would we know?, if we are a simulation, would our values be different? We will not only look at contemporary issues about ai and sim theory, but will also look at how philosophers of the past posed and attempted to answer this question. Significantly, when we discuss ethics, metaphysics, and epistemology. In doing, we will apply what we learned about argumentation during the first part of the semester.\nIn this course, we will use David Chalmer’s book Reality+ to look at questions humans have been asking for thousands of years. While the primary focus of the book is look at one question in particular “Are we in a simulation?”, we use this question to frame others such as those above.",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Syllabus</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -269,7 +382,11 @@
     "text": "💻 Class Meeting Times\n\n📆 Mondays and Wednesdays\n⌚ 10:30am - 11:45am",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Syllabus</span>"
+=======
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Syllabus</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -280,7 +397,11 @@
     "text": "Course Convenor\nDr. Monty Reynolds 📧 mreynolds1@stetson.edu\nOffice Hours:\n\nWhen:\n\nTuesday: 1:00–3:00 PM\nThursday: 1:00–3:00 PM\n\nWhere: Elizabeth Hall 104\nHow to book: Drop in, email, or book via Microsoft Bookings",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Syllabus</span>"
+=======
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Syllabus</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -291,7 +412,11 @@
     "text": "Course Information\nIntroduction to Philosophy: Value, Meaning, and Humanity’s Place in the Modern World\nTimes: 10:30-11:45 Days: Mons and Weds or Tues Thurs Where: Davis Hall 209",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Syllabus</span>"
+=======
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Syllabus</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -302,7 +427,11 @@
     "text": "Required Texts:\nChalmers, David J.. Reality+: Virtual Worlds and the Problems of Philosophy. United Kingdom: Penguin Books Limited, 2022.\nHere is an amazon link to the book: https://www.amazon.com/Reality-Virtual-Worlds-Problems-Philosophy/dp/0393635805\nThis will also be supplemented with handouts.",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Syllabus</span>"
+=======
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Syllabus</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -313,7 +442,11 @@
     "text": "Expectations:\n\nCome prepared to engage with assigned readings in class, referencing specific passages as prompted by the instructor.\nBring physical or digital copies of readings to class for annotation and short reflections.\nSubmit all assignments via Canvas by the due date.\nActive participation and regular attendance are essential for success.\nSuccess: Active participation, timely submissions, and attendance are key.",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Syllabus</span>"
+=======
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Syllabus</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -321,10 +454,17 @@
     "href": "data/course.phil.intro/syllabus.html#evaluated-activities",
     "title": "Syllabus",
     "section": "Evaluated Activities",
+<<<<<<< HEAD
     "text": "Evaluated Activities\nWeekly Reflections (32 points): These will be done each week in class. Each reflection is worth a possible total of 8 points. There are 12 possible reflections. I will only grade 8 or your best reflections for a possible total of 32 points.\nEach week on Wednesday (except Aug. 19th, August 26th, Oct 14th, Nov 25th, Dec 2nd, Dec 9th) a short weekly will be due, (just the front and back of a 3x5 note card). Weeklies will be based on the assigned readings and/or the discussion from the previous class. Each weekly is worth 7 points (maximum), and I will assign a total of 11 weeklies. I will drop the three lowest scored weeklies. Since I include in your total paper grade 11 weeklies at 10 points per weekly, the total points possible on weeklies is 110. If you should earn more than one hundred points on weeklies, all additional points count as extra credit. Finally, since the weekly is due at the beginning of class, arriving to class on time is essential. I will not accept the weekly after 5 minutes from the start of class. If you arrive late or are absent, you receive a zero for the weekly. I do give partial credit for weeklies, and just putting your name on the top is worth one point. (It would be best if you purchase a set of 3x5 note cards to right your weekly on.) The purpose of these weeklies is to help me assess how e↵ectively I am going over the material. As such, what I am looking for is a short/ concise exposition of either the reading or of the discussion from the week before. I will let you know which when I assign the weekly on the Monday prior.\nQuizzes 1 & 2 (80 points): Each Quiz is worth a possible total of 10 points per category, times 4 categories equals 40 points times 2 Quizzes.\nEach of the scheduled examinations will cover lectures, discussions and assigned readings from the classes that precede it. You are responsible for assigned readings without regard to whether they were covered in class. The final examination will focus primarily on the lectures, discussions and readings subsequent to the first examination, but it may cover material from the whole semester. I generally do not give makeup examinations. I believe that doing so penalizes those who diligently prepare for class.\nEssays 2 (80 points each):\n\nYour paper should consist of two distinct parts. The first part, which should account for approximately half the length of the paper, should be a short explication of the essay you have chosen. This part should contain a statement of the author’s position, a statement of your own position (tell me whether you agree or disagree with the author) and an explanation of the author’s supporting arguments.\nThe second half of the paper should consist of your own evaluation or critique of the essay. In this part of the paper you should tell me WHY you agree or disagree with the author. If you agree with the author you should tell me what argument(s) are convincing. Then tell me what argument(s) might be proffered by one who disagrees with the author and how the author might respond.\nIf you disagree with the author, you should provide criticism of the author’s essay and attempt to explain how the author might respond to the criticism. Hence, whether you agree or disagree with the author, you should provide arguments against the author and responses thereto. Finally, you should explain why you believe your position is the best position. You must NOT use outside sources for this essay. I will provide a more detailed account in class.\n\nD&D Campaigns (96 points): Your grade in this area depends on your preparation and participation in the DND class meetings. We will use the dnd adventure sheet linked here to gage participation.\nThe DM presents a summary of the assigned text. They will then present a D&D structured adventure of the text (this will be provided). The core issues of the text will be narratively framed already: The group will be a party of adventurers whose job it is to solve the issues before them in order to advance. The reading is the “quest” or “dungeon” backdrop—e.g., a moral/ethical, metaphysical/epistemological dilemma in a kingdom, or a riddle posed by an adversarial entity (the DM).\nThe DM introduces several challenges sequentially. Each challenge draws directly from key concepts, arguments, objections, or thought experiments in the reading. Examples: You’ve created an intelligent and conscious sim population \\(\\rightarrow\\) Debate your obligations to them. You’ve fallen in love with a player in an MMO who you only know as their character \\(\\rightarrow\\) Explore is this true love?\nFor each challenge any group member can respond by: Asking a clarifying question about the challenge (probing the text/concept). Offering a suggestion/solution (proposing a philosophical position, argument, or counter). The DM evaluates the response (as the “world” reacting). The responding player rolls dice (typically a d20, we will ignore modifiers this time around) to determine whether they defend the position or attack it.\n\nSuccess means attacking the position\nFailure means defending the position\n\nAfter the first response/roll: Each person’s response will be based on whether they win or loose the dice roll. Other group member get turns to offer their own responses or build on/counter the previous one. They also roll dice to suggest “other considerations” (e.g., other defenses of the DM’s positions; other criticism’s of the DM’s position; edge cases; objections from the reading). This creates a back-and-forth discussion, with dice adding chance, excitement, and stakes—mirroring how philosophical debates involve risk, uncertainty, and persuasion.\nResolution & Reflection occurs when the DM adjudicates the collective outcomes (what is plausible?). The session ends with debrief: How did the “adventure” illuminate the reading? What arguments won/lost? How does this apply to real philosophy? Did you change your original position?\nStudents will be evaluated based on a total of 640 points, with the final grade determined by the percentage of points earned. The components are as follows:\n\nAttendance (5% of final grade, 32 points):\n\nBased on unexcused absences throughout the semester.\n\nGrading Scale (equal increments of 8 points):\n\n\n\n0–1\nunexcused absences:\n32 points\n\n\n2\nunexcused absences:\n24 points\n\n\n3–4\nunexcused absences:\n16 points\n\n\n5–6\nunexcused absences:\n8 points\n\n\n6\nunexcused absences:\n0 points\n\n\n\n\n\nReading Schedule\nAdjust all dates by one for Tuesday Thursday Course\nWeeklies Due Every Monday Starting Jan 19\nWed Jan 14, handouts\nMon Jan 19 MLK Day, no classes\nWed Jan 21, Chapter 2, Simulation Hypothesis\nMon Jan 26, Chapter 3, Knowledge\nWed Jan 28, The external world, ch. 4\nMon Feb 2, ch. 5, Possible realities, bostrom and Moravec\nWed Feb 4, ch. 6, What is Reality?\nMon Fed 9, ch. 7, Is God a hacker in the universe up?\nWed Fed 11, ch. 8 Information, 2nd DND Adventure, Student Led\nMon Feb 16, ch. 9, On Bits\nWed Feb 18, ch. 10, Reality and Virtual Reality\nMon Feb 23, ch. 11, Illusion Machines\nWed Feb 25, Quiz 1\nMon Mar 02, Spring Break\nWed Mar 4, Spring Break\nMon Mar 9, ch. 13 ch. 12, 3rd DND Adventure, Student Led\nWed Mar 11, ch. 14, Mind and body Realism inside a virtual universe\nMon Mar 16, ch. 15, 4th DND Adventure, Student Led\nWed Mar 18, ch. 16, The extended mind hypothsis\nMon Mar 23, ch. 17 Critical Reflection Due\nWed Mar 25, ch. 18, Virtual ethics and intentiality\nMon Mar 30, ch. 19, Social Ontology inside virtual worlds\nWed Apr 1, ch. 20, 5th DND Adventure on Sense and Reference, Student Led\nMon Apr 6, ch. 21, Cause and effect inside virtual systems\nWed Apr 8, ch. 22, Mathematical, physical and cultural structualism\nMon Apr 13, ch. 23, Virtual Eden?\nWed Apr 15, ch. 24, Brains in a Vat\nMon Apr 20, TBD\nWed Apr 22, TBD\nMon Apr 27, TBD\nWed Apr 29, last day of classes, Final Quiz\nPaper Due on Day of Final Quiz (Submit on Canvas)",
     "crumbs": [
       "Introduction to Philosophy",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Syllabus</span>"
+=======
+    "text": "Evaluated Activities\nWeekly Reflections (32 points): These will be done each week in class. Each reflection is worth a possible total of 8 points. There are 12 possible reflections. I will only grade 8 or your best reflections for a possible total of 32 points.\nEach week on Wednesday (except Aug. 19th, August 26th, Oct 14th, Nov 25th, Dec 2nd, Dec 9th) a short weekly will be due, (just the front and back of a 3x5 note card). Weeklies will be based on the assigned readings and/or the discussion from the previous class. Each weekly is worth 7 points (maximum), and I will assign a total of 11 weeklies. I will drop the three lowest scored weeklies. Since I include in your total paper grade 11 weeklies at 10 points per weekly, the total points possible on weeklies is 110. If you should earn more than one hundred points on weeklies, all additional points count as extra credit. Finally, since the weekly is due at the beginning of class, arriving to class on time is essential. I will not accept the weekly after 5 minutes from the start of class. If you arrive late or are absent, you receive a zero for the weekly. I do give partial credit for weeklies, and just putting your name on the top is worth one point. (It would be best if you purchase a set of 3x5 note cards to right your weekly on.) The purpose of these weeklies is to help me assess how e↵ectively I am going over the material. As such, what I am looking for is a short/ concise exposition of either the reading or of the discussion from the week before. I will let you know which when I assign the weekly on the Monday prior.\nQuizzes 1 & 2 (80 points): Each Quiz is worth a possible total of 10 points per category, times 4 categories equals 40 points times 2 Quizzes.\nEach of the scheduled examinations will cover lectures, discussions and assigned readings from the classes that precede it. You are responsible for assigned readings without regard to whether they were covered in class. The final examination will focus primarily on the lectures, discussions and readings subsequent to the first examination, but it may cover material from the whole semester. I generally do not give makeup examinations. I believe that doing so penalizes those who diligently prepare for class.\nCritical Reflection 1 & 2 (160 points): Each reflective analysis is worth a possible total of 20 points per category, times 4 categories equals 80 points times 2 reflection pieces.\nYou will be required to write one paper, which must be type-written, double-spaced, and six to eight pages in length. This is NOT a research paper. Below are several topics, each student must choose ONE to which s/he will respond. If you wish to write a paper on a topic other than one of those suggested by me contact me after class and we can make an appointment during my office hours to discuss other topics. (I will be more than happy to approve relevant topics.) The papers you write are not opinion papers. It is standard practice among philosophers to view mere opinion to be worth less than the energy used to express it. What is worthwhile is a reasoned defense of one’s opinion. Your paper should be written so as to present rational argument for the position which you hold.\nYour paper should consist of two distinct parts. The first part, which should account for approximately half the length of the paper, should be a short explication of the essay you have chosen. This part should contain a statement of the author’s position, a statement of your own position (tell me whether you agree or disagree with the author) and an explanation of the author’s supporting arguments. The second half of the paper should consist of your own evaluation or critique of the essay. In this part of the paper you should tell me WHY you agree or disagree with the author. If you agree with the author you should tell me what argument(s) are convincing. Then tell me what argument(s) might be pro↵ered by one who disagrees with the author and how the author might respond. If you disagree with the author, you should provide criticism of the author’s essay and attempt to explain how the author might respond to the criticism. Hence, whether you agree or disagree with the author, you should provide arguments against the author and responses thereto. Finally, you should explain why you believe your position is the best position. You must NOT use outside sources for this essay. I will provide a more detailed account in class.\n\nD&D Campaigns (96 points total)\n\nOverview & Purpose\nYour grade in this area is based on preparation and active participation during D&D-style class meetings. The format uses a simplified, philosophy-focused adaptation of Dungeons & Dragons to encourage students to talk through, debate, and critically engage with the philosophical issues in the assigned readings — not just summarize or repeat them.\nThe core idea: Turn abstract philosophical texts into immersive, narrative “quests” or “dungeons” where the reading provides the backdrop (e.g., a moral dilemma in a kingdom, a metaphysical riddle from an adversarial entity, or an epistemological challenge). This creates lively discussion, risk, uncertainty, and stakes via dice rolls — mirroring real philosophical debate.\n\n\nKey Differences from Traditional D&D\nThis is not full tabletop RPG gameplay (no complex combat, character stats, or long campaigns). It is a structured, turn-based discussion tool designed to make philosophy feel urgent, personal, and collaborative. Overall Assignment Setup\nStudents will be evaluated based on a total of 640 points, with the final grade determined by the percentage of points earned. The components are as follows:\n\nAttendance (5% of final grade, 32 points):\n\nBased on unexcused absences throughout the semester.\n\nGrading Scale (equal increments of 8 points):\n\n\n\n0–1\nunexcused absences:\n32 points\n\n\n2\nunexcused absences:\n24 points\n\n\n3–4\nunexcused absences:\n16 points\n\n\n5–6\nunexcused absences:\n8 points\n\n\n6\nunexcused absences:\n0 points\n\n\n\n\n\n\n\nReading Schedule\nAdjust all dates by one for Tuesday Thursday Course\nWeeklies Due Every Monday Starting Jan 19\nWed Jan 14, handouts\nMon Jan 19 MLK Day, no classes\nWed Jan 21, Chapter 2, Simulation Hypothesis\nMon Jan 26, Chapter 3, Knowledge\nWed Jan 28, The external world, ch. 4\nMon Feb 2, ch. 5, Possible realities, bostrom and Moravec\nWed Feb 4, ch. 6, What is Reality?\nMon Fed 9, ch. 7, Is God a hacker in the universe up?\nWed Fed 11, ch. 8 Information, 2nd DND Adventure, Student Led\nMon Feb 16, ch. 9, On Bits\nWed Feb 18, ch. 10, Reality and Virtual Reality\nMon Feb 23, ch. 11, Illusion Machines\nWed Feb 25, Quiz 1\nMon Mar 02, Spring Break\nWed Mar 4, Spring Break\nMon Mar 9, ch. 13 ch. 12, 3rd DND Adventure, Student Led\nWed Mar 11, ch. 14, Mind and body Realism inside a virtual universe\nMon Mar 16, ch. 15, 4th DND Adventure, Student Led\nWed Mar 18, ch. 16, The extended mind hypothsis\nMon Mar 23, ch. 17 Critical Reflection Due\nWed Mar 25, ch. 18, Virtual ethics and intentiality\nMon Mar 30, ch. 19, Social Ontology inside virtual worlds\nWed Apr 1, ch. 20, 5th DND Adventure on Sense and Reference, Student Led\nMon Apr 6, ch. 21, Cause and effect inside virtual systems\nWed Apr 8, ch. 22, Mathematical, physical and cultural structualism\nMon Apr 13, ch. 23, Virtual Eden?\nWed Apr 15, ch. 24, Brains in a Vat\nMon Apr 20, TBD\nWed Apr 22, TBD\nMon Apr 27, TBD\nWed Apr 29, last day of classes, Final Quiz\nPaper Due on Day of Final Quiz (Submit on Canvas)",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Syllabus</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -332,10 +472,17 @@
     "href": "data/course.phil.intro/lectures.html",
     "title": "🗓️ Week 06 Chapter 6: Reality",
     "section": "",
+<<<<<<< HEAD
     "text": "Introductions",
     "crumbs": [
       "Introduction to Philosophy",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Verificationism, Probability, and Meaning</font></span>"
+=======
+    "text": "Introductions\nBy now, as before, you may be criticizing the following argument:\nAnd you are probably used to the following inference patters:\nSo your counter looks like this:\nHere, Ayer agrees with you:\nBut this also means:\nHere are those words again:\nConsider simblockers",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -346,7 +493,11 @@
     "text": "Possible Worlds and Thought Experiments",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>9</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Verificationism, Probability, and Meaning</font></span>"
+=======
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -357,7 +508,11 @@
     "text": "Simulations in Science Fiction",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>9</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Verificationism, Probability, and Meaning</font></span>"
+=======
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -368,7 +523,11 @@
     "text": "The Simulation Hypothesis",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>9</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Verificationism, Probability, and Meaning</font></span>"
+=======
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -379,7 +538,11 @@
     "text": "Can you prove a negative?",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>9</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Verificationism, Probability, and Meaning</font></span>"
+=======
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -390,7 +553,11 @@
     "text": "Can you prove a positive?",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>9</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Verificationism, Probability, and Meaning</font></span>"
+=======
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -401,7 +568,11 @@
     "text": "Simulation Hypothesis, a scientific hypothesis",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>9</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Verificationism, Probability, and Meaning</font></span>"
+=======
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -412,7 +583,11 @@
     "text": "Simulation and virtual worlds",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>9</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Verificationism, Probability, and Meaning</font></span>"
+=======
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -423,7 +598,11 @@
     "text": "The (very silly) Evolutionary Argument from Naturalism (EAAN)\n\n\nPhilosophical Naturalism (N):\n\nThere are no supernatural beings (i.e., God, angeles, demons, ghosts)\n\nContemporary Evolutionary Theory (E)\n\nHuman beings have evolved in conformity with current evolutionary doctrine\n\nNaturalism and Evolutionary theory are at odds with one another.\n\nI.e., if philosophical naturalism is true, then contemporary evolutionary theory can’t be true.\nIf Contemporary evolutionary theory is true, then naturalism cannot be true.\n\n\nTherefore, either E is true, or N is true, but not both.",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>9</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Verificationism, Probability, and Meaning</font></span>"
+=======
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -434,7 +613,11 @@
     "text": "Reliability of Cognitive Faculties\n\nMemory\nPerception\nReason\n\nWe often ground a good majority of our beliefs in these faculties and more.\nAs such, these faculties are reliable if the majority of our beliefs that are grounded in them are true.\n\n\nHowever,\naccording to E:\n\nhuman life developed from aboriginal unicellular life\n\nnatural selection\ngenetic drift\ngenetic variation (random genetic mutatation)\n\nNatural selection discards most mutations\n\nSome mutations have adaptive value\nsome do not\n\nThrough such processes, most if not all organic life as developed\n\n\n\n\nThrough such processes, our cognitive faculties too, have evolved\nBut natural selection is not interested in truth but rather adaptive behavior, the four Fs:\n\nFeeding,\nFleeing,\nFighting\nReproducing\n\nIt is possible that some other function has proved more adaptive\nTherefore we cannot be sure we can trust our faculties to be reliable\n\n\nFor instance, here is Charles Darwin on the matter:\n\nthe horrid doubt always arises whether the convictions of man’s mind, which has been developed from the mind of the lower animals, are of any value or at all trutworthy. Would any one trust in the convictions of a monkey’s mind, if there are any convictions in such a mind? [Letter to William Graham, Down, July 3, 1881, in The Life and Letters of Charles Darwin INcluding an Autobiographical Chapter, ed. Francis Darwin (London: John Murray, Albermarle Street, 1887), I:315-316.]\n\n\nHere is Patricia Churchland:\n\nBoiled down to essentials, a nervous system enables the organism to succeed in the four F’s: fedding, fleeing, fighting and reproducing. The principle chore of nervous systems is the get the body parts where they should be in order that the organism may survive . . . Improvements in sensorimotor control confer an evolutionary advantage: a fancier style of representing is advantageous so long as it is geared to the organism’s way of life and enhances the organism’s chances of survival. Truth, whatever that is, definitely takes the hindmost. [Churchland, “Epistemology in the Age of Neuroscience,” Journal of Philosophy 84 (October 1987): 548]",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>9</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Verificationism, Probability, and Meaning</font></span>"
+=======
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -445,7 +628,11 @@
     "text": "Descartes\n\nCertainly, up to now whatever I have accepted as fully true I have learned either from or by means of the senses: but I have discovered that they sometimes deceive us, and prudence dictataes that we should never fully trust those who have deceived us even once.",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>9</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Verificationism, Probability, and Meaning</font></span>"
+=======
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -456,7 +643,11 @@
     "text": "Berkeley",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>9</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Verificationism, Probability, and Meaning</font></span>"
+=======
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -467,7 +658,11 @@
     "text": "G.E. Moore",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>9</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Verificationism, Probability, and Meaning</font></span>"
+=======
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -478,7 +673,11 @@
     "text": "Alvin Plantinga",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>9</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Verificationism, Probability, and Meaning</font></span>"
+=======
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -489,7 +688,11 @@
     "text": "The (very silly) Evolutionary Argument from Naturalism (EAAN)\n\n\nPhilosophical Naturalism (N):\n\nThere are no supernatural beings (i.e., God, angeles, demons, ghosts)\n\nContemporary Evolutionary Theory (E)\n\nHuman beings have evolved in conformity with current evolutionary doctrine\n\nNaturalism and Evolutionary theory are at odds with one another.\n\nI.e., if philosophical naturalism is true, then contemporary evolutionary theory can’t be true.\nIf Contemporary evolutionary theory is true, then naturalism cannot be true.\n\n\nTherefore, either E is true, or N is true, but not both.",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>9</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Verificationism, Probability, and Meaning</font></span>"
+=======
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -500,7 +703,11 @@
     "text": "Reliability of Cognitive Faculties\n\nMemory\nPerception\nReason\n\nWe often ground a good majority of our beliefs in these faculties and more.\nAs such, these faculties are reliable if the majority of our beliefs that are grounded in them are true.\n\n\nHowever,\naccording to E:\n\nhuman life developed from aboriginal unicellular life\n\nnatural selection\ngenetic drift\ngenetic variation (random genetic mutatation)\n\nNatural selection discards most mutations\n\nSome mutations have adaptive value\nsome do not\n\nThrough such processes, most if not all organic life as developed\n\n\n\n\nThrough such processes, our cognitive faculties too, have evolved\nBut natural selection is not interested in truth but rather adaptive behavior, the four Fs:\n\nFeeding,\nFleeing,\nFighting\nReproducing\n\nIt is possible that some other function has proved more adaptive\nTherefore we cannot be sure we can trust our faculties to be reliable\n\n\nFor instance, here is Charles Darwin on the matter:\n\nthe horrid doubt always arises whether the convictions of man’s mind, which has been developed from the mind of the lower animals, are of any value or at all trutworthy. Would any one trust in the convictions of a monkey’s mind, if there are any convictions in such a mind? [Letter to William Graham, Down, July 3, 1881, in The Life and Letters of Charles Darwin INcluding an Autobiographical Chapter, ed. Francis Darwin (London: John Murray, Albermarle Street, 1887), I:315-316.]\n\n\nHere is Patricia Churchland:\n\nBoiled down to essentials, a nervous system enables the organism to succeed in the four F’s: fedding, fleeing, fighting and reproducing. The principle chore of nervous systems is the get the body parts where they should be in order that the organism may survive . . . Improvements in sensorimotor control confer an evolutionary advantage: a fancier style of representing is advantageous so long as it is geared to the organism’s way of life and enhances the organism’s chances of survival. Truth, whatever that is, definitely takes the hindmost. [Churchland, “Epistemology in the Age of Neuroscience,” Journal of Philosophy 84 (October 1987): 548]",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>9</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Verificationism, Probability, and Meaning</font></span>"
+=======
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -511,7 +718,11 @@
     "text": "Descartes\n\nCertainly, up to now whatever I have accepted as fully true I have learned either from or by means of the senses: but I have discovered that they sometimes deceive us, and prudence dictataes that we should never fully trust those who have deceived us even once.",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>9</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Verificationism, Probability, and Meaning</font></span>"
+=======
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -522,7 +733,11 @@
     "text": "Berkeley",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>9</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Verificationism, Probability, and Meaning</font></span>"
+=======
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -533,7 +748,11 @@
     "text": "G.E. Moore",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>9</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Verificationism, Probability, and Meaning</font></span>"
+=======
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -544,7 +763,11 @@
     "text": "Alvin Plantinga",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>9</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Verificationism, Probability, and Meaning</font></span>"
+=======
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -555,7 +778,11 @@
     "text": "Questions Philosophers Ask\n\nWhat is Real?\nHow do we know it is real?\nWhy should we care?\n\n\n\nMetaphysics\nEpistemology\nValue Theory\n\n\nBut notice that it is not just about providing answers to questions. Sometimes it is how we provide an answer that is even more interesting.\n\nThere are two very important terms here:\n\nIf so, then we are probably sims\nIt will never happen\n\n\nOne is a special kind of possibility, while the other entails a necessity.\n\nThe Argument:\n\nAt least one in ten nonsim populations will each create a thousand sim populations.\nIf at least one in ten nonsim populations will each create a thousand sim populations, then at least 99 percent of intelligent beings are sims.\nIf at least 99 percent of intelligent beings are sims, we are probably sims.\nTherefore, we are probably sims.",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>9</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Verificationism, Probability, and Meaning</font></span>"
+=======
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -566,7 +793,11 @@
     "text": "Nick Bostrom\nAt least one of the following propositions is true (a proposition is a statement that is either true or false)\n\nThe human species is very likely to go extinct before reaching a “posthuman” stage;\nAny posthuman civilization is extremely unlikely to run a significant number of simulations of their evolutionary history (or variations thereof);\nWe are almost certainly living in a computer simulation.\n\n\n1 and 2 are sim blockers:\n\nNonsims (humans) likely to go extinct before creating nonsims.\nNonsims likely to choose not to create sims.",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>9</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Verificationism, Probability, and Meaning</font></span>"
+=======
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -577,7 +808,11 @@
     "text": "Simulation Argument\n\nSimulation technology is likely to be so ubiquitous that most beings in the universe (or most beings with experiences like ours) are sims.\nTherefore, we are probably sims.",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>9</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Verificationism, Probability, and Meaning</font></span>"
+=======
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -588,7 +823,11 @@
     "text": "Three Objections:\n\nIt will never happen\nWe’re special, have special features that cannot be simulated\nWe live in a distinctive world",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>9</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Verificationism, Probability, and Meaning</font></span>"
+=======
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -599,7 +838,11 @@
     "text": "The Argument\n\nAt least one in ten nonsim populations will each create a thousand sim populations.\n\nIt will never happen objections\n\nIf at least one in ten nonsim populations will each create a thousand sim populations, then at least 99 percent of intelligent beings are sims.\nIf at least 99 percent of intelligent beings are sims, we are probably sims.\n\nare we special?\n\nTherefore, we are probably sims.",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>9</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Verificationism, Probability, and Meaning</font></span>"
+=======
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -610,7 +853,11 @@
     "text": "Premise 1 Objections\n\nIntelligent sims are impossible\nSims take too much computing power\nNonsims will die out before creating sims\nNonsims will choose not to create sims\nMore nonsims than sims will be created",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>9</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Verificationism, Probability, and Meaning</font></span>"
+=======
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -621,7 +868,11 @@
     "text": "Premise 3, Are we special?\n\nLet’s say that a sim sign is a feature that raises the probability that a creature is a sim. More precisely, it is a feature that a sim is more likely to have than a nonsim.\n\nSim Signs: feature sims are more likely to have than nonsims\n\nSims can’t be conscious\nSimulators will avoid creating conscious sims\nSims won’t have minds like ours\nSims won’t experience large universes\n\n\n\nStepping back: The potential nonsim signs we’ve considered, such as consciousness and a large world, may decrease the probability that we’re in a simulation. At the same time, we need to weigh these against potential sim signs, such as the fact that we seem to be early in the universe, which may increase the probability that we’re in a simulation.",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>9</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Verificationism, Probability, and Meaning</font></span>"
+=======
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -632,7 +883,11 @@
     "text": "Premise 1\nOnly on the assumption that there are no sim blockers, then most humanlike beings are sims.\n\nDoes anything prevent the creation of many humanlike sims?",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>9</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Verificationism, Probability, and Meaning</font></span>"
+=======
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -643,7 +898,11 @@
     "text": "Premise 2, the Indifference Principle\n\nIf there are many beings with the same sort of experience as me, then I am equally likely to be any of those beings.\nTherefore if 90 percent of beings with experiences like mine are sims, then I should be 90 percent confident that we are sims.\nSimblockers: However, if conscious sims are impossible, then humanlike sims are impossible.\nand if simulations with apparently large universes are rare, then humanlike sims are rare.\nTherefore, either there are sim blockers or we are sims.",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>9</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Verificationism, Probability, and Meaning</font></span>"
+=======
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -654,7 +913,11 @@
     "text": "What is Real?\nChalmer’s View:\n\nVirtual Realism: virtual reality is genuine reality, . . . virtual objects are real and not an illusion.\nSimulation Realism: objects in simulation around us are real and not illusion.\nVirtual digitilism: objects in virtual reality are digital objects, structures of binary information.",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>9</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Verificationism, Probability, and Meaning</font></span>"
+=======
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -665,7 +928,11 @@
     "text": "Defining Real\n\nReality: Everything that exists\nReality: World or Worlds\nReality: a Property\n\n\n\nReality+\n\nReality contains many realities\nEach of these realities are real\n\n\nOr more mundanely: the cosmos (everything that exists) contains many worlds (physical and virtual spaces), and the objects in those worlds are real.",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>9</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Verificationism, Probability, and Meaning</font></span>"
+=======
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -676,7 +943,11 @@
     "text": "Is God a Hacker?\n\n\nWhat is God?\n\nCreator\nAll Powerful\nAll Knowing\nAll Good\n\n\n\n\nWhat about the Hacker?\n\nCreator?\nPowerful?\nKnows Stuff?\nGood?\n\n\nImportant Distinction:\n\nLocal vs. Cosmic\nLocal Knowledge vs. Global Knowledge\nLocal Power vs. Global Power",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>9</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Verificationism, Probability, and Meaning</font></span>"
+=======
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -687,7 +958,11 @@
     "text": "Proofs for the Existence of God\n\n\nOntological Argument\n\nThis is the a priori argument : prior to considering the existence of the physical universe. This is reasoning without bringing in any consideration of the existence of the universe or any part of it. This is an argument considering the idea of god alone.\nThe argument is considered to be one of the most intriguing ever devised. It took over 400 years for Philosophers to realize what its actual flaws were. As an “a priori” argument, the Ontological Argument tries to “prove” the existence of God by establishing the necessity of God’s existence through an explanation of the concept of existence or necessary being .\n\n\nVIEW: Ontological Argument\nVIEW: Ontological Argument and Anselm: Crash Course Philosophy #9\n\n\nAnselm, Archbishop of Canterbury first set forth the Ontological Argument in the eleventh century. This argument is the primary locus for such philosophical problems as whether existence is a property and whether or not the notion of necessary existence is intelligible. It is also the only one of the traditional arguments that clearly leads to the necessary properties of God, such as Omnipotence, Omniscience, etc. Anselm’s argument may be conceived as a “reductiio ad absurdum” argument. In such an argument, one begins with a supposition, which is the contrary to what one is attempting to prove. Coupling the supposition with various existing certain or self-evident assumption will yield a contradiction in the end. This contradiction is what is used to demonstrate that the contrary of the original supposition is true.\n\n\n\nTwo Forms:\nForm 1:\nPremises:\n(1.a.) Anselm- the supreme being- that being greater than which none can be conceived (gcb)\n(1.b.) the gcb must be conceived of as existing in reality and not just in the mind or else the gcb is not that being greater than which none can be conceived.\nSuppose (S) that the greatest conceivable being (GCB) exists in the mind alone and not in reality(gcb1).\n\nThen the greatest conceivable being would not be the greatest conceivable being because one could think of a being like (gcb1) but think of the gcb as existing in reality (gcb2) and not just in the mind.\n\nSo, gcb1 would not be the GCB but gcb2 would be.\nConclusion:\nThus to think of the GCB is to think of the gcb2, i.e. a being that exists in reality and not just in the mind.\n\n\n\nForm 2: God as Necessary Being\nPremises:\n\nGod is either a necessary being or a contingent being.\n\nThere is nothing contradictory about god being a necessary being\n\nSo, it is possible that god exists as a necessary being.\n\nSo if it is possible that God is a necessary being then God exists.\n\nBecause God is not a contingent being.\n\n\nConclusion:\nGod must exist as a necessary being.\n\n\nNotes on the Ontological arguments of Anselm and Descartes\nAnselm begins by defining the most central term in his argument - God. Without asserting that God exists, Anselm asks what is it that we mean when we refer to the idea of “God.” When we speak of a God, Anselm implies, we are speaking of the most supreme being. That is, let “god” = “something than which nothing greater can be thought.” Anselm’s definition of God might sound confusing upon first hearing it, but he is simply restating our intuitive understanding of what is meant by the concept “God.” Thus, for the purpose of this argument let “God” = “a being than which nothing greater can be conceived.”\nWithin your understanding, then, you possess the concept of God. As a non-believer, you might argue that you have a concept of unicorn (after all, it is the shared concept that allows us to discuss such a thing) but the concept is simply an idea of a thing. After all, we understand what a unicorn is but we do not believe that they exist. Anselm would agree.\n\n\nTwo key points have been made thus far:\n\nWhen we speak of God (whether we are asserting God is or God is not), we are contemplating an entity whom can be defined as “a being which nothing greater can be conceived.”;\nWhen we speak of God (either as believer or non-believer), we have an intra-mental understanding of that concept, i.e. the idea is within our understanding.\n\n\nAnselm continues by examining the difference between that which exists in the mind and that which exists both in the mind and outside of the mind as well. What is being asked here is: Is it greater to exist in the mind alone or in the mind and in reality (or outside of the mind)? Anselm asks you to consider the painter, e.g. define which is greater: the reality of a painting as it exists in the mind of an artist, or that same painting existing in the mind of that same artist and as a physical piece of art. Anselm contends that the painting, existing both within the mind of the artist and as a real piece of art, is greater than the mere intra-mental conception of the work. Let me offer a real-world example: If someone were to offer you a dollar, but you had to choose between the dollar that exists within their mind or the dollar that exists both in their mind and in reality, which dollar would you choose? Are you sure…\n\n\nAt this point, we have a third key point established:\n\nIt is greater to exist in the mind and in reality, then to exist in the mind alone.\n\nHave you figured out where Anselm is going with this argument?\n\nIf God is that than greater which cannot be conceived (established in #1 above);\nAnd since it is greater to exist in the mind and in reality than in the mind alone (established in #3 above);\nThen God must exist both in the mind (established in #2 above) and in reality;\nIn short, God must be. God is not merely an intra-mental concept but an extra-mental reality as well.\n\n\nBut why? Because if God is truly that than greater which cannot be conceived, it follows that God must exist both in the mind and in reality. If God did not exist in reality as well as our understanding, then we could conceive of a greater being i.e. a being that does exist extramentally and intramentally. But, by definition, there can be no greater being. Thus, there must be a corresponding extra-mental reality to our intra-mental conception of God. God’s existence outside of our understanding is logically necessary.\nSometimes, Anselm’s argument is presented as a Reductio Ad Absurdum (RAA). In an RAA, you reduce to absurdity the antithesis of your view. Since the antithesis is absurd, your view must be correct. Anselm’s argument would look something like this:\n\n\n\nEither [God exists] or [God does not exist].\nAssume [God does not exist] (the antithesis of Anselm’s position)\nIf [God does not exist] (but exists only as an intra-mental concept), then that being which nothing greater which can be conceived, is a being which a greater being can be conceived. This is a logical impossibility (remember criterion #3);\nTherefore, [God does not exist] is incorrect;\n\nConclusion:\n\nTherefore [God exists].\n\n\n\n\nClarifications:\n\nThe argument is not that “If you believe that god exists then god exists”.\nThat would be too ridiculous to ask anyone to accept that if you believe that X exists and is real then X exists and is real.\nThe ontological argument does not ask a person to assume that there is a deity or even a GCB.\n\n\nIt asks anyone at all to simply THINK of the deity as the GREATEST CONCEIVABLE BEING and then it indicates that a being that exists in reality (outside of the mind) is greater than one that is just in the mind (imagination). So, the conclusion is that if you think of the GCB you must THINK that the GCB exists not just in your thinking (mind) but in reality (outside of your mind) as well.\nIt is greater to think of a being existing outside of the mind as well as in the mind so if you think of the GCB you must THINK THAT the GCB exists not just inside of the mind (imagination) but outside of the mind as well (in reality).\nLook at it this way: Anselm invites people to think about a certain conception of the deity,i.e., that of the GCB. What Anselm did was to place into the concept itself the idea that the being must exist outside of the mind and in the realm of the real and not just inside the mind in the realm of imagination. So you THINK of the GCB and what are you doing when you do that? You must think that the GCB exists outside of the mind and in the realm of the real and not just inside the mind in the realm of imagination. Why must you think that? Because it you did not think that, then you would not be thinking of the GCB as defined by Anselm.\nIt is like this: Think of a triangle. If you do you must think of a three sided figure lying on a plane with three angles adding up to 180 degrees. Why? Because if you are not thinking of a three sided figure lying on a plane with three angles adding up to 180 degrees then you are not thinking of a triangle. So IF you are to THINK of a triangle you must THINK of a three sided figure lying on a plane with three angles adding up to 180 degrees.\nIf you are to THINK of a GCB you must THINK that the being must exist outside of the mind and in the realm of the real and not just inside the mind in the realm of imagination. Why? Because if you are not thinking that the being must exist outside of the mind and in the realm of the real and not just inside the mind in the realm of imagination then you are not thinking of the GCB.\nIn all of this it is only thinking. Anselm proved what must be thought about the GCB given how the GCB was defined and not whether the GCB actually exists.\n\n\nA variation of this argument by Alvin Plantinga exists. It is known as the Modal Version of the Ontological Argument:\n\n\nTo say that there is possibly a God is to say that there is a possible world in which God exists.\nTo say that God necessarily exists is to say that God exists in every possible world.\nGod is necessarily perfect (i.e. maximally excellent)\nSince God is necessarily perfect, he is perfect in every possible world.\nIf God is perfect in every possible world, he must exist in every possible world, therefore God exists.\nGod is also maximally great. To be maximally great is to be perfect in every possible world.\nTherefore: “it is possible that there is a God,” means that there is a possible which contains God, that God is maximally great, and the God exists in every possible world and is consequently necessary.\nGod’s existence is at least possible.\nTherefore: as per item seven, God exists.\n\n\n\nRene Descartes, 1596 - 1650, is also credited with formulating a version of the ontological argument. One possible presentation of the Cartesian argument is as follows:\n\nIf there is a God it is a perfect being;\nA perfect being possesses all possible perfections;\nExistence is a perfection;\nTherefore, God necessarily possesses the quality of existence. Simply, God exists.\n\n\nThe actual texts:\nAnselm’s Philosophy\nAnselm’s Argument\nMonologium\nProslogium\nGuanilo’s Response and Anselm’s response to Guanilo\n\nPROBLEMS:\nThe problem with the ontological argument is NOT\n\nthat some people refuse to think of the GCB or\nthat some people have a resistance to a belief in a deity\nthat some people just refuse to accept the deity\n\nNO NO NO the problem with the Argument is that it has FLAWS. It has a LOGICAL MISTAKE in it.\nWhat is that error in the argument???",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>9</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Verificationism, Probability, and Meaning</font></span>"
+=======
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -698,7 +973,11 @@
     "text": "PROBLEM:\nConclusion of the argument is : Thus, to think of the GCB is to think of the gcb2, i.e. a being that exists in reality and not just in the mind\n\n\nImmanuel Kant noticed that to think of the GCB is to think of the gcb2, i.e. a being that exists in reality and not just in the mind\n\nBUT to think of the gcb2 as a being that exists in reality and not just in the mind, does not prove that the gcb2 does actually exist in reality ONLY that a person MUST THINK that the gcb2 does actually exist in reality\nBut for Kant and many after him , the notion of “Existence” is not a predicate: You cannot include it within the idea of the thing itself. You cannot think anything into existence by including existence as a property of that thing.",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>9</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Verificationism, Probability, and Meaning</font></span>"
+=======
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -709,7 +988,11 @@
     "text": "I. The Most Perfect Island\nGaunilon, a contemporary of Anselm, had two major criticisms of the ontological argument.\n\nFirst: If by “God” we do mean “that than greater which can not be conceived,” then the concept is meaningless for us. We can not understand, in any meaningful way, what exactly is meant by such words. The reality behind the term is completely transcedent to the human knower;\nSecond: Even if we grant that the concept of God as “that than greater which can not be conceived” exists in the understanding, there is no reason to believe that the concept necessitates the extra-mental reality of God. After all, I can imagine the most perfect island, glorious in every detail, but there is nothing about my understanding of the island that forces us to admit the island exists.",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>9</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Verificationism, Probability, and Meaning</font></span>"
+=======
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -720,7 +1003,11 @@
     "text": "II. Existence is not a predicate\nImmanuel Kant (1724 - 1804), offered what many believe to be a damning critique of Anselm’s ontological argument.\n\nLet us return to our discussion of unicorns and God.\nAnselm has argued that there exists a difference between the concept of “unicorn” as it exists intra-mentally and extra-mentally.\nIf we claim that the “unicorn” is, we are somehow adding to the concept. We are endowing the concept with an additional predicate, i.e. the quality that it is.\n\nThe point of Anselm’s argument is that the predicate of existence can be demonstrated for the concept of “God.”\n\nKant does not agree with Anselm’s treatment of existence as a predicate. The concept of “unicorn” is not changed in any way if we claim that it is. Nor is the concept damaged if we claim that unicorns are not. According to Kant,“…we do not make the least addition to the thing when we further declare that this thing is.” If existence is not a predicate, then Anselm’s argument has not demonstrated any meaningful information.\nKant thought that, while the concept of a supreme being was useful, it was only an idea, which in and of itself could not help us in our determining the correctness of the concept. While it was a possibility, he felt that the “a priori” stance of the argument it would be necessary to buttress it with experience.\nFor Kant what Anselm did was to prove that humans MUST THINK THAT a deity exists in reality and not just in the mind as an idea as the GCB but that does not mean that the GCB actually does exist in reality. The idea of the GCB exists and the idea of the GCB as an actual being does exist but the reality or actuality of the GCB is not established based on the thoughts alone.",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>9</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Verificationism, Probability, and Meaning</font></span>"
+=======
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -731,7 +1018,11 @@
     "text": "Think of three situations:\n\nYou go home and look at the top of your dresser. You could use some money and as you look there you imagine seeing ten ten dollar bills.\nYou go home and look at the top of your dresser. You could use some money and as you look there you see ten MONOPOLY ten dollar bills.\nYou go home and look at the top of your dresser. You could use some money and as you look there you seeing ten real ten dollar bills.\n\n\nWhich of the three is the greatest or best situation? #3 is.\nBut just thinking about #3 does not actually add any money to your total amount.\nThis is Kant’s point.\nThinking about the GCB logically entails THINKING that the GCB must exist in reality and not just in the imagination. But thinking about the GCB as existing in reality and not just in the imagination does not prove that the GCB actually does exist in reality and not just in the imagination. It is just an idea about what exists.",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>9</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Verificationism, Probability, and Meaning</font></span>"
+=======
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -742,7 +1033,11 @@
     "text": "III. The Greatest Conceivable EVIL Being.\n\nAs an “a priori” argument, the Ontological Argument tries to “prove” the existence of God by establishing the necessity of God’s existence through an explanation of the concept of existence or necessary being. As this criticism of the Ontological Argument shows, the same arguments used to prove an all-powerful god, could be used to prove an all-powerful devil. Since there could not exist two all-powerful beings (one’s power must be subordinate to the other), this is an example of one of the weaknesses in this type of theorizing. Furthermore, the concept of necessary existence, by using Anselm’s second argument, allows us to “define” other things into existence.\nThe argument could prove the existence of that being more EVIL than which no other can be conceived just as easily as it supposedly proves the existence of the being that is the greatest conceivable being.\nThink of a being that is the most evil being that can be conceived. That being must be conceived of as existing in reality and not just in the mind or it wouldn’t be the most evil being which can be conceived for a being that does not exist in reality is not evil at all.",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>9</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Verificationism, Probability, and Meaning</font></span>"
+=======
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -753,7 +1048,11 @@
     "text": "IV. Empiricist Critique\nAquinas, 1225 - 1274, once declared the official philosopher of the Catholic Church, built his objection to the ontological argument on epistemological grounds.\n\nEpistemology is the study of knowledge. It is a branch of philosophy that seeks to answer such questions as: What is knowledge?; What is truth?; How does knowing occur?; et cetera. Aquinas is known as an empiricist. Empiricists claim that knowledge comes from sense experience. Aquinas wrote: “Nothing is in the intellect which was not first in the senses.”\nWithin Thomas’ empiricism, we can not reason or infer the existence of God from a studying of the definition of God. We can know God only indirectly, through our experiencing of God as Cause to that which we experience in the natural world. We can not assail the heavens with our reason; we can only know God as the Necessary Cause of all that we observe.\nAlvin Plantiga offers a counter argument to the counter arguments that at least establishes the rational acceptability of theism as it appears to support the idea that it is possible that the greatest conceivable being does exist.\n\n\n\nOther Philosophers and their Critiques:\n\nRené Descartes, from The Philosophy of Descartes in Extracts from His Writings. H. A. P. Torrey. New York, 1892. P. 161 et seq.\nBenedict Spinoza, from The Chief Works of Benedict de Spinoza. Translated by R.H.M.Elwes. London, 1848. VoI. II., P. 51 at seq.\nJohn Locke, from An Essay Concerning Human Understanding. London: Ward, Lock, Co. P. 529 et seq.\nGottfried W. Leibniz, from New Essays Concerning Human Understanding. Translated by A.G. Langley. New York, 1896. P. 502 at seq.\nImmanuel Kant, from Critique of Pure Reason. Translated by F. Max Muller. New York, 1896. P-483 et seq.\nGeorg W.F. Hegel, from Lectures on the History of Philosophy. Translated by E. S. Haldane and F.H. Simson. London, 1896. Vol. III., p. 62 et seg.\nJ. A. Dorner from A System of Christian Doctrine. Translated by A. Cave and J. S. Banks, Edinburgh, 1880. Vol. I., p. 216 et seq\nLotze, Microcosmus. Translated by E. Hamilton and E. E. C. Jones. Edinburgh, 1887. Vol. II., p. 669 et seq.\nRobert Flint, from Theism. New York, 1893. Seventh edition. P. 278 et seq.\n\n\nView also Debunking the Teleological, Cosmological, and Ontological Arguments for the Existence of God\nRead the critiques of the Ontological Argument\n\n\n\nConcluding Summary:\n\nWhat it does prove:\n\n\nAnselm proves that if you think of the GCB you must THINK that it exists.\nDescartes proves that if you conceive of an ALL PERFECT being you must CONCEIVE (THINK) of that being as existing.\n\n\nKant points out that even though you must THINK that it exists does not mean that it does exist. Existence is not something we can know from the mere idea itself. It is not known as a predicate of a subject. Independent confirmation through experience is needed.\nThe argument does give some support to those who are already believers. It has variations that establish the possibility of the existence of such a being.\nThe argument will not convert the non-believer into a believer.\n\n\n\n\nOutcome Assessment\nThis argument or proof does not establish the actual existence of a supernatural deity. It attempts to define a being into existence and that is not rationally legitimate. While the argument can not be used to convert a non-believer to a believer, the faults in the argument do not prove that there is no god. The Burden of Proof demands that the positive claim that there is a supernatural deity be established by reason and evidence and this argument does not meet that standard. The believer in god can use the argument to establish the mere logical possibility that there is a supernatural deity or at least that it is not irrational to believe in the possibility that there is such a being. The argument does not establish any degree of probability at all.\n\nOUTCOME:\nThe Argument:\nPremises\n\nSuppose (S) that the greatest conceivable being (GCB) exists in the mind alone and not in reality(gcb1).\nThen the greatest conceivable being would not be the greatest conceivable being because one could think of a being like (gcb1) but think of the gcb as existing in reality (gcb2) and not just in the mind.\nSo, gcb1 would not be the GCB but gcb2 would be.\nThus to think of the GCB is to think of the gcb2, i.e. a being that exists in reality and not just in the mind.\n\n\n\n\nConclusion: The GCB ( Deity) exists\nProblem with argument:\n\n____Premises are false\n____Premises are irrelevant\n____Premises Contain the Conclusion –Circular Reasoning\n__X__Premises are inadequate to support the conclusion\n____Alternative arguments exist with equal or greater support\n\n\n\nThis argument or proof has flaws in it and would not convince a rational person to accept its conclusion.\nThis is not because someone who does not believe in a deity will simply refuse to accept based on emotions or past history but because it is not rationally compelling of acceptance of its conclusion.\n\n\nIt would be a mistake in thinking, a violation of logic and a fallacy to think that because this argument or attempt to prove that there is a deity of some type does not work or has flaws that the opposite conclusion must be true, namely that there is no deity of any type. The error is known as the fallacy “argumentum ad ignoratio” or the appeal to ignorance. It is the mistake in thinking that if an argument cannot prove a proposition or claim P is true then P must be false. OR if you cannot prove that P is false then P must be true. It is a mistake to think that way., a logical error.\nProceed to the next section.\nCreative Commons License Introduction to Philosophy by Philip A. Pecorino is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License. Return to: Table of Contents for the Online Textbook",
     "crumbs": [
       "Introduction to Philosophy",
+<<<<<<< HEAD
       "<span class='chapter-number'>9</span>  <span class='chapter-title'><font style='font-size:1em;'>🗓️ Week 05<br/> Verificationism, Probability, and Meaning</font></span>"
+=======
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -761,6 +1060,7 @@
     "href": "data/course.phil.intro/assignments.html",
     "title": "Assignments",
     "section": "",
+<<<<<<< HEAD
     "text": "Weekly Reflections (32 points): These will be done each week in class. Each reflection is worth a possible total of 8 points. There are 12 possible reflections. I will only grade 8 or your best reflections for a possible total of 32 points.\nEach week on Wednesday (except Aug. 19th, August 26th, Oct 14th, Nov 25th, Dec 2nd, Dec 9th) a short weekly will be due, (just the front and back of a 3x5 note card). Weeklies will be based on the assigned readings and/or the discussion from the previous class. Each weekly is worth 7 points (maximum), and I will assign a total of 11 weeklies. I will drop the three lowest scored weeklies. Since I include in your total paper grade 11 weeklies at 10 points per weekly, the total points possible on weeklies is 110. If you should earn more than one hundred points on weeklies, all additional points count as extra credit. Finally, since the weekly is due at the beginning of class, arriving to class on time is essential. I will not accept the weekly after 5 minutes from the start of class. If you arrive late or are absent, you receive a zero for the weekly. I do give partial credit for weeklies, and just putting your name on the top is worth one point. (It would be best if you purchase a set of 3x5 note cards to right your weekly on.) The purpose of these weeklies is to help me assess how e↵ectively I am going over the material. As such, what I am looking for is a short/ concise exposition of either the reading or of the discussion from the week before. I will let you know which when I assign the weekly on the Monday prior.\nQuizzes 1 & 2 (80 points): Each Quiz is worth a possible total of 10 points per category, times 4 categories equals 40 points times 2 Quizzes.\nEach of the scheduled examinations will cover lectures, discussions and assigned readings from the classes that precede it. You are responsible for assigned readings without regard to whether they were covered in class. The final examination will focus primarily on the lectures, discussions and readings subsequent to the first examination, but it may cover material from the whole semester. I generally do not give makeup examinations. I believe that doing so penalizes those who diligently prepare for class.\n\nCritical Reflections\nCritical Reflection 1 & 2 (160 points): Each reflective analysis is worth a possible total of 20 points per category, times 4 categories equals 80 points times 2 reflection pieces.\n\n\nD&D Campaigns\nThe D&D assignment is not exactly like D&D though Ive tried to keep it as close as possible. The idea is to encourage students to talk through the philosophical issues we read about.\nPresentation (96 points): Your grade in this area depends on your preparation and participation in the DND class meetings. We will use the dnd adventure sheet linked here to gage participation.\n\nOverall Assignment Setup\n\nGroup Structure: By second week, students form small groups of 5 members each. This will be done using a randomizing method.\nRotating Dungeon Master (DM) Role: Every group member gets one turn to act as the Dungeon Master (DM) for a full session/day.\n\nThis distributes the workload fairly—no one is stuck doing all the prep.\nThe DM takes ownership of that day’s reading/topic. A D&D-style adventure will be provided for the class and the DM will be given the adventure. They then give the problems to the other students in a turn-based format. Ideally you begin by imagining being in a unique situation that makes you question some belief that you’ve always taken for granted, an example will be provided which you may use instead of creating your own.\nThe DM will role a d20 dice first to determine what positions the students will take.\n\n\n\n\nPlay Through\nThe D&D assignment is not exactly like D&D though Ive tried to keep it as close as possible. The idea is to encourage students to talk through the philosophical issues we read about.\nIdeally you begin by imagining being in a unique situation that makes you question some belief that you’ve always taken for granted.\nEach day that we do the activity, each group will have a new DM for that day. The DM rolls the dice to set the difficulty class. They then read the encounter.\n\nThere are billions of people (non sims) in the actual universe.\nTherefore there will be billions of sim people in the sim universe.\nSuch a program, the simUniverse, will likely be very successful and there will be many, many simUniverses sold.\n\nTherefore there will be many more sims than non sims.\n\n\nEncounter\nThe DM then reads an imagined context that motivates each of the reasons above in a turn based format.\nGoing around the table, the DM has each member of their group roll a d20 to determine what position on one of the reasons above, they are going to take. Do they defend the reason given, or do they critique it?\nFirst, as a class we take three polls, one for each reason. Is there more who agree with the reason above, or disagree with it?\nNext,\n\nThe DM rolls a dice and gets 10.\n\nWinning roll:\n\nIf the other student rolls higher, they get to defend the intuitive position.\nThis is whichever position there is most agreement for.\n\nLosing roll:\n\nIf the other student rolls lower than the DM, then they will have to defend the least likely answer.\nThe position with the least agreement for.\n\nThe students gives their position which is recorded onto everyone’s tally sheets. At the end of the campaign for that day, each sheet should have a set of positions for each of the reasons above, either defending it, or objecting to it, one from each member of the group.\nEveryone should have their own copy of the tally sheet. You will upload a photo of it to Canvas under the assignment module. You keep the tally sheet for the entire semester.",
     "crumbs": [
       "Introduction to Philosophy",
@@ -776,17 +1076,31 @@
     "crumbs": [
       "Philosophy of Law",
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Syllabus</span>"
+=======
+    "text": "Weekly Reflections (32 points): These will be done each week in class. Each reflection is worth a possible total of 8 points. There are 12 possible reflections. I will only grade 8 or your best reflections for a possible total of 32 points.\nEach week on Wednesday (except Aug. 19th, August 26th, Oct 14th, Nov 25th, Dec 2nd, Dec 9th) a short weekly will be due, (just the front and back of a 3x5 note card). Weeklies will be based on the assigned readings and/or the discussion from the previous class. Each weekly is worth 7 points (maximum), and I will assign a total of 11 weeklies. I will drop the three lowest scored weeklies. Since I include in your total paper grade 11 weeklies at 10 points per weekly, the total points possible on weeklies is 110. If you should earn more than one hundred points on weeklies, all additional points count as extra credit. Finally, since the weekly is due at the beginning of class, arriving to class on time is essential. I will not accept the weekly after 5 minutes from the start of class. If you arrive late or are absent, you receive a zero for the weekly. I do give partial credit for weeklies, and just putting your name on the top is worth one point. (It would be best if you purchase a set of 3x5 note cards to right your weekly on.) The purpose of these weeklies is to help me assess how e↵ectively I am going over the material. As such, what I am looking for is a short/ concise exposition of either the reading or of the discussion from the week before. I will let you know which when I assign the weekly on the Monday prior.\nQuizzes 1 & 2 (80 points): Each Quiz is worth a possible total of 10 points per category, times 4 categories equals 40 points times 2 Quizzes.\nEach of the scheduled examinations will cover lectures, discussions and assigned readings from the classes that precede it. You are responsible for assigned readings without regard to whether they were covered in class. The final examination will focus primarily on the lectures, discussions and readings subsequent to the first examination, but it may cover material from the whole semester. I generally do not give makeup examinations. I believe that doing so penalizes those who diligently prepare for class.\nCritical Reflection 1 & 2 (160 points): Each reflective analysis is worth a possible total of 20 points per category, times 4 categories equals 80 points times 2 reflection pieces.\nYou will be required to write one paper, which must be type-written, double-spaced, and six to eight pages in length. This is NOT a research paper. Below are several topics, each student must choose ONE to which s/he will respond. If you wish to write a paper on a topic other than one of those suggested by me contact me after class and we can make an appointment during my office hours to discuss other topics. (I will be more than happy to approve relevant topics.) The papers you write are not opinion papers. It is standard practice among philosophers to view mere opinion to be worth less than the energy used to express it. What is worthwhile is a reasoned defense of one’s opinion. Your paper should be written so as to present rational argument for the position which you hold.\nYour paper should consist of two distinct parts. The first part, which should account for approximately half the length of the paper, should be a short explication of the essay you have chosen. This part should contain a statement of the author’s position, a statement of your own position (tell me whether you agree or disagree with the author) and an explanation of the author’s supporting arguments. The second half of the paper should consist of your own evaluation or critique of the essay. In this part of the paper you should tell me WHY you agree or disagree with the author. If you agree with the author you should tell me what argument(s) are convincing. Then tell me what argument(s) might be pro↵ered by one who disagrees with the author and how the author might respond. If you disagree with the author, you should provide criticism of the author’s essay and attempt to explain how the author might respond to the criticism. Hence, whether you agree or disagree with the author, you should provide arguments against the author and responses thereto. Finally, you should explain why you believe your position is the best position. You must NOT use outside sources for this essay. I will provide a more detailed account in class.\n\nD&D Campaigns (96 points total)\n\nOverview & Purpose\nYour grade in this area is based on preparation and active participation during D&D-style class meetings. The format uses a simplified, philosophy-focused adaptation of Dungeons & Dragons to encourage students to talk through, debate, and critically engage with the philosophical issues in the assigned readings — not just summarize or repeat them.\nThe core idea: Turn abstract philosophical texts into immersive, narrative “quests” or “dungeons” where the reading provides the backdrop (e.g., a moral dilemma in a kingdom, a metaphysical riddle from an adversarial entity, or an epistemological challenge). This creates lively discussion, risk, uncertainty, and stakes via dice rolls — mirroring real philosophical debate.\n\n\nKey Differences from Traditional D&D\nThis is not full tabletop RPG gameplay (no complex combat, character stats, or long campaigns). It is a structured, turn-based discussion tool designed to make philosophy feel urgent, personal, and collaborative. Overall Assignment Setup",
+    "crumbs": [
+      "Introduction to Philosophy",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Assignments</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
     "objectID": "data/course.phil.law/index.html#course-description",
     "href": "data/course.phil.law/index.html#course-description",
     "title": "Syllabus",
+<<<<<<< HEAD
     "section": "",
     "text": "📑 Course Brief\nFocus:\n\nDeveloping critical reasoning skills.\nDiscovering some of the fundamental philosophical ideas in law.\n\nText: Feinberg, Joel, and Jules L. Coleman. 2008. Philosophy of Law / [Edited by] Joel Feinberg, Jules Coleman. 8th ed. Thomson/Wadsworth.\n🎯 Learning Objectives\n\nWhat is a law?\nWhat makes a law valid or binding?\nDo we have a moral obligation to obey the law?\nWhat gives society the right to punish people whose actions are harmful only to the individual, him/herself (paternalism)?\nDoes society have the right to harm those who break the law (criminal punishment)?\nShould attempted crimes be punished less severely than completed crimes?\n\nWhat is not covered\nPublic policy issues such as:\n\nWhether raising the drinking age saves lives\nWehther smoking marijuana is a victimless crime (whether it harms others)\nWhether the death penalty is a deterrent.\n\nWe do not discuss what the law is; instead, we will discuss what the law ought to be.",
     "crumbs": [
       "Philosophy of Law",
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Syllabus</span>"
+=======
+    "section": "Course Description",
+    "text": "Course Description\nWe will examine theories which attempt to provide answers to such questions as: What is a law? What makes a law valid or binding? Does one always have a moral obligation to obey the law? What gives society the right to punish people whose actions are harmful only to the individual, him/herself (paternalism)? Does society have the right to harm those who break the law (criminal punishment)? Should attempted crimes be punished less severely than completed crimes? We will not spend much time discussing specific public policy issues such as: Whether raising the drinking age saves lives, whether smoking marijuana is a victimless crime (whether it harms others), or whether the death penalty is a deterrent. We will not discuss what the law is; instead, we will discuss what the law ought to be.\n\n📑 Course Brief\nFocus:\n\nDeveloping critical reasoning skills.\nDiscovering some of the fundamental philosophical ideas in law.\n\nText: Feinberg, Joel, and Jules L. Coleman. 2008. Philosophy of Law / [Edited by] Joel Feinberg, Jules Coleman. 8th ed. Thomson/Wadsworth.\n🎯 Learning Objectives\n\nWhat is a law?\nWhat makes a law valid or binding?\nDo we have a moral obligation to obey the law?\nWhat gives society the right to punish people whose actions are harmful only to the individual, him/herself (paternalism)?\nDoes society have the right to harm those who break the law (criminal punishment)?\nShould attempted crimes be punished less severely than completed crimes?\n\nWhat is not covered\nPublic policy issues such as:\n\nWhether raising the drinking age saves lives\nWehther smoking marijuana is a victimless crime (whether it harms others)\nWhether the death penalty is a deterrent.\n\nWe do not discuss what the law is; instead, we will discuss what the law ought to be.",
+    "crumbs": [
+      "Philosophy of Law",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Syllabus</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -797,7 +1111,11 @@
     "text": "The Speluncean Explorers\nThe Speluncean Explorers",
     "crumbs": [
       "Philosophy of Law",
+<<<<<<< HEAD
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Syllabus</span>"
+=======
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Syllabus</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -808,7 +1126,11 @@
     "text": "Course Convenor\n Reynolds  Dr. Monty Reynolds Stetson University 📧 mreynolds1@stetson.edu\nOffice Hours:\n\nWhen:\n\nTuesday: 1:00–3:00 PM\nThursday: 1:00–3:00 PM\n\nWhere: Elizabeth Hall 104\nHow to book: Drop in, email, or book via Microsoft Bookings",
     "crumbs": [
       "Philosophy of Law",
+<<<<<<< HEAD
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Syllabus</span>"
+=======
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Syllabus</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -819,7 +1141,11 @@
     "text": "Course Information\n\nRequired Texts:\nFeinberg, Joel, and Jules L. Coleman. 2008. Philosophy of Law / Edited by Joel Feinberg, Jules Coleman. 8th ed. Thomson/Wadsworth.\nRequired: Handouts\n\n\nExpectations:\nCome prepared to engage with assigned readings in class, referencing specific passages as prompted by the instructor.\nBring physical or digital copies of readings to class for annotation and short reflections.\nSubmit all assignments via Canvas by the due date.\nActive participation and regular attendance are essential for success.\n\n\nLate Assignment Policy\nPenalty: 10% deduction per day late.\nMakeup Process: Email the instructor within 48 hours to arrange an extension. No credit if not submitted by agreed date.\n\n\nSuccess: Active participation, timely submissions, and attendance are key.",
     "crumbs": [
       "Philosophy of Law",
+<<<<<<< HEAD
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Syllabus</span>"
+=======
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Syllabus</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -827,10 +1153,17 @@
     "href": "data/course.phil.law/index.html#grading-calculation",
     "title": "Syllabus",
     "section": "Grading Calculation",
+<<<<<<< HEAD
     "text": "Grading Calculation\nWeekly Reflections: Each reflection is worth a possible total of 8 points. There are 12 possible reflections. I will only grade 8 or your best reflections.\nReflective Analysis 1 & 2 (160 points): Each reflective analysis is worth a possible total of 20 points per category, times 4 categories equals 80 points times 2 reflection pieces.\nEssay 1 & 2 (80 points): Each Quiz is worth a possible total of 10 points per category, times 4 categories equals 40 points times 2 Quizzes.\nPresentation: Your grade in this area depends on your preparation and participation in the DND class meetings. We will use the dnd adventure sheet linked here to quantify participation.\nStudents will be evaluated based on a total of 640 points, with the final grade determined by the percentage of points earned. The components are as follows:\n\nFor more detailed information regarding grades, see the rubric here\n\n\nFor more detailed information regarding the DND Adventures, see the DND addendum here\n\n\nAttendance (5% of final grade, 32 points):\n\nBased on unexcused absences throughout the semester.\n\nGrading Scale (equal increments of 8 points):\n\n\n\n0–1\nunexcused absences:\n32 points\n\n\n2\nunexcused absences:\n24 points\n\n\n3–4\nunexcused absences:\n16 points\n\n\n5–6\nunexcused absences:\n8 points\n\n\n6\nunexcused absences:\n0 points",
     "crumbs": [
       "Philosophy of Law",
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Syllabus</span>"
+=======
+    "text": "Grading Calculation\nWeekly Reflections: Each reflection is worth a possible total of 8 points. There are 12 possible reflections. I will only grade 8 or your best reflections.\nReflective Analysis 1 & 2 (160 points): Each reflective analysis is worth a possible total of 20 points per category, times 4 categories equals 80 points times 2 reflection pieces.\nEssay 1 & 2 (80 points): Each Quiz is worth a possible total of 10 points per category, times 4 categories equals 40 points times 2 Quizzes.\n\nD&D Campaigns (96 points total)\n\nOverview & Purpose\nYour grade in this area is based on preparation and active participation during D&D-style class meetings. The format uses a simplified, philosophy-focused adaptation of Dungeons & Dragons to encourage students to talk through, debate, and critically engage with the philosophical issues in the assigned readings — not just summarize or repeat them.\nThe core idea: Turn abstract philosophical texts into immersive, narrative “quests” or “dungeons” where the reading provides the backdrop (e.g., a moral dilemma in a kingdom, a metaphysical riddle from an adversarial entity, or an epistemological challenge). This creates lively discussion, risk, uncertainty, and stakes via dice rolls — mirroring real philosophical debate.\n\n\nKey Differences from Traditional D&D\nThis is not full tabletop RPG gameplay (no complex combat, character stats, or long campaigns). It is a structured, turn-based discussion tool designed to make philosophy feel urgent, personal, and collaborative. Overall Assignment Setup\nStudents will be evaluated based on a total of 640 points, with the final grade determined by the percentage of points earned. The components are as follows:\n\n\nFor more detailed information regarding grades, see the rubric here\n\n\nFor more detailed information regarding the DND Adventures, see the DND addendum here\n\n\n\nAttendance (5% of final grade, 32 points):\n\nBased on unexcused absences throughout the semester.\n\nGrading Scale (equal increments of 8 points):\n\n\n\n0–1\nunexcused absences:\n32 points\n\n\n2\nunexcused absences:\n24 points\n\n\n3–4\nunexcused absences:\n16 points\n\n\n5–6\nunexcused absences:\n8 points\n\n\n6\nunexcused absences:\n0 points",
+    "crumbs": [
+      "Philosophy of Law",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Syllabus</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -841,7 +1174,11 @@
     "text": "Course Schedule\nHere is the syllabus formatted as a clean Markdown table using only the vertical line | as the separator (with a properly spanned title row):\n\n\n\n\n\n\n\n\nDay\nDate\nDiscussion\n\n\n\n\nTuesday\nJanuary 13\nIntroduction to Philosophy of Law and Organization of Class\n\n\nThursday\nJanuary 15\nFuller, “The Case of the Speluncean Explorers” (Handout - Canvas)\n\n\nTuesday\nJanuary 20\nKretzmann, “Lex Iniusta Non Est Lex: Laws on Trial” (Handout – Canvas)\n\n\nThursday\nJanuary 22\nBentham, “The Principles of Morals and Legislation” (Handout, pages 224-248 -D2L)\n\n\nTuesday\nJanuary 27\nBentham (Continued)\n\n\nThursday\nJanuary 29\nHart, “Law as the Union of Primary and Secondary Rules” (crc, 53)\n\n\nTuesday\nFebruary 3\nHart (Continued)\n\n\nThursday\nFebruary 5\nDworkin, “The Model of Rules” (148)\n\n\nTuesday\nFebruary 10\nDworkin, “Integrity in Law” (169)\n\n\nThursday\nFebruary 12\nHolmes, “The Path of the Law” (197); Frank, “Legal Realism” (205)\n\n\nTuesday\nFebruary 17\nCritical Legal Studies (Handout – D2L)\n\n\nThursday\nFebruary 19\nPlato, Crito (Handout – D2L)\n\n\nTuesday\nFebruary 24\nCrito (Continued)\n\n\nThursday\nFebruary 26\nQuiz 1\n\n\nTuesday\nMarch 3\nSpring Break\n\n\nThursday\nMarch 5\nSpring Break\n\n\nTuesday\nMarch 10\nHart, “Postscript: Responsibility and Retribution” (317)\n\n\nThursday\nMarch 12\nDuff, “Choice, Character, and Action” (328)\n\n\nTuesday\nMarch 17\nParker, “Blame, Punishment and the Role of Result” (Handout – D2L)\n\n\nThursday\nMarch 19\nSpring Break\n\n\nTuesday\nMarch 24\nSpring Break\n\n\nThursday\nMarch 26\nSelf Defense (Handout – D2L)\n\n\nTuesday\nMarch 31\nSelf Defense (Continued)\n\n\nThursday\nApril 2\nExcuse, Justification, Subjective/Objective Liability (Handout – D2L)\n\n\nTuesday\nApril 7\nMill, “On Liberty” (258)\n\n\nThursday\nApril 9\nDworkin, “Paternalism” (271); Griswold v. Connecticut (summary on www)\n\n\nTuesday\nApril 14\nDevlin, “Morals and the Criminal Law” (283)\n\n\nThursday\nApril 16\n“The Moral Significance of Terrorism” (Handout – D2L)\n\n\nTuesday\nApril 21\nDershowitz, “Should the Ticking Bomb Terrorist be Tortured” (Paper Due at End of Class)\n\n\nThursday\nApril 23\nBork, “The Original Understanding” (Handout – D2L)\n\n\nTuesday\nApril 28\nBork (Continued), last day of classes\n\n\nThursday\nApril 30\nFinal exams, final paper due, TBD\n\n\nTuesday\nMay 3\nFinal exams TBD",
     "crumbs": [
       "Philosophy of Law",
+<<<<<<< HEAD
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Syllabus</span>"
+=======
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Syllabus</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -852,7 +1189,11 @@
     "text": "Grading Calculation\nTotal Points: 640 points, distributed as above.\n\nFormula: Raw scores summed across sheets; final percentage = SUM(all assignment points)/640 * 100.\n\nLetter Grade:\nFinal grade uses the following scale (no rounding):\n\n\n\nLetter Grade\nPercentage\n\n\n\n\nA+\n97–100%\n\n\nA\n93–96%\n\n\nA-\n90–92%\n\n\nB+\n87–89%\n\n\nB\n83–86%\n\n\nB-\n80–82%\n\n\nC+\n77–79%\n\n\nC\n73–76%\n\n\nC-\n70–72%\n\n\nD+\n67–69%\n\n\nD\n63–66%\n\n\nD-\n60–62%\n\n\nF\n&lt;60%\n\n\n\n\nExample: Perfect scores = 32 + 160 + 160 + 80 + 80 + 96 + 32 = 640 points (100%, A+).",
     "crumbs": [
       "Philosophy of Law",
+<<<<<<< HEAD
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Syllabus</span>"
+=======
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Syllabus</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -863,7 +1204,11 @@
     "text": "University Supports and Policies",
     "crumbs": [
       "Philosophy of Law",
+<<<<<<< HEAD
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Syllabus</span>"
+=======
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Syllabus</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -871,21 +1216,36 @@
     "href": "data/course.phil.law/lectures/index.html",
     "title": "🗓️ Week 5 - Critical Legal Studies",
     "section": "",
+<<<<<<< HEAD
     "text": "Week 5",
     "crumbs": [
       "Philosophy of Law",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>🗓️ Week 5 - Critical Legal Studies</span>"
+=======
+    "text": "CLS scholars try to establish the illegitimacy of the legal order by debunking law’s pretensions to determinacy, neutrality, and objectivity.\nShaped by:\nWhat is the nature and interconnection of the different rhetorical modes found in American private law opinions, articles, and treatises?\nNotebook Export form-and-substance-in-private-law-adjudication duncankennedy.net Citation (Chicago Style): duncankennedy.net. form-and-substance-in-private-law-adjudication. , 2026. Kindle edition. FORM AND SUBSTANCE IN PRIVATE LAW ADJUDICATION + Duncan Kennedy * This article is an inquiry into the nature and interconnection of the different rhetorical modes found in American private law opinions, articles and treatises. there are two opposed rhetorical modes for dealing with substantive issues, which I will call individualism and altruism. are also two opposed modes for dealing with questions of the form in which legal solutions to the substantive problems should be cast. One formal mode favors the use of clearly defined, highly administrable, general rules; the other supports the use of equitable standards producing ad hoc decisions with relatively little precedential value. rational vindication of two common intuitions The first\naltruist views on substantive private law issues lead to willingness to resort to standards in administration,\nindividualism seems to harmonize with an insistence on rigid rules rigidly applied.\nThe second is that substantive and formal conflict in private law cannot be reduced to disagreement about how to apply some neutral calculus that will “maximize the total satisfactions of valid human wants.”1\nThe opposed rhetorical modes lawyers use reflect a deeper level of contradiction.\nwe are divided, among ourselves and also within ourselves, between irreconcilable visions of humanity and society, and between radically different aspirations for our common future.\nbody of legal thought that deals explicitly with the question of legal form.\nIt is premised on the notion the the choice between standards and rules of different degrees of generality is significant, and can be analyzed in isolation from the substantive issues that the rules or standards respond to.4\nFrom this starting point of “value neutral” description of the likely consequences of adopting rules or standards, there are two quite different directions in which one might press the analysis of legal form.\nOne alternative is to attempt to enrich the initial schema by contextualizing it.\nThe second, and I think more important, approach ignores both the question of how rules and standards work in realistic settings and the question of how we can best solve the problem of fitting form to particular objectives.\nA. Contextualization\nI. Social Engineering.\n“rules of law… which are applied mechanically are more adapted to property and to business transactions; standards where application proceeds upon intuition are more adapted to human conduct and to the conduct of enterprises.” 42\nThe “scientist” as opposed to the “engineer” can ask how the choice of form will favor the interests of some participants in a conflict and disfavor others.\n—In many situations that arise in our legal system, it is open to argument whether substantive norms of conduct ought to be laid down by the courts or by some other, more “democratically legitimate” institution,\nIn short, there may be conflict about who is the superior and who the inferior legal actor in the premises.\nB. Form as Substance\nThe main problem with contextualization as I have presented it thus far is that it leaves out of account the common sense that the choice of form is seldom purely instrumental or tactical.\nWhat we need is a way to relate the values intrinsic to form to the values we try to achieve through form.\nThe method I have adopted in place of contextualization might be called, in, a loose sense, dialetical or structuralist or historicist or the method of contradictions.73\nthe experience of unresolvable conflict among our own values and ways of understanding the world is here to stay.\ntwo opposed attitudes that manifest themselves in debates about the content of private law rules.\nthe arguments lawyers use are relatively few in number and highly stereotyped, although they are applied in an infinite diversity of factual situations.\nA. The Content of the Ideal of Individualism\nThe essence of individualism is the making of a sharp distinction between one’s interests and those of others, combined with the belief that a preference in conduct for one’s own interests is legitimate, but that one should be willing to respect the rules that make it possible to coexist with others similarly selfinterested.\nB. The Content of the Ideal of Altruism\nThe essence of altruism is the belief that one ought not to indulge a sharp preference for one’s own interest over those of others.\nC. Methodological Problems\nThere are many problems with the use of concepts like individualism and altruism.\nAs a result, it is impossible to “prove” or “disprove” the validity\nof the two constructs.\nA. The Antebellum Period (1800-1870): Morality vs. Policy\nIndividualism was at first not an ethic in conflict with the ethic of altruism, but a set of pragmatic arguments perceived as in conflict with ethics in general.\nB. Classical Individualism (1850-1940): Free Will\nOne major difference is the total disappearance of religious arguments, and the fading of overtly moralistic discussion.\nClassical individualism,” which represented not just a rhetorical shift away from the earlier emphasis on altruism, but the denial that altruism had anything at all to do with basic legal doctrines.\nC. Modern Legal Thought (1900 to the present): The Sense of Contradiction\nIn private law, modern legal thought begins with the rejection of Classical individualism. Its premise is that Classical theory failed to show either that the genius of our institutions is individualist or that it is possible to deduce concrete legal rules from concepts like liberty, property or bodily security.\nI. The Critique of Classical Individualism.\nFirst, modern legal thought and especially modern legal education are committed to the position that no issue of substance can be resolved merely by reference to one of the Classical concepts.\nSecond, the problem with the concepts is that they assert the possibility of making clear and convincing on-off distinctions among fact situations, along the lines of free vs. coerced; proximate vs. remote cause; private vs. affected with a public interest.\nThird, given the indeterminacy of the concepts, their inherent ambiguity as criteria of decision, it is implausible to describe the total body of legal rules as implicit in general principles like “protection of property” or “freedom of contract.”\nFourth, there are numerous issues on which there exists a judicial and also a societal consensus, so that the judge’s use of his views on policy will be noncontroversial.\nBut there are also situations in which there is great conflict. The judge is then faced with a dilemma: to impose his personal views may bring on accusations that he is acting “politically” rather than “judicially.”\ndeterminant of the distribution of desired objects and the allocation of resources to different uses.\nThe three sections also have a second purpose: to trace the larger dispute between individualism/rules and altruism/standards through the series of stages that lead to the modern confrontation of contradictory premises that is the subject of Section VIII.\nOne might attempt to link the substantive and formal dimensions at the level of social reality.\nThis method is hopelessly difficult, given the current limited state of the art of assessing either actual effects of decisions or their actual formal properties.\nThere is a strong analogy between the arguments that lawyers make when they are defending a “strict” interpretation of a rule and those they put forward when they are asking a judge to make a rule that is substantively individualist.\nLikewise, there is a rhetorical analogy between the arguments lawyers make for “relaxing the rigor” of a regime of rules and those they offer in support of substantively altruist lawmaking.\nThe simplest of these analogies is at the level of moral argument. Individualist rhetoric in general emphasizes self-reliance as a cardinal virtue.\nThe same argument applies to rules that are designed to enforce substantive policies rather than merely to facilitate choice between equally acceptable alternatives.\nan abstract statement of the structural analogy of the formal and substantive positions,\nand an historical synopsis of how the positions got to their present state.\nA. An Abstract Statement of the Analogy\nI. Non-intervention vs. Result-Orientation.\nSuppose a situation in which the people who are the objects of the lawmaking process can do any one of three things: X, Y and Z. The lawmaker wants them to do X, and he wants them to refrain from Y and Z. If he does not intervene at all, they will do some X, some Y and some Z. As an individualist, the lawmaker believes that it would be wrong to try to force everyone to do X all the time. He may see freedom to do Y as a natural right, or believe that if he forbids Z, most people will find themselves choosing X over Y as often as if it were legally compelled. Or he may take the view that the bad side effects of state intervention to prohibit Y outweigh the benefits.\nIn spite of these contextual factors, there is a close analogy between the substantive individualist position and the argument for rules.\nThe rule advocate claims that we can best achieve the prohibition of Z through a rule that not only permits some Z (underinclusion) but also arbitrarily punishes some Y (overinclusion).\nIn short, the argument for rules over standards is inherently noninterventionist, and it is for that reason inherently individualist.\nThe main difficulty with seeing rules as noninterventionist is that they presuppose state intervention.\nIn other words, the issue of rules vs. standards only arises after the lawmaker has decided against the state of nature and in favor of the imposition of some\nlevel of duty, however minimal.\nBoth strategies rely on the sanctioning effect of nonintervention to stimulate private activity that will remedy the evils that the state refuses to attack directly.\nThe self-conscious use of the sanction of abandonment as an incentive to production expresses itself on two different levels of the legal system.\nIn private law, it means that people are authorized to refuse to share their superfluous wealth with those who need it more than they do.\nIn public law, the individualist opposes welfare programs financed through the tax system as a form of compulsory collective altruism that endangers the wealth of society.\nIn the area of formalities, the sanction of nullity works in the\nsame fashion as the sanction of starvation in the substantive debate.\nThe parties are told that unless they use the proper language in expressing their intentions, they will fail of legal effect.\nThe argument is that both rules and the substantive reduction of Bookmark - Page 61 · Location 1371\naltruistic duty will encourage transaction in general.116\nA man need not, it is true, do this or that act,—the term act implies a choice,—but he must act somehow. Furthermore, the public generally profits by individual activity. As action cannot be avoided, and tends to the public good, there is obviously no policy in throwing the hazard of what is at once desirable and inevitable upon the actor.\nThe state might conceivably make itself a mutual insurance company against accidents, and distribute the burden of its citizens’ mishaps among all its members. There might be a pension for paralytics, and state aid for those who suffered in person or estate from tempest or wild beasts. As between individuals it might adopt the mutual insurance principle pro tanto, and divide damages when both were in fault, as in the rusticum judicium of the admiralty, or it might throw all loss upon the actor irrespective of fault. The state does none of these things, however, and the prevailing view is that its cumbrous and expensive machinery ought not to be set in motion unless some clear benefit is to be derived from disturbing the status quo. State interference is an evil, where it cannot be shown to be a good. Universal insurance, if desired, can be better and more cheaply accomplished by private enterprise.\nwhy the activity encouraged by permitting breach of altruistic duty should lead to a public good.\nhe would not have generalized his position to cover all such duties, although a return to the state of nature would certainly stimulate a vast amount of activity now deterred by fear of legal intervention.\nthe limitation of duty should have an inhibiting effect on the activity of those subjected to uncompensated injury.\nHolmes simply assumes that these inhibiting effects on desirable activity (or stimulating effects on undesirable activity) do not cancel out the gains from the “liberation of energy.”\nThe parallel argument about rules is that “security” encourages transaction in general.\nThe minimization of “judicial risk” (the risk that the judge will upset a transaction and defeat the intentions of the parties) leads to a higher level of activity than would occur under a regime of standards.\nThe formal argument rests on the same implicit Social Darwinism as the substantive.\nSecurity of transaction is purchased at the expense of tolerating breach of altruistic duty on the part of the beneficiary of mechanical arbitrariness.\nB. Rules as an Aspect of Classical Laissez-Faire\nThe conclusion of the abstract consideration of the relationship of form and substance is that there is a sound analytical basis for the intuition of a connection between individualism and rules.\nIt is not a connection that is necessary in practice, or even verifiable empirically. It consists in the exact correspondence between the structures of the two arguments.\nI. Laissez-Faire.—It is not easy to reconstruct the Classical individualist economic vision, especially if we want to understand it from the inside as plausible, rather than absurd or obviously evil.\nWhile there were several strands of argumentation, the most important seems to have been the idea that the outcome of economic activity within a common law framework of contract and tort rules mechanically applied would be a natural allocation of resources and distribution of income.\nThe advocate of rules argues that the cast-\ning of law as standards is inconsistent with the fundamental rights of a citizen of a democratic state.\nThere are two branches to the argument.\ninstitutional competence\npolitical question gambits.\nThe premise of the institutional competence argument is that judges do not have the equipment they would need if they were to try to determine the likely consequences of their decisions for the total pattern of social activity.\nThe premise of the political question gambit is that there is a radical distinction between the activity of following rules and that of applying standards.\nIt seems intuitively obvious that both of these gambits are prototypically individualist.\nIt would therefore seem reasonable to expect that we would find an exactly\nparallel substantive claim that the judge should not attempt to impose a high standard of altruistic duty because he has neither the knowledge nor the democratic legitimacy required for the enterprise.\nthe central thesis of the modern conservative attack on judicial activism in both public and private law.127\nA. The Origins of the Institutional Competence and Political Question Gambits\nI. The Classical Individualist Position on Judicial Review.\nFirst, the altruists pointed out that the individualist public law position was conceptualist.\nFirst, Classical individualist private law was no less dependent on conceptualism than public law for its claim to neutrality and legitimacy.\nSecond, a major strand in the public law argument was precisely that common law rules of property, tort and contract represented a massive state intervention in the economy.\nThus there is really a single altruist critique of constitutional and common law judicial lawmaking.\nIf the gambits are valid in public but not in private law, it must be because we should draw different conclusions from the discovery of the political element according to whether we are dealing with the Constitution or with common law institutions.\nB. The Individualist Character of the Gambits in Private Law\nJudicial private lawmaking takes place precisely in those marginal and interstitial areas of the legal system where there is no unequivocal or even extremely suggestive indication of legislative will.\nIn this individualist argument, the judge has a legitimate function as a marginal and interstitial lawmaker, and as a law applier, so long as he eschews result orientation.\nThe altruist response is that the three tiered system leads to deference to private power, rather than to the legislature.\nThe will that the judge is enforcing when he refuses to interfere with freedom of contract is the will of the parties, or of the dominant party, if the relationship is an unequal one.\nOnce one accepts such a conception, the three-tiered structure collapses. The judge, by hypothesis, cannot appeal to a legislative command, and the common law with which she is to harmonize her result points in both directions at the same time.\nC. Two Proposed Solutions to the Political Dilemma\nWhile in 1940 one might reasonably have asserted that the net effect of individualist-altruist conflict in private law had been to deprive the judge of any basis for deciding cases beyond personal orientation to results, there have since been two major attempts to help him out of this embarrassing situation, and to restore the prestige of law by vindicating its claim to autonomy from politics.\nThe law and economics movement,148 insomuch as it purports to offer a theory of what judges should do, is an attempt to formalize the three-tiered system while at the same time substituting the authority of economic science for that of the historical common law.\nThe problem with this position, even supposing that one accepts its revolutionary rejection of the common law tradition, is that efficient resource allocation cannot provide a determinate answer for the judge’s dilemma as to what law to make.\nThe alternative proposal, that the judge engage in “reasoned elaboration” of the immanent social purposes of the legal order, or that he decide on the basis of a “moral discourse,” rejects the dichotomy of factual judgments and value judgments.151\nBut it also creates a three-tiered structure.\nThere is the outcome of private activity. There is judicial intervention via reasoned elaboration. And there is legislative intervention in pursuit of goals that the judge must ignore.\nThe postulate of democracy then requires the judge to restrict his lawmaking to the narrowest possible compass by adopting a regime of formally realizable general rules.\nBut a compromise of this kind is as hostile to the altruist program of result orientation as it is to individualism.\nMy own view is that the ideologists offer a convincing description of reality when they answer that there is no core. Every occasion for lawmaking will raise the fundamental conflict of individualism and altruism, on both a substantive and a formal level. It would be convenient, indeed providential, if there really were a core, but if one ever existed it has long since been devoured by the encroaching periphery.\nIn this section, I will argue that the persistence of these attitudes as organizing principles of legal discourse is derived from the fact that they reflect not only practical and moral dispute, but also conflict about the nature of humanity, economy and society.\nThere are two sets of conflicting fundamental premises that are available when we attempt to reason abstractly about the world, and these are linked with the positions that are available to us on the more mundane level of substantive and formal issues in the legal system.\nIndividualism is associated with the body of thought about man and society sometimes very generally described as liberalism.\nThe whole enterprise of Classical individualist conceptualism was to show that a determinate legal regime could be deduced from liberal premises, as well as derived from individualist morality and practicality.\nThe same is true on the altruist side.\nThe organicist premises with which the altruist responds to the liberal political argument are on another level altogether from the moral and practical assertions we have dealt with up to now.\nThe importance of adding this theoretical dimension to the moral and practical is that it leads to a new kind of understanding of the conflict of individualism and altruism.\nIn particular, it helps to explain what I called earlier the sticking points of the two sides—the moments at which the individualist, in his movement towards the state of nature, suddenly reverses himself and becomes an altruist, and the symmetrical moment at which the altruist becomes an advocate of rules and self-reliance rather than slide all the way to total collectivism or anarchism.\nA. Fundamental Premises of Individualism\nThe characteristic structure of individualist social order consists of two elements.154\nFirst, there are areas within which\nactors (groups or individuals) have total arbitrary discretion (often referred to as total freedom) to pursue their ends (purposes, values, desires, goals, interests) without regard to the impact of their actions on others.\nSecond, there are rules, of two kinds: those defining the spheres of freedom or arbitrary discretion, and those governing the cooperative activities of actors—that is, their activity outside their spheres of arbitrariness.\nThe creation of an order within which there are no occasions on which it is necessary for group members to achieve a consensus about the ends they are to pursue, or indeed for group members to make the slightest effort toward the achievement of other ends than their own, makes perfect sense if one operates on the premise that values, as opposed to facts, are inherently arbitrary and subjective.\nThe subjectivity of values means that it is, by postulate, impossible to verify directly another person’s statement about his experience of ends.\nThe postulate of the arbitrariness of values means that there is little basis for discussing them.\nB. Fundamental Premises of Altruism\nThe utopian counter-program of altruist justice is collectivism.157 It asserts that justice consists of order according to shared ends.\nAltruism denies the arbitrariness of values.\nIt asserts that we understand our own goals and purposes and those of others to be at all times in a state of evolution, progress or retrogression,\nterms of a universal ideal of human brotherhood.\nAltruism also denies the subjectivity of values.\nMy neighbor’s experience is anything but a closed book to me.\nAltruism offers its own definitions of legal certainty, efficiency, and freedom.\nThe certainty of individualism is perfectly embodied in the calculations of Holmes’ “bad man,” who is concerned with law only as a means or an obstacle to the accomplishment of his antisocial ends.\nTo the altruist this is a kind of collective insanity by which we traduce our values while pretending to define them.\n“Efficiency” in the resolution of disputes is a pernicious objective unless it includes in the calculus of benefits set against the costs of administering justice the moral development of society through deliberation on the problem of our apparently disparate ends.\nThe “freedom” of individualism is negative, alienated and arbitrary.\nWhen the group creates an order consisting of spheres of autonomy separated by (property) and linked by (contract) rules, each member declares her indifference to her neighbor’s salvation—washes her hands of him the better to “deal” with him.\nC. The Implications of Contradictions Within Consciousness\nThe explanation of the sticking points of the modern individualist and altruist is that both believe quite firmly in both of these sets of premises, in spite of the fact that they are radically contradictory.\nThe altruist critique of liberalism rings true for the individualist who no longer believes in the possibility of generating concepts that will in turn generate rules defining a just social order.\nThe liberal critique of anarchy or collectivism rings true for the altruist, who acknowledges that after all we have not\novercome the fundamental dichotomy of subject and object.\nSo long as others are, to some degree, independent and unknowable beings, the slogan of shared values carries a real threat of a tyranny more oppressive than alienation in an at least somewhat altruistic liberal state.\nThe meaning of contradiction at the level of abstraction is that there is no metasystem that would, if only we could find it, key us into one mode or the other as circumstances “required.”\nSecond, the acknowledgment of contradiction means that we cannot “balance” individualist and altruist values or rules against equitable standards, except in the tautological sense that we can, as a matter of fact, decide if we have to.\nThird, the recognition that both participants in the rhetorical struggle of individualism and altruism operate from premises that they accept only in this problematic fashion weakens the individualist argument that result orientation is dynamically unstable.\nFinally, the acknowledgement of contradiction makes it easier to understand judicial behavior that offends the ideal of the judge as a supremely rational being.\nIn place of the apparatus of rule making and rule application, with its attendant premises and attitudes, we come suddenly on a gap, a balancing test, a good faith standard, a fake or incoherent rule, or the enthusiastic adoption of a train of reasoning all know will be ignored in the next case.\nIn terms of individualism, the judge has suddenly begun to act in bad faith. In terms of altruism she has found herself.\nThe only thing that counts is this change in attitude, but it is hard to imagine anything more elusive of analysis.",
+    "crumbs": [
+      "Philosophy of Law",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
     "objectID": "data/course.phil.law/lectures/index.html#week-5",
     "href": "data/course.phil.law/lectures/index.html#week-5",
     "title": "🗓️ Week 5 - Critical Legal Studies",
+<<<<<<< HEAD
     "section": "",
     "text": "Formalism",
     "crumbs": [
       "Philosophy of Law",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>🗓️ Week 5 - Critical Legal Studies</span>"
+=======
+    "section": "Week 5",
+    "text": "Week 5\n\nFormalism",
+    "crumbs": [
+      "Philosophy of Law",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -896,7 +1256,11 @@
     "text": "Oliver Wendell Holmes\n\nThe study of law is the study of predicting what to expect in the court of law\nAnd knowing what the court’s expectations are to avoid punishment\nWe want to be able to make predictions\n\n\nDuties and Obligations\n\nLegal Duty is the prediction of what would happen in the court of law.\n\n\na legal duty is nothing but a prediction that if a man does or omits certain things he will be made to suffer in this way or that way by judgment of the court; and so of a legal right. [3]\n\n\nLaw is the guise through which we develop our moral judgments.\n\nEncoded with moral language.\nUses rights and duties with malice and intent (moral agency).\n\nBut the power of enforcement is not coextensive with any system of morals.\nRather the study of law is about prediction:\n\n\nThe prophesies of what courts will do in fact, and nothing more pretentious, are what I mean by the law.\n\n\nCertain actions are correlated with certain consequences.\n\n\n\nTwo Accounts of Malevolent Motive\n\nTraditional: The defendent being exonorated because he did not possess malice (moral sense).\nModern: The defendent is not exonorated because he caused harm (legal sense).\n\n\nSignifies the tendency of his conduct under known circumstances was very plainly to cause the plantiff harm [12].",
     "crumbs": [
       "Philosophy of Law",
+<<<<<<< HEAD
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>🗓️ Week 5 - Critical Legal Studies</span>"
+=======
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -907,7 +1271,11 @@
     "text": "Lecture Notes – Oliver Wendell Holmes and Jerome Frank, Legal Realism\n• American Legal Realism is a critical position in legal theory inspired by the work of John Chapman Gray and Oliver Wendell Holmes.\no A bit of background on Holmes: he was a legal scholar and US Supreme Court Justice. He was also a founding member, with William James, Charles Sanders Peirce and Chauncy Wright, of the Metaphysical Club, which was a group that met at Harvard in 1872. It was in this club that the position that developed into American Pragmatism was first developed. (Also the subject of a wonderful book by Louis Menand.)\n▪ These early pragmatists were metaphysical quietists. ▪ Committed to the idea that if something doesn’t make a difference in practice, then it’s not worth talking about. Differences/distinctions that don’t make a difference in practice are no differences/distinctions at all.\n▪ Peirce’s pragmatic maxim: • “Consider what effects, which might conceivably have practical bearings, we conceive the object of our conception to have. Then, our conception of those effects is the whole of our conception of the object.” (EP1: 132)\n▪ James called his pragmatism “radical empiricism” • ‘the only things that shall be debatable among philosophers shall be things definable in terms drawn from experience’ ▪ We can see these ideas imprinted on Holmes’s thought about “the law.” • “The prophecies of what the courts will do in fact, and nothing more pretentious, are what I mean by the law.” • The law is nothing more than its practical effects, and those are affected on others by the courts. • Holmes argues for this position on an empirical basis rather than on conceptual grounds, as Hart, Austin, and the Natural Lawyers defended their positions.\n• He sought to understand both how law shows up in the experience of those who it affects and how judges actually arrived at their decisions.\no How do those who are governed actually experience the law?\n▪ They experience it as an imposition of public force:\n• “You can see very plainly that a bad man has as much reason as a good one for wishing to avoid an encounter with the public force, and therefore you can see the practical importance of the distinction between morality and law. A man who cares nothing for an ethical rule which is believed and practised by his neighbors is likely nevertheless to care a good deal to avoid being made to pay money, and will want to keep out of jail if he can.”\n• Holmes, then, maintains the separability thesis, but he does so on empirical grounds\no He is not a cynic, however…his purpose is to contend that if one wants to study and practice the law, one must look at it from a business-like perspective, and this means seeing it as distinct from law.\n• Though law is, he says, “the witness and external deposit of our moral lives.”\n▪ So, then, we can make our inquiry more precise by asking how the bad man experiences the law.\n• He wants to know what he can get away with, what he can do without incurring the imposition of public force. • “But what does it mean to a bad man? Mainly, and in the first place, a prophecy that if he does certain things he will be subjected to disagreeable consequences by way of imprisonment or compulsory payment of money.”\n• The bad man is concerned with law as a prediction of likely consequences, and since those consequences are determined by the court, he is concerned with law merely as a prediction of how the courts will decide.\no Holmes examples: contract\n• How would Hart respond to this understanding of law as a prediction of what the courts will decide???\n▪ In the making of such predictions (and in the deciding of cases) we do well to not confuse the moral use of terms and their legal use:\n• Example of Malice\no In morality, malice requires ill intent\no In law, it need not, though it may.\n▪ “I think that the law regards the infliction of temporal damage by a responsible person as actionable, if under the circumstances known to him the danger of his act is manifest according to common experience, or according to his own experience if it is more than common, except in cases where upon special grounds of policy the law refuses to protect the plaintiff or grants a privilege to the defendant. I think that commonly malice, intent, and negligence mean only that the danger was manifest to a greater or less degree, under the circumstances known to the actor, although in some cases of privilege malice may mean an actual malevolent motive, and such a motive may take away a permission knowingly to inflict harm, which otherwise would be granted on this or that ground of dominant public good.” • Example of Contracts: o In morals, contracts or promises are dependent on the internal state of the persons’ minds.\no In law, contracts are purely formal. Whatever the court determines one to be contractually obligated to on the basis of the executed contract is what one is obligated to no matter the internal state of one’s mind.\no How do (and should) judges decide cases?\n▪ We tend to think that judges apply the law, but legal realists think that judges are mostly in the business of making law.\n▪ Why?\n• the class of available legal materials is insufficient to logically entail a unique legal outcome in most cases worth litigating at the appellate level (the Local Indeterminacy Thesis);\n• in such cases, judges make new law in deciding legal disputes through the exercise of a lawmaking discretion (the Discretion Thesis); and\n• judicial decisions in indeterminate cases are influenced by the judge’s political and moral convictions, not by legal considerations.\n▪ Examine this passage (p 466)\n• Behind the logical form lies a judgment as to the relative worth and importance of competing legislative grounds, often an inarticulate and unconscious judgment, it is true, and yet the very root and nerve of the whole proceeding. You can give any conclusion a logical form. You always can imply a condition in a contract. But why do you imply it? It is because of some belief as to the practice of the community or of a class, or because of some opinion as to policy, or, in short, because of some attitude of yours upon a matter not capable of exact quantitative measurement, and therefore not capable of founding exact logical conclusions. Such matters really are battle grounds where the means do not exist for determinations that shall be good for all time, and where the decision can do no more than embody the preference of a given body in a given time and place. We do not realize how large a part of our law is open to reconsideration upon a slight change in the habit of the public mind.\n▪ Judges, Holmes thinks, ought to be more explicit about these hidden drivers of their decisions, and ought to be clear that they make decisions with social advantage in mind.\n▪ This would allow for a re-examination of history and tradition in the law.\n• Turn to p. 470.\n• Example of whether we can know that the criminal law does more good than harm in present circumstances.\n\nCLS\n\n\n\nDay\nDate\nDiscussion\n\n\n\n\nTuesday\nFebruary 20\nCritical Legal Studies (Handout – D2L)",
     "crumbs": [
       "Philosophy of Law",
+<<<<<<< HEAD
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>🗓️ Week 5 - Critical Legal Studies</span>"
+=======
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -918,7 +1286,11 @@
     "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides. Additionally, click here to view a more indepth summary of the lecture.\n\n\n\n\n🎥 Looking for lecture recordings? In the future, you can find them on Canvas.",
     "crumbs": [
       "Philosophy of Law",
+<<<<<<< HEAD
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>🗓️ Week 5 - Critical Legal Studies</span>"
+=======
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -929,7 +1301,11 @@
     "text": "✍️ Coursework\n🚧 Visit Canvas after the lecture to read the coursework instructions for the week 🚧",
     "crumbs": [
       "Philosophy of Law",
+<<<<<<< HEAD
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>🗓️ Week 5 - Critical Legal Studies</span>"
+=======
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -940,7 +1316,11 @@
     "text": "📚 Recommended Reading\n\nCheck the end of slides for the list of references cited in the lecture.",
     "crumbs": [
       "Philosophy of Law",
+<<<<<<< HEAD
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>🗓️ Week 5 - Critical Legal Studies</span>"
+=======
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -951,7 +1331,11 @@
     "text": "📟 Communication\n\nIf you feel like it, introduce your ‘selves’ in the #introductions channel in Discussions",
     "crumbs": [
       "Philosophy of Law",
+<<<<<<< HEAD
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>🗓️ Week 5 - Critical Legal Studies</span>"
+=======
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -962,7 +1346,11 @@
     "text": "Two modes for dealing with questions of the form in which legal solutions to the substantive problems:\n\nFormal Rules: uses clearly defined, highly administrable, general rules\nInformal Standards: uses equitable standards that produce ad hoc decisions with little precedential (precedent) value.\n\n\n\nAs Such:\n\nAltruist views on substantive private law issues lead to willingness to resort to standards in administration.\nIndividualism harmonizes with an insistence on rigid rules rigidly applied (formal modes).\nSubstantive and formal conflict in private law and cannot be reduced to disagreement about how to apply some neutral calculus that will “maximize the total satisfactions of valid human wants”.\nTherefore, we are divided among ourselves and also within ourselves between irreconcilable visions of humanity and society, and between radically different aspirations for our common future.\n\n\n\n\nSections I and II\n\n\nJurisprudence of Rules\n\nDimensions of Form\nRelationships between formal dimensions\n\nTypes of relationships between form and substance\n\nContextualization\nForm as Substance\nAltruism and Individualism\n\n\n\nProblem of choice between rules and standards as the form for legal directives.\nCollecting and organizing the wide variety of arguments that have been found persuasive in different areas of legal study.\n\n\n\n\n\nSections III and IV\n\nDevelops a dichotomy of individualism and altruism\nHopes to bring a measure of order to the chaotic mass of “policies” lawyers\nPolicies can be used in justifying particular legal rules.\n\n\n\n\nSections V, VI, and VII\n\nArgues that the formal and substantive dichotomies are in fact aspects of a single conflict.\nWhose history is briefly traced through a hundred and fifty years of dispute\nIncluding moral, economic, and political.\n\n\n\n\nSection VIII\nOutlines the contradictory sets of fundamental premises that underlie this conflict.\n\n\n\nSection IX\nConclusion",
     "crumbs": [
       "Philosophy of Law",
+<<<<<<< HEAD
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>🗓️ Week 5 - Critical Legal Studies</span>"
+=======
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -973,7 +1361,11 @@
     "text": "A. Dimensions of Form as:\n\nFormal Realizability.\n\nThe extreme of formal realizability is a directive to an official that requires him to respond to the presence together of each of a list of easily distinguishable factual aspects of a situation by intervening in a determinate way.\nAt the opposite pole from a formally realizable rule is a standard or principle or policy.\n\nGenerality.—The second dimension that we commonly use in describing legal directives is that of generality vs. particularity.\n\ndimensions of generality and formal realizability are logically independent:\n\nFormalities vs. Rules Designed to Deter Wrongful Behavior.\n\nas a third dimension\nHere we place at one pole legal institutions whose purpose is to prevent people from engaging in particular activities because those activities are morally wrong or otherwise flatly undesirable.\nE.g., laws against murder\nFormalities are premised on the lawmaker’s indifference as to which of a number of alternative relationships the parties decide to enter.\nBy contrast, legal institutions aimed at wrongdoing attach sanctions to courses of conduct in order to discourage them.\nB. Relationship of the Formal Dimensions to One Another.\nThe categorization of rules as formalities or as designed to\ndeter wrongdoing is logically independent of the issues of formal realizability and generality.\nlegal directives designed to deter immoral or antisocial conduct can be couched in terms of general or particular rules, general or particular standards, or some combination.\nThis is equally true, though less obvious in the case of formalities.\n\nFormalities.\n\nIn the context of formalities the problem is that general rules will lead to many instances in which the judge is obliged to disregard the real intent of the parties choosing between alternative legal relationships.\n\nThe Argument for Casting Formalities as Rules.\n\nare as important in torts as they are in the area of pure formalities. If the rules are clear, people will invest time and energy in finding out what they are.\n\nThe Critique of the Argument for Rules.\n\nThe first set of assumptions\nIf the argument for rules is to work, we must anticipate that private parties will in fact respond to the threat of the sanction of nullity by learning to operate the system.\nBut real as opposed to hypothetical legal actors may be unwilling or unable to do this.35\nThe second set of assumptions underlying the argument for rules concerns the practical possibility of maintaining a highly formal regime.\nwent into showing that legal directives that looked general and formally realizable were in fact indeterminate.38\nThe more general and the more formally realizable the rule, the greater the equitable pull of extreme cases of over-or underinclusion.",
     "crumbs": [
       "Philosophy of Law",
+<<<<<<< HEAD
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>🗓️ Week 5 - Critical Legal Studies</span>"
+=======
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Lectures</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -984,17 +1376,40 @@
     "text": "Week 6",
     "crumbs": [
       "Philosophy of Law",
+<<<<<<< HEAD
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>🗓️ Week 5 - Critical Legal Studies</span>"
+=======
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Lectures</span>"
+    ]
+  },
+  {
+    "objectID": "data/course.phil.law/assignments/index.html#dd-campaign-rules",
+    "href": "data/course.phil.law/assignments/index.html#dd-campaign-rules",
+    "title": "Assignment Rules",
+    "section": "D&D Campaign Rules",
+    "text": "D&D Campaign Rules\n\nGroup Structure: By Week 2, students form small groups of 5 members each (via random assignment).\nRotating Dungeon Master (DM) Role: Each group member serves as DM once during the semester (one full session/day).\n\nThis distributes prep work fairly.\nThe DM “owns” that day’s reading/topic and facilitates the session. A ready-made D&D-style adventure outline (framing the text’s core issues narratively) will be provided to the DM.\nThe DM may use the provided example scenario or adapt it to create a unique situation that forces questioning of taken-for-granted beliefs.\nThe DM begins by rolling a d20 to help determine positions or difficulty.\n\nSession Play Through\n\nDM Preparation & Introduction\nThe DM presents a brief summary of the assigned text. They then narrate the adventure setup: The group is a party of adventurers facing sequential challenges drawn directly from the reading’s key concepts, arguments, objections, or thought experiments.\n\n\nExamples:\n\nYou’ve created a conscious simulated population → debate obligations to them.\nYou’ve fallen in love with someone in an MMO known only as their character → is this true love?\nSimulation argument scenario (e.g., billions of non-sims imply billions of sims; successful simUniverse program implies many more sims than non-sims → motivate and debate each premise narratively).\n\n\n\nClass-Wide Polling (for Key Reasons/Premises)\nFor multi-premise topics (e.g., simulation argument’s three reasons), the full class takes quick polls: For each reason, more people agree or disagree? This identifies the “intuitive” (majority) vs. “least likely” (minority) position.\n\n\nTurn-Based Challenges & Dice Rolls\n\nThe DM reads/presents each challenge/encounter in sequence.\nGroup members respond in turns (going around the table):\nAsk a clarifying question (probe the text/concept).\nOffer a suggestion/solution (propose a philosophical position, argument, counter, edge case, or objection from the reading).\n\n\n\nDice Mechanic (simple d20, no modifiers):\n\nDM sets/rolls a difficulty (e.g., rolls 10).\nResponding student rolls d20.\nHigher than DM roll (“win”): Defend/attack the intuitive position (majority poll view).\nLower than DM roll (“lose”): Defend the least likely position (minority poll view).\n\n\n\nThe student states their position/argument.\n\nSubsequent group members build on, counter, or add considerations to prior responses — creating back-and-forth dialogue.\nDice add chance, excitement, and stakes (you might have to argue against your own intuition).\n\n\n\nResolution & Debrief\n\nDM adjudicates collective outcomes: What positions seem plausible? Which arguments prevailed?\nSession ends with group/class reflection:\nHow did the “adventure” illuminate the reading?\nWhat arguments won/lost?\nHow does this apply to real philosophy?\nDid anyone’s view change?\n\n\n\nTracking & Submission (Tally Sheet)\nEveryone maintains their own tally sheet/adventure sheet (linked in course materials). You will use this sheet to record the key positions taken for each reason/premise/challenge (defend or object/critique). By session end, the sheet should show one position per group member per major point. You will then upload a photo/scan of your completed tally sheet to Canvas after each session (under the assignment module). Please keep the physical/digital sheet for the entire semester — it tracks your cumulative participation.\n\n\n\nGrading Notes\n96 points total for the component.\n\nAssessed via preparation (e.g., coming ready to engage) and quality/quantity of contributions during sessions (tracked partly via tally sheets).\nFocus: Genuine critical reflection, referencing peers’ ideas, challenging assumptions, and engaging the text — not “winning” arguments or perfect rolls.\n\nThis format transforms passive reading into active, communal philosophical practice. Questions? Ask in class, office hours, or via email — let’s make these sessions philosophically epic.",
+    "crumbs": [
+      "Philosophy of Law",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Assignment Rules</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
     "objectID": "summary.html",
     "href": "summary.html",
+<<<<<<< HEAD
     "title": "14  Summary",
     "section": "",
     "text": "In summary, this book has no content whatsoever.",
     "crumbs": [
       "<span class='chapter-number'>14</span>  <span class='chapter-title'>Summary</span>"
+=======
+    "title": "13  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Summary</span>"
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     ]
   },
   {
@@ -1006,6 +1421,7 @@
     "crumbs": [
       "References"
     ]
+<<<<<<< HEAD
   },
   {
     "objectID": "data/course.phil.law/lectures/index.html#the-key-concepts-here-include",
@@ -1127,5 +1543,7 @@
       "Philosophy of Law",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>🗓️ Week 5 - Critical Legal Studies</span>"
     ]
+=======
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
   }
 ]

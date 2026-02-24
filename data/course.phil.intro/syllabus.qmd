@@ -29,9 +29,9 @@ In this course, we will use David Chalmer's book ***Reality+*** to look at quest
 
 {{< include ./quizzes/index.qmd >}}
 
-{{< include ./essay-assignments/paper-guidelines.qmd >}}
+{{< include ./../assignments/Essay-Writing/paper-guidelines.qmd >}}
 
-{{< include ./d&d-campaigns/instructions-truncated.qmd >}}
+{{< include ./../assignments/d&d-campaigns/assignment-summary.qmd >}}
 
 Students will be evaluated based on a total of 640 points, with the final grade determined by the percentage of points earned. The components are as follows:
 

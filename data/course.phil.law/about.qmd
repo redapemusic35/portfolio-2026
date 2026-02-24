@@ -49,7 +49,7 @@ Makeup Process: Email the instructor within 48 hours to arrange an extension. No
 
 ***Essay 1 & 2 (80 points):*** Each Quiz is worth a possible total of 10 points per category, times 4 categories equals 40 points times 2 Quizzes.
 
-***Presentation:*** Your grade in this area depends on your preparation and participation in the DND class meetings. [We will use the dnd adventure sheet linked here to quantify participation](https://drive.google.com/drive/folders/1ZAXxdpvv5jzylj8_18jXUTI68o9MLrXw?usp=sharing).
+{{< include ./../assignments/d&d-campaigns/assignment-summary.qmd >}}
 
 Students will be evaluated based on a total of 640 points, with the final grade determined by the percentage of points earned. The components are as follows:
 

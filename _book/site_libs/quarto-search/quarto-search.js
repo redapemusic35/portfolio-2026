@@ -98,7 +98,10 @@ window.document.addEventListener("DOMContentLoaded", function (_event) {
     classNames: {
       form: "d-flex",
     },
+<<<<<<< HEAD
     placeholder: language["search-text-placeholder"],
+=======
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     translations: {
       clearButtonTitle: language["search-clear-button-title"],
       detachedCancelButtonText: language["search-detached-cancel-button-title"],
@@ -393,12 +396,16 @@ window.document.addEventListener("DOMContentLoaded", function (_event) {
       return focusedEl.tagName.toLowerCase() === tag;
     });
 
+<<<<<<< HEAD
     if (
       kbds &&
       kbds.includes(key) &&
       !isFormElFocused &&
       !document.activeElement.isContentEditable
     ) {
+=======
+    if (kbds && kbds.includes(key) && !isFormElFocused) {
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
       event.preventDefault();
       window.quartoOpenSearch();
     }
@@ -675,6 +682,7 @@ function showCopyLink(query, options) {
 // create the index
 var fuseIndex = undefined;
 var shownWarning = false;
+<<<<<<< HEAD
 
 // fuse index options
 const kFuseIndexOptions = {
@@ -687,6 +695,8 @@ const kFuseIndexOptions = {
   threshold: 0.1,
 };
 
+=======
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
 async function readSearchData() {
   // Initialize the search index on demand
   if (fuseIndex === undefined) {
@@ -697,7 +707,21 @@ async function readSearchData() {
       shownWarning = true;
       return;
     }
+<<<<<<< HEAD
     const fuse = new window.Fuse([], kFuseIndexOptions);
+=======
+    // create fuse index
+    const options = {
+      keys: [
+        { name: "title", weight: 20 },
+        { name: "section", weight: 20 },
+        { name: "text", weight: 10 },
+      ],
+      ignoreLocation: true,
+      threshold: 0.1,
+    };
+    const fuse = new window.Fuse([], options);
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
 
     // fetch the main search.json
     const response = await fetch(offsetURL("search.json"));
@@ -1228,6 +1252,7 @@ function algoliaSearch(query, limit, algoliaOptions) {
   });
 }
 
+<<<<<<< HEAD
 let subSearchTerm = undefined;
 let subSearchFuse = undefined;
 const kFuseMaxWait = 125;
@@ -1256,6 +1281,10 @@ async function fuseSearch(query, fuse, fuseOptions) {
   const now = performance.now();
 
   const results = resultsRaw.map((result) => {
+=======
+function fuseSearch(query, fuse, fuseOptions) {
+  return fuse.search(query, fuseOptions).map((result) => {
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
     const addParam = (url, name, value) => {
       const anchorParts = url.split("#");
       const baseUrl = anchorParts[0];
@@ -1272,6 +1301,7 @@ async function fuseSearch(query, fuse, fuseOptions) {
       crumbs: result.item.crumbs,
     };
   });
+<<<<<<< HEAD
 
   // If we don't have a subfuse and the query is long enough, go ahead
   // and create a subfuse to use for subsequent queries
@@ -1287,4 +1317,6 @@ async function fuseSearch(query, fuse, fuseOptions) {
     });
   }
   return results;
+=======
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
 }

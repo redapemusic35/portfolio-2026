@@ -5,6 +5,7 @@ const headroomChanged = new CustomEvent("quarto-hrChanged", {
   composed: false,
 });
 
+<<<<<<< HEAD
 const announceDismiss = () => {
   const annEl = window.document.getElementById("quarto-announcement");
   if (annEl) {
@@ -44,6 +45,11 @@ window.document.addEventListener("DOMContentLoaded", function () {
 
   announceRegister();
 
+=======
+window.document.addEventListener("DOMContentLoaded", function () {
+  let init = false;
+
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
   // Manage the back to top button, if one is present.
   let lastScrollTop = window.pageYOffset || document.documentElement.scrollTop;
   const scrollDownBuffer = 5;
@@ -273,7 +279,10 @@ window.document.addEventListener("DOMContentLoaded", function () {
     const links = window.document.querySelectorAll("a");
     for (let i = 0; i < links.length; i++) {
       if (links[i].href) {
+<<<<<<< HEAD
         links[i].dataset.originalHref = links[i].href;
+=======
+>>>>>>> 06c5705f29890b9f1f308c5b0dbbc81c16f577ef
         links[i].href = links[i].href.replace(/\/index\.html/, "/");
       }
     }
