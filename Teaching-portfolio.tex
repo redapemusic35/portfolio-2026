@@ -1,0 +1,1248 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+%
+\documentclass[
+  letterpaper,
+  DIV=11,
+  numbers=noendperiod]{scrreprt}
+
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else  
+    % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\setcounter{secnumdepth}{5}
+% Make \paragraph and \subparagraph free-standing
+\ifx\paragraph\undefined\else
+  \let\oldparagraph\paragraph
+  \renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+  \let\oldsubparagraph\subparagraph
+  \renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+% definitions for citeproc citations
+\NewDocumentCommand\citeproctext{}{}
+\NewDocumentCommand\citeproc{mm}{%
+  \begingroup\def\citeproctext{#2}\cite{#1}\endgroup}
+\makeatletter
+ % allow citations to break across lines
+ \let\@cite@ofmt\@firstofone
+ % avoid brackets around text for \cite:
+ \def\@biblabel#1{}
+ \def\@cite#1#2{{#1\if@tempswa , #2\fi}}
+\makeatother
+\newlength{\cslhangindent}
+\setlength{\cslhangindent}{1.5em}
+\newlength{\csllabelwidth}
+\setlength{\csllabelwidth}{3em}
+\newenvironment{CSLReferences}[2] % #1 hanging-indent, #2 entry-spacing
+ {\begin{list}{}{%
+  \setlength{\itemindent}{0pt}
+  \setlength{\leftmargin}{0pt}
+  \setlength{\parsep}{0pt}
+  % turn on hanging indent if param 1 is 1
+  \ifodd #1
+   \setlength{\leftmargin}{\cslhangindent}
+   \setlength{\itemindent}{-1\cslhangindent}
+  \fi
+  % set entry spacing
+  \setlength{\itemsep}{#2\baselineskip}}}
+ {\end{list}}
+\usepackage{calc}
+\newcommand{\CSLBlock}[1]{\hfill\break\parbox[t]{\linewidth}{\strut\ignorespaces#1\strut}}
+\newcommand{\CSLLeftMargin}[1]{\parbox[t]{\csllabelwidth}{\strut#1\strut}}
+\newcommand{\CSLRightInline}[1]{\parbox[t]{\linewidth - \csllabelwidth}{\strut#1\strut}}
+\newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
+
+\KOMAoption{captions}{tableheading}
+\makeatletter
+\@ifpackageloaded{bookmark}{}{\usepackage{bookmark}}
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\AtBeginDocument{%
+\ifdefined\contentsname
+  \renewcommand*\contentsname{Table of contents}
+\else
+  \newcommand\contentsname{Table of contents}
+\fi
+\ifdefined\listfigurename
+  \renewcommand*\listfigurename{List of Figures}
+\else
+  \newcommand\listfigurename{List of Figures}
+\fi
+\ifdefined\listtablename
+  \renewcommand*\listtablename{List of Tables}
+\else
+  \newcommand\listtablename{List of Tables}
+\fi
+\ifdefined\figurename
+  \renewcommand*\figurename{Figure}
+\else
+  \newcommand\figurename{Figure}
+\fi
+\ifdefined\tablename
+  \renewcommand*\tablename{Table}
+\else
+  \newcommand\tablename{Table}
+\fi
+}
+\@ifpackageloaded{float}{}{\usepackage{float}}
+\floatstyle{ruled}
+\@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
+\floatname{codelisting}{Listing}
+\newcommand*\listoflistings{\listof{codelisting}{List of Listings}}
+\makeatother
+\makeatletter
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}
+\makeatother
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={Teaching-portfolio},
+  pdfauthor={Montaque Reynolds},
+  colorlinks=true,
+  linkcolor={blue},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={Blue},
+  pdfcreator={LaTeX via pandoc}}
+
+\title{Teaching-portfolio}
+\author{Montaque Reynolds}
+\date{2026-02-09}
+
+\begin{document}
+\maketitle
+\renewcommand*\contentsname{Table of contents}
+{
+\hypersetup{linkcolor=}
+\setcounter{tocdepth}{2}
+\tableofcontents
+}
+\bookmarksetup{startatroot}
+
+\chapter{About}\label{about}
+
+I am a philosopher and educator who is deeply passionate about
+leveraging artificial intelligence and interactive storytelling to
+enhance human reasoning, productivity, ethical decision-making, and
+overall flourishing---particularly for underserved youth. In 2024, I
+obtained a PhD in Philosophy from Saint Louis University. Now, with a
+small team, build and integrate AI-driven tools---such as D\&D campaign
+generators and develop massively multiplayer online game
+environments---into educational platforms that foster critical thinking,
+moral imagination, and empathy. As Founder and Director of the Saleno
+Center for Human Flourishing, I lead initiatives that explore how
+digital narratives and games can counter harmful stereotypes, promote
+moral well-being, and guide users toward more thoughtful, connected
+lives. I am currently serving as Visiting Assistant Professor of
+Philosophy at Stetson University, where I teach courses in logic,
+aesthetics, philosophy of law, and introduction to philosophy. I am
+currently developing courses in the philosophy of mind and personhood. I
+always emphasizing real-world applications, collaboration, and rigorous
+ethical reflection. My work, including forthcoming publications like
+Moral Autonomy and Personhood in Pop Culture, draws on narrative ethics
+to show how fiction and interactive media can cultivate affective moral
+understanding and support more examined, meaningful existence.
+
+\bookmarksetup{startatroot}
+
+\chapter{Introduction}\label{introduction}
+
+This is a book created from markdown and executable code.
+
+See Knuth (1984) for additional discussion of literate programming.
+
+\bookmarksetup{startatroot}
+
+\chapter{Resume}\label{resume}
+
+\section{Montaque Reynolds}\label{montaque-reynolds}
+
+montaque.reynolds@gmail.com \textbf{Portfolio} ∙ \textbf{Github} ∙
+\textbf{LinkedIn}
+
+Passionate about leveraging AI to enhance human productivity, reasoning,
+and ethical decision-making, I integrate AI-driven tools like D\&D
+campaign generators and other table and video based game models into
+educational platforms.
+
+\section{Education}\label{education}
+
+\textbf{Saint Louis University} Saint Louis, MO \textbf{Doctor of
+Philosophy: Philosophy}
+
+Dissertation: \emph{Emotional Data and Spiritual Meaning, An analysis of
+the moral expression of sentiment in fiction} AOS: Phil Mind, Social and
+Moral Epistemology
+
+\textbf{Oklahoma State University} Stillwater, OK \textbf{Master of
+Arts: Philosophy}
+
+Thesis: \emph{Evolution of Religious Belief and Naturalism: Agency,
+Character and Adaptation in Christian Belief}
+
+\textbf{Seattle Pacific University} Seattle, WA \textbf{Bachelor of
+Arts: Philosophy}
+
+\section{Skills}\label{skills}
+
+\subsection{Languages and Tools}\label{languages-and-tools}
+
+\begin{itemize}
+\tightlist
+\item
+  basic: Python, R
+\item
+  intermediate: Rmarkdown, LaTeX, Git
+\end{itemize}
+
+\subsection{Selected Coursework}\label{selected-coursework}
+
+\begin{itemize}
+\tightlist
+\item
+  Deep Learning for Humanists (Workshop, University of Victoria)
+\item
+  NLP / Sentiment Analysis / Corpus Linguistics
+\item
+  Agents and Agency (Graduate Seminar, Katheryn Lindeman)
+\item
+  CoLiPhi Corpus Linguistics and Philosophy (Workshop, University of
+  Zurich)
+\end{itemize}
+
+\section{Experience}\label{experience}
+
+\textbf{Founder, Director} Saleno Center for Human Flourishing Saint
+Louis, MO Aug 2024 -- Present
+
+\begin{itemize}
+\tightlist
+\item
+  Lead SCHF project advancing human flourishing and moral well-being via
+  interactive digital platforms (e.g., MMOs), investigating impacts on
+  critical thinking, ethical reasoning, and moral decision-making for
+  underserved youth.
+\item
+  Developed AI-driven tools to model ethical AI interactions, aligning
+  with productivity platforms (e.g., PhiloQuest, a DND philosophical
+  campaign generator) that guide users to next-best actions.
+\end{itemize}
+
+\textbf{Visiting Assistant Professor of Philosophy} Stetson University
+Deland, FL Aug 2025 -- Present
+
+\begin{itemize}
+\tightlist
+\item
+  Teach Logic, Aesthetics, Philosophy of Law, Intro to
+  Philosophy---emphasizing reasoning, collaboration, and real-world
+  applications.
+\end{itemize}
+
+\textbf{Expert Contributor} Snorkel.ai Remote Jan 2025 -- Present
+
+\begin{itemize}
+\tightlist
+\item
+  Authored and validated graduate-level, high-difficulty problems to
+  test/enhance LLM reasoning, fluency, and problem-solving; contributed
+  to proprietary datasets for AI fine-tuning, benchmarking, and
+  reinforcement learning.
+\item
+  Identified reasoning flaws in AI-generated responses, refining outputs
+  for rigorous, verifiable solutions---directly advancing LLMs for
+  academia, industry collaboration, and real-time decision-making.
+\end{itemize}
+
+\textbf{Philosophy Instructor (Adjunct)} Lewis and Clark Community
+College Godfrey, IL August 2024 -- May 2025
+
+\begin{itemize}
+\tightlist
+\item
+  Contemporary Moral Problems (Ethics): Designed courses integrating AI
+  ethics and collaborative problem-solving.
+\end{itemize}
+
+\section{Selected Publications and
+Projects}\label{selected-publications-and-projects}
+
+\textbf{Moral Autonomy and Personhood in Pop Culture} Forthcoming
+(Vernon Press)
+
+\begin{itemize}
+\tightlist
+\item
+  I develop an ethic of care with respect to the relationship between
+  fiction and moral understanding, contrasting standard epistemological
+  cases with moral epistemological ones. I then delve into philosophical
+  accounts of narrative, resting on the established proposal that
+  narratives offer avenues for affective moral understanding.
+\end{itemize}
+
+\part{Some Previous Courses}
+
+\chapter{Introduction to Logic}\label{introduction-to-logic}
+
+\begin{figure}[H]
+
+{\centering \includegraphics[width=0.5\textwidth,height=\textheight]{data/course.phil.logic/./figures/holmes.jpg}
+
+}
+
+\caption{`Holmes wears a top hat'}
+
+\end{figure}%
+
+\textbf{Focus:} The focus of this course is . . .
+
+\begin{itemize}
+\tightlist
+\item
+  Informal Logic
+\item
+  Classical Propositional Logic syntax and semantics
+\item
+  Natural Deduction Proofs for Propositional Logic
+\item
+  Formalization Rules and General Propositions
+\item
+  Predicate (Quantification Rules) Logic Semantics and Inference
+\end{itemize}
+
+In this course, we will systematically look at arguments. We look at
+arguments for several reasons. One is to analyze the statements that
+people make. For instance, considering the photo above, what does it
+mean when someone says: ``Holmes wears a top hat.''
+
+For one, the statement usually does not refer to an actually existent
+entity, thing, or person. Perhaps there really was someone alive at one
+time, whose name was `Holmes', and it is conceivable that this person
+wore a top hat. But the statement `Holmes wears a top hat' usually does
+not refer to \emph{that} person, but rather to the fictional character
+from the Author Conan Doyle novels.
+
+Even though the statement refers to a fictional character however, it is
+still a true statement, but how?
+
+We will focus on these kinds of questions in two ways. Consider the
+following:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Cups of coffee from GreatBeanz that looked and tasted just fine
+  haven't killed anyone in the past.
+\item
+  My present cup of GreatBeanz coffee looks and tastes just fine.
+\end{enumerate}
+
+Taking sentences 1 and 2 above, it will be likely that you might
+conclude 3 following below.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{2}
+\tightlist
+\item
+  This present cup of GreatBeanz coffee won't kill me
+\end{enumerate}
+
+While we do this kind of reasoning and argumentation all the time, it is
+not the kind of reasoning and argumentation that we will focus on. Why?
+
+Consider the following slight change:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{2}
+\tightlist
+\item
+  My arch nemesis has poisoned this cup of coffee with an invisible and
+  tastless poison.
+\end{enumerate}
+
+By systematically looking at arguments, we will hope to avoid these
+kinds of outcomes. We do this by focusing on what is called internal
+cogency or logical validity. This is merely a fancy way of saying that
+if one accepts sentences 1 and 2, then they must accept 3.
+
+Compare the argument above with the following one:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  All Republican voters support capital punishment.
+\item
+  Jo is a Republican voter.
+\end{enumerate}
+
+Therefore
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{2}
+\tightlist
+\item
+  Jo supports capital punishment.
+\end{enumerate}
+
+Unlike the first argument, if someone accepts 1 and 2, then they must
+accept 3. What this means is that if they will reject 3, than it is
+either because they've rejected 1 or 2 or 1 and 2 are not relevant, but
+they cannot \emph{logically} accept 1 and 2 while rejecting 3.
+
+In this course, we will look at how critical thinking and reasoning will
+help us to evaluate the truth of statements, whether they are about
+fictional characters, or coffee.
+
+Office Hours:
+
+\begin{itemize}
+\tightlist
+\item
+  When:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Tuesday: 1:00--3:00 PM
+  \item
+    Thursday: 1:00--3:00 PM
+  \end{itemize}
+\item
+  Where: Elizabeth Hall 104
+\item
+  How to book: Drop in, email, or book via
+  \href{https://outlook.office.com/bookwithme/user/59570715559b43fdabc651a89a3ed839@stetson.edu?anonymous&ismsaljsauthenabled&ep=plink}{Microsoft
+  Bookings}
+\end{itemize}
+
+\section{PLOs}\label{plos}
+
+Every course within a given department is expected to satisfy one (or
+more) of that program's Learning Outcomes (PLOs), as articulated in that
+department's Curriculum Map. Students who take a philosophy course will
+develop their capacity to (I.) understand and interpret philosophical
+texts, (II.) identify arguments, (III.) critically assess arguments,
+(IV.) identify philosophical traditions and methods, (IV.) and/or
+communicate clearly and effectively. The philosophy department's five
+Learning Outcomes are arranged hierarchically, so that the later
+Learning Outcomes presuppose some familiarity with the lower-order
+skills. The assignments and work within a given course are expected to
+develop the skills associated with that course's PLO, while
+strengthening the lower- order skills and setting the stage for the
+development of the higher- order skills. The PLO associated with this
+course is:
+
+\begin{enumerate}
+\def\labelenumi{\Roman{enumi}.}
+\setcounter{enumi}{1}
+\tightlist
+\item
+  Argumentation: Students can identify and evaluate argument structures
+  effectively.
+\end{enumerate}
+
+\href{http://www.stetson.edu/artsci/philosophy/curriculummap.php}{Information
+about the philosophy department's PLOs can be found at:}
+
+\url{http://www.stetson.edu/artsci/philosophy/curriculummap.php}
+
+\subsection{Grading:}\label{grading}
+
+\subsection{Assignments:}\label{assignments}
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+Weekly Exercise & 8\% \\
+Exam 1 & 23\% \\
+Exam 2 & 23\% \\
+Exam 3 & 23\% \\
+Final Exam & 23\% \\
+\end{longtable}
+
+Required Text:
+\href{https://www.logicmatters.net/resources/pdfs/IFL2_LM.pdf}{Smith,
+Peter. 2021. An Introduction to Formal Logic. Second edition, Reprinted
+with corrections. Logic Matters:}
+
+\href{https://www.logicmatters.net/resources/pdfs/IFL2_LM.pdf}{Available
+Here: https://www.logicmatters.net/resources/pdfs/IFL2\_LM.pdf}
+
+\subsection{For grading I use the following
+scale:}\label{for-grading-i-use-the-following-scale}
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+A & 93-96 \\
+A- & 90-92 \\
+B+ & 87-89 \\
+B & 83-86 \\
+B- & 80-82 \\
+C+ & 77-79 \\
+C & 23-76 \\
+\end{longtable}
+
+\section{Course Schedule}\label{course-schedule}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.2500}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.2500}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.2500}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.2500}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+Week
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Unit
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Topic
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Pages
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+Week 1 & 1-3 & What is deductive logic, validity and soundness? & 1-8 \\
+Week 2 & 4-6 & Proofs and counter examples, and logical validity & 28 \\
+Week 3 & 7-8 & Propositions, forms, and some syntax & 52 \\
+Week 4 & 9-11 & More syntax, some semantics, and form & 72 \\
+Week 5 & 12-14 & Truth functions, adequacy and tautologies & 104 \\
+Week 6 & 15-17 & Entailing tautologies, and absurdity & 127 \\
+Week 7 & 18-19 & The truth-functional conditionals and natural deduction
+& 148 \\
+Week 8 & 20-22 & Predicate proofs: conjunction, negation, disjunction
+and conditionals & 174 \\
+\end{longtable}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.2500}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.2500}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.2500}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.2500}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+Week
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Unit
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Topic
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Pages
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+Week 9 & 23-24 & PL proofs: theorems, and metatheory & 211 \\
+Week 10 & 25-27 & Names, predicates, quantifiers, and variables & 230 \\
+Week 11 & 28-31 & QL languages, simple translations, and QL
+argumentation & 258 \\
+Week 12 & & Interlude: Arguing in QL, informal QL rules, QL proofs &
+290 \\
+Week 13 & 33-35 & More QL Proofs, empty domains, Q-Valuations & 315 \\
+Week 14 & 36 & Q-Validity & 346 \\
+& 37 & QL Proofs, metatheory & 354 \\
+Week 15 & 38 & Identity & 361 \\
+& 39 & QL=Languages & 367 \\
+& 40 & Definite Descriptions & 375 \\
+& 41 & QL=Proofs & 382 \\
+\end{longtable}
+
+\section{Academic Accommodation}\label{academic-accommodation}
+
+If you anticipate barriers related to the format or requirements of a
+course, you should meet with the course instructor to discuss ways to
+ensure full participation. If disability-related accommodations are
+necessary, you must register with Academic Success through the
+Accessibility Services Center located at 209 E. Bert Fish Dr.~(386-822-
+7127; http://www.stetson.edu/administration/academic-success/) and
+notify the course instructor of your eligibility for reasonable
+accommodations. The student, course instructor and Academic Success will
+plan how best to coordinate accommodations. Academic Integrity - DO NOT
+CHEAT. As a member of Stetson University, I agree to uphold the highest
+standards of integrity in my academic work. I promise that I will
+neither give nor receive unauthorized aid of any kind on my tests,
+papers, and assignments. When using the ideas, thoughts, or words of
+another in my work, I will always provide clear acknowledgement of the
+individuals and sources on which I am relying. I will avoid using
+fraudulent, falsified, or fabricated evidence and/or material. I will
+refrain from resubmitting without authorization work for one class that
+was obtained from work previously submitted for academic credit in
+another class. I will not destroy, steal, or make inaccessible any
+academic resource material. By my actions and my example, I will strive
+to promote the ideals of honesty, responsibility, trust, fairness, and
+respect that are at the heart of Stetson's Honor System. Cheating
+violates university regulations and is a reportable offense that may
+result in academic suspension or dismissal from Stetson University.
+Every violation of the Honor System will be promptly reported to the
+Honor System Council for further investigation. In addition to these
+academic integrity standards, I expect students to treat everyone in the
+classroom---the instructor, fellow students, and guests---with common
+courtesy and respect.
+
+\section{Counseling Center Statement}\label{counseling-center-statement}
+
+College can be extremely stressful for students, especially if this is
+the first time you've been away from home for an extended period of time
+or if there are other pressures that you are facing. For this reason,
+you may find it helpful to consult the University Counseling Center.
+Here is their contact information: Phone number: 386-822-8900 Location:
+The office is located in the gray house behind the Hollis Center pool,
+at the corner of University Avenue and Bert Fish Drive. Office hours:
+Weekdays from 8:00 a.m. to 4:30 p.m If you experience a mental health
+emergency after hours, you can simply call Public Safety (386-822-7300)
+and ask to speak with the on-call counselor. We are staffed with
+qualified professional counselors who are trained to support and guide
+students through difficult transitions, experiences, and feelings.
+Counseling is confidential and free of charge for all currently enrolled
+Stetson University students.
+
+\chapter{Welcome to Introduction to
+Philosophy}\label{welcome-to-introduction-to-philosophy}
+
+A primary objective of this course is to teach students how to construct
+good arguments and how to assess the arguments of others. In order to
+accomplish this goal, during the first part of the semester we will read
+about and discuss what makes a particular argument good or bad and
+practice constructing good arguments. In addition, we will discuss
+knowledge and scientific inquiry as this will help us to understand the
+importance of methodological thought and speech.
+
+A second objective is to provide an introduction to philosophy. We will
+read and discuss a variety of philosophical theories (I understand you
+may not yet know what I mean by the term \emph{philosophical theory})
+and apply these theories to one strange issue: whether or not we are
+simulations. We will be looking at this issue through several important
+philosophical questions, if we are a simulation, what is real?, if we
+are a simulation, how would we know?, if we are a simulation, would our
+values be different? We will not only look at contemporary issues about
+ai and sim theory, but will also look at how philosophers of the past
+posed and attempted to answer this question. Significantly, when we
+discuss ethics, metaphysics, and epistemology. In doing, we will apply
+what we learned about argumentation during the first part of the
+semester.
+
+In this course, we will use David Chalmer's book
+\textbf{\emph{Reality+}} to look at questions humans have been asking
+for thousands of years. While the primary focus of the book is look at
+one question in particular ``Are we in a simulation?'', we use this
+question to frame others such as those above.
+
+\section{💻 Class Meeting Times}\label{class-meeting-times}
+
+\begin{itemize}
+\tightlist
+\item
+  📆 Mondays and Wednesdays
+\item
+  ⌚ 10:30am - 11:45am
+\end{itemize}
+
+\section{Course Convenor}\label{course-convenor}
+
+Dr.~Monty Reynolds 📧 mreynolds1@stetson.edu
+
+Office Hours:
+
+\begin{itemize}
+\tightlist
+\item
+  When:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Tuesday: 1:00--3:00 PM
+  \item
+    Thursday: 1:00--3:00 PM
+  \end{itemize}
+\item
+  Where: Elizabeth Hall 104
+\item
+  How to book: Drop in, email, or book via
+  \href{https://outlook.office.com/bookwithme/user/59570715559b43fdabc651a89a3ed839@stetson.edu?anonymous&ismsaljsauthenabled&ep=plink}{Microsoft
+  Bookings}
+\end{itemize}
+
+\section{Course Information}\label{course-information}
+
+Introduction to Philosophy: Value, Meaning, and Humanity's Place in the
+Modern World
+
+Times: 10:30-11:45 Days: Mons and Weds or Tues Thurs Where: Davis Hall
+209
+
+\section{Required Texts:}\label{required-texts}
+
+Chalmers,~David J..~Reality+: Virtual Worlds and the Problems of
+Philosophy.~United Kingdom:~Penguin Books Limited,~2022.
+
+Here is an amazon link to the book:
+https://www.amazon.com/Reality-Virtual-Worlds-Problems-Philosophy/dp/0393635805
+
+This will also be supplemented with handouts.
+
+\section{Expectations:}\label{expectations}
+
+\begin{itemize}
+\item
+  Come prepared to engage with assigned readings in class, referencing
+  specific passages as prompted by the instructor.
+\item
+  Bring physical or digital copies of readings to class for annotation
+  and short reflections.
+\item
+  Submit all assignments via Canvas by the due date.
+\item
+  Active participation and regular attendance are essential for success.
+\item
+  Success: Active participation, timely submissions, and attendance are
+  key.
+\end{itemize}
+
+\section{Evaluated Activities}\label{evaluated-activities}
+
+\textbf{\emph{Weekly Reflections (32 points):}} These will be done each
+week in class. Each reflection is worth a possible total of 8 points.
+There are 12 possible reflections. I will only grade 8 or your best
+reflections for a possible total of 32 points.
+
+Each week on Wednesday (except Aug.~19th, August 26th, Oct 14th, Nov
+25th, Dec 2nd, Dec 9th) a short weekly will be due, (just the front and
+back of a 3x5 note card). Weeklies will be based on the assigned
+readings and/or the discussion from the previous class. Each weekly is
+worth 7 points (maximum), and I will assign a total of 11 weeklies. I
+will drop the three lowest scored weeklies. Since I include in your
+total paper grade 11 weeklies at 10 points per weekly, the total points
+possible on weeklies is 110. If you should earn more than one hundred
+points on weeklies, all additional points count as extra credit.
+Finally, since the weekly is due at the beginning of class, arriving to
+class on time is essential. I will not accept the weekly after 5 minutes
+from the start of class. If you arrive late or are absent, you receive a
+zero for the weekly. I do give partial credit for weeklies, and just
+putting your name on the top is worth one point. (It would be best if
+you purchase a set of 3x5 note cards to right your weekly on.) The
+purpose of these weeklies is to help me assess how e↵ectively I am going
+over the material. As such, what I am looking for is a short/ concise
+exposition of either the reading or of the discussion from the week
+before. I will let you know which when I assign the weekly on the Monday
+prior.
+
+\textbf{\emph{Quizzes 1 \& 2 (80 points):}} Each Quiz is worth a
+possible total of 10 points per category, times 4 categories equals 40
+points times 2 Quizzes.
+
+Each of the scheduled examinations will cover lectures, discussions and
+assigned readings from the classes that precede it. You are responsible
+for assigned readings without regard to whether they were covered in
+class. The final examination will focus primarily on the lectures,
+discussions and readings subsequent to the first examination, but it may
+cover material from the whole semester. I generally do not give makeup
+examinations. I believe that doing so penalizes those who diligently
+prepare for class.
+
+\textbf{\emph{Critical Reflection 1 \& 2 (160 points):}} Each reflective
+analysis is worth a possible total of 20 points per category, times 4
+categories equals 80 points times 2 reflection pieces.
+
+You will be required to write one paper, which must be type-written,
+double-spaced, and six to eight pages in length. This is NOT a research
+paper. Below are several topics, each student must choose ONE to which
+s/he will respond. If you wish to write a paper on a topic other than
+one of those suggested by me contact me after class and we can make an
+appointment during my office hours to discuss other topics. (I will be
+more than happy to approve relevant topics.) The papers you write are
+not opinion papers. It is standard practice among philosophers to view
+mere opinion to be worth less than the energy used to express it. What
+is worthwhile is a reasoned defense of one's opinion. Your paper should
+be written so as to present rational argument for the position which you
+hold.
+
+Your paper should consist of two distinct parts. The first part, which
+should account for approximately half the length of the paper, should be
+a short explication of the essay you have chosen. This part should
+contain a statement of the author's position, a statement of your own
+position (tell me whether you agree or disagree with the author) and an
+explanation of the author's supporting arguments. The second half of the
+paper should consist of your own evaluation or critique of the essay. In
+this part of the paper you should tell me WHY you agree or disagree with
+the author. If you agree with the author you should tell me what
+argument(s) are convincing. Then tell me what argument(s) might be
+pro↵ered by one who disagrees with the author and how the author might
+respond. If you disagree with the author, you should provide criticism
+of the author's essay and attempt to explain how the author might
+respond to the criticism. Hence, whether you agree or disagree with the
+author, you should provide arguments against the author and responses
+thereto. Finally, you should explain why you believe your position is
+the best position. You must NOT use outside sources for this essay. I
+will provide a more detailed account in class.
+
+\subsection{D\&D Campaigns (96 points
+total)}\label{dd-campaigns-96-points-total}
+
+\subsubsection{Overview \& Purpose}\label{overview-purpose}
+
+Your grade in this area is based on preparation and active participation
+during D\&D-style class meetings. The format uses a simplified,
+philosophy-focused adaptation of Dungeons \& Dragons to encourage
+students to talk through, debate, and critically engage with the
+philosophical issues in the assigned readings --- not just summarize or
+repeat them.
+
+The core idea: Turn abstract philosophical texts into immersive,
+narrative ``quests'' or ``dungeons'' where the reading provides the
+backdrop (e.g., a moral dilemma in a kingdom, a metaphysical riddle from
+an adversarial entity, or an epistemological challenge). This creates
+lively discussion, risk, uncertainty, and stakes via dice rolls ---
+mirroring real philosophical debate.
+
+\subsubsection{Key Differences from Traditional
+D\&D}\label{key-differences-from-traditional-dd}
+
+This is not full tabletop RPG gameplay (no complex combat, character
+stats, or long campaigns). It is a structured, turn-based discussion
+tool designed to make philosophy feel urgent, personal, and
+collaborative. Overall Assignment Setup
+
+Students will be evaluated based on a total of 640 points, with the
+final grade determined by the percentage of points earned. The
+components are as follows:
+
+\paragraph{Attendance (5\% of final grade, 32
+points):}\label{attendance-5-of-final-grade-32-points}
+
+\begin{itemize}
+\tightlist
+\item
+  Based on unexcused absences throughout the semester.
+\end{itemize}
+
+Grading Scale (equal increments of 8 points):
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+0--1 & unexcused absences: & 32 points \\
+2 & unexcused absences: & 24 points \\
+3--4 & unexcused absences: & 16 points \\
+5--6 & unexcused absences: & 8 points \\
+6 & unexcused absences: & 0 points \\
+\end{longtable}
+
+\subsection{Reading Schedule}\label{reading-schedule}
+
+\textbf{\emph{Adjust all dates by one for Tuesday Thursday Course}}
+
+\textbf{\emph{Weeklies Due Every Monday Starting Jan 19}}
+
+Wed Jan 14, handouts
+
+Mon Jan 19 MLK Day, no classes
+
+Wed Jan 21, Chapter 2, Simulation Hypothesis
+
+Mon Jan 26, Chapter 3, Knowledge
+
+Wed Jan 28, The external world, ch.~4
+
+Mon Feb 2, ch.~5, Possible realities, bostrom and Moravec
+
+Wed Feb 4, ch.~6, What is Reality?
+
+Mon Fed 9, ch.~7, Is God a hacker in the universe up?
+
+Wed Fed 11, ch.~8 Information, 2nd DND Adventure, Student Led
+
+Mon Feb 16, ch.~9, On Bits
+
+Wed Feb 18, ch.~10, Reality and Virtual Reality
+
+Mon Feb 23, ch.~11, Illusion Machines
+
+Wed Feb 25, Quiz 1
+
+Mon Mar 02, Spring Break
+
+Wed Mar 4, Spring Break
+
+Mon Mar 9, ch.~13 ch.~12, 3rd DND Adventure, Student Led
+
+Wed Mar 11, ch.~14, Mind and body Realism inside a virtual universe
+
+Mon Mar 16, ch.~15, 4th DND Adventure, Student Led
+
+Wed Mar 18, ch.~16, The extended mind hypothsis
+
+Mon Mar 23, ch.~17 Critical Reflection Due
+
+Wed Mar 25, ch.~18, Virtual ethics and intentiality
+
+Mon Mar 30, ch.~19, Social Ontology inside virtual worlds
+
+Wed Apr 1, ch.~20, 5th DND Adventure on Sense and Reference, Student Led
+
+Mon Apr 6, ch.~21, Cause and effect inside virtual systems
+
+Wed Apr 8, ch.~22, Mathematical, physical and cultural structualism
+
+Mon Apr 13, ch.~23, Virtual Eden?
+
+Wed Apr 15, ch.~24, Brains in a Vat
+
+Mon Apr 20, TBD
+
+Wed Apr 22, TBD
+
+Mon Apr 27, TBD
+
+Wed Apr 29, last day of classes, Final Quiz
+
+Paper Due on Day of Final Quiz (Submit on Canvas)
+
+\chapter{Philo Lab: Philosophical
+Laboratory}\label{philo-lab-philosophical-laboratory}
+
+An Experiential Course in Applied Philosophy through MMOs
+
+\hfill\break
+
+\chapter{Salerno Center for Human
+Flourishing}\label{salerno-center-for-human-flourishing}
+
+\textbf{An After-School Course on Philosophical Inquiry Through Virtual
+Worlds} \textbf{Academic Year 2025--2026} \textbf{Philo Lab:
+Philosophical Laboratory} \textbf{SCHF002 -- Fall -- 12 ECTS}
+
+\section{Course Description}\label{course-description}
+
+Philosophers often defend their points through the use of thought
+experiments---stripped-down stories designed to test intuitions by
+imagining tough decisions. This course builds on that idea by treating
+massively multiplayer online games (MMOs) like Star Citizen as
+interactive laboratories for philosophy. Here, virtual worlds become
+testing grounds for real moral and ethical questions: Is it better to
+pursue a humble career like cargo hauling, or chase quick gains through
+piracy? Students will apply concepts from key thinkers (e.g., Aristotle
+on virtues, Rawls on justice) to in-game dilemmas, improving critical
+reasoning via a cycle of choice, consequence, and argument. Through
+primary text engagements in debriefs and written reflections on their
+character's journey, participants will explore how interactive art
+shapes character, relationships, and a sense of higher purpose.
+
+\section{Professor}\label{professor}
+
+\textbf{Montaque Reynolds} montaque.reynolds@gmail.com
+
+\textbf{Office Hours} Zoom 206-234-3477, Fridays, 17--19
+
+\section{Assistant}\label{assistant}
+
+\textbf{TBD} \textbf{Office Hours} By appointment
+
+\section{Course Aims}\label{course-aims}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Apply philosophical concepts to real-time moral dilemmas in virtual
+  environments.
+\item
+  Improve critical reasoning through the cycle of choice → consequence →
+  argument.
+\item
+  Engage with primary texts via in-game debriefs to deepen
+  understanding.
+\item
+  Write philosophical reflections on your character's journey,
+  connecting virtual experiences to real-world ethics.
+\item
+  Achieve a basic understanding of ethical dimensions in philosophy
+  (e.g., Aristotle's \emph{Nicomachean Ethics}, Aquinas' teleology) as
+  simulated in MMOs.
+\item
+  Think independently about perennial human questions, such as living
+  well, through experiential examples.
+\item
+  Develop and evaluate arguments (spoken or written) for personal and
+  others' positions using in-game scenarios.
+\item
+  Gain awareness of moral and intellectual virtues, and the complexities
+  of ethical issues in interactive art.
+\end{enumerate}
+
+\section{Required Materials}\label{required-materials}
+
+\begin{itemize}
+\tightlist
+\item
+  Access to Star Citizen (use instructor referral code for bonus items;
+  free trial available).
+\item
+  Laboratory Manual (provided digitally; includes session procedures,
+  readings, and reflection templates).
+\item
+  Notebook for pre-lab notes, in-game records, and drafts.
+\item
+  Primary texts (digital excerpts from Aristotle, Bertrand Russell,
+  etc., provided).
+\end{itemize}
+
+\section{Course Structure}\label{course-structure}
+
+This course is structured as a philosophical laboratory, with weekly
+sessions combining in-game activities, group debriefs, and individual
+reflections. Sessions meet virtually in Star Citizen (or cloud
+alternatives for accessibility), lasting 2--3 hours. Attendance is
+mandatory; excused absences require advance notice. Late work incurs
+penalties (10\% per day).
+
+\section{Schedule (Subject to
+Adjustment)}\label{schedule-subject-to-adjustment}
+
+\begin{itemize}
+\item
+  \textbf{Week 1}: First Meeting Preparation and Course Introduction
+  Pre-lab: Read CIG's ``Getting Started in the 'Verse''. Set spawn to
+  New Babbage. Activity: Server cleanup (collect/discarded items), group
+  walkthrough. Debrief: Initial impressions of virtual agency.
+\item
+  \textbf{Week 2}: Careers and Character Activity: Hauling contract as
+  group. Debrief: Career choices and character development.
+\item
+  \textbf{Week 3}: Ethical Dilemmas in Action Activity: Simulated
+  boarding scenario. Debrief: Mercy vs.~justice analysis.
+\item
+  \textbf{Week 4}: In Praise of Idleness Activity: Aesthetic tour of the
+  Verse. Debrief: Intrinsic vs.~pragmatic value.
+\item
+  \textbf{Week 5}: Hauling Missions and Relational Ethics Activity:
+  Collaborative multi-step hauling. Debrief: Trust and fairness in
+  shared tasks.
+\end{itemize}
+
+(Additional weeks build toward final character journey reflection; full
+schedule in Laboratory Manual.)
+
+\section{GRADING POLICY}\label{grading-policy}
+
+\textbf{Note}: ALL LABORATORY SESSIONS MUST BE SUCCESSFULLY COMPLETED
+INCLUDING THE IN-GAME ACTIVITIES, DEBRIEFS, AND WRITTEN REFLECTIONS IN
+ORDER TO RECEIVE A PASSING GRADE IN PHILO LAB: PHILOSOPHICAL LABORATORY.
+
+Each laboratory session will be graded on the basis of quality of the
+in-game participation and the reflection. The TA responsible for that
+session will grade the work. Your TA should discuss the comments and
+evaluations with you. Questions, suggestions, comments, and complaints
+not handled by the TA's should be directed to the Instructor.
+
+All session reflections, which have been graded, are returned to you
+with a date stamped on the cover sheet. Please take time to check the
+total score, and to look at the comments made by the TA.
+
+You have SEVEN (7) calendar days from the TA return date stamped on the
+cover sheet to request any review of the grading of your
+reflection---this does not apply to reflections turned in late. This
+request should go first to the TA responsible for the grade and then if
+a question related to grading remains the course Instructor. After seven
+days from TA return date, no reflection will be accepted for change of
+an incorrectly added score or any re-evaluation. If your reflection is
+re-graded, it is your responsibility to check the course website grade
+book to verify that your grade has been updated on your Philo Lab grade
+record. Similarly, you have 24 hours from the TA posting of grades from
+a Debrief to request any review of the grading of your participation.
+You must request a review for a Debrief grade via email to the TA with a
+copy to the course Instructor. After 24 hours, Debrief grades are
+considered final.
+
+\subsection{Grading policy:}\label{grading-policy-1}
+
+\textbf{Final Grade = max. 500}
+
+\textbf{A. Laboratory Session Grade:}
+
+\textbf{100 points per session}
+
+\begin{enumerate}
+\def\labelenumi{(\alph{enumi})}
+\item
+  Lab Quiz (check the lab schedule; closed book \textasciitilde15 min.)
+  20 points
+\item
+  Pre-lab preparation. 5 points It is essential that you understand the
+  session while you mentally process what you have read. Write in your
+  lab notebook a couple paragraphs on the purpose, philosophical themes,
+  and any anticipated ethical dilemmas or insights of the session. The
+  procedure to perform the session can be found in the Laboratory Manual
+  which you are allowed to bring with you to the lab.
+\item
+  The factual record. 5 points Data, procedure signed and dated. It is
+  important to develop good habits in keeping a notebook, including
+  notes on in-game choices, consequences, and initial arguments.
+\item
+  The Staff's assessment of technique, deportment, safety, etc. 5 points
+\item
+  Lab Reflection (written) 65 points This includes points for correct
+  application of philosophical concepts and quality of ethical analysis.
+  The major part of the grade for the Lab Reflection is based on the
+  analysis, interpretation and quality of the results, as well as the
+  arguments, connections to primary texts, and the discussion sections.
+  The Lab Reflection should demonstrate what you learned from the
+  session and your ability to interpret and explain your experiential
+  results. No grade for a session will be given without the laboratory
+  reflection.
+\end{enumerate}
+
+\subsection{Grading Scale}\label{grading-scale}
+
+100\% -- 97\% A+ 96.9\% -- 93\% A 92.9\% -- 90\% A- 89.9\% -- 87\% B+
+86.9\% -- 83\% B 82.9\% -- 80\% B- 79.9\% -- 77\% C+ 76.9\% -- 73\% C
+72.9\% -- 70\% C- 69.9\% -- 67\% D+ 66.9\% -- 63\% D 62.9\% -- 60\% D-
+59.9\% and less F
+
+The grading scale is carefully defined above so that there are no
+questions at the end of the course. We use the attendance records in the
+case of borderline grades that fall within half point of a higher grade.
+The way the attendance works is we calculate up the total number of
+sessions that attendance was taken in. We then credit each student with
+two absences in case a student was sick or accidently missed a session.
+If you have attended all of the required sessions less two then, if your
+grade is within half point of a higher grade we will round the grade up
+to the next higher grade. If you did not attend the specified number of
+sessions your grade will remain unchanged. Missing sessions and not
+attending class will not lower your grade but can and does help students
+that fall within half point of a higher grade. If your grade is above
+96.9 and below 97.0 say 96.95 then in those cases only, your grade would
+be automatically rounded to the next higher grade.
+
+\subsection{Details of the Laboratory Session
+Grade}\label{details-of-the-laboratory-session-grade}
+
+\textbf{Laboratory Quizzes (20 points)} There will be five lab quizzes
+during the semester. The quizzes will be given in the laboratory on the
+days indicated in the schedule. Any topic related to the theory,
+procedure, lecture, analysis and philosophical themes of the session may
+be quizzed. The emphasis will be on the lab manual and application of
+information from the morning lectures.
+
+IF YOU MISS A LAB QUIZ DUE TO AN EXCUSED ABSENCE FROM LAB REQUESTED
+PRIOR TO THE QUIZ DATE, SCHEDULE A MAKE-UP QUIZ WITH YOUR TA AS SOON AS
+POSSIBLE. If you skip lab on the day of a quiz without notifying both
+the TA and Instructor at least a day in advance, you will receive a zero
+grade for that quiz.
+
+\section{Academic Integrity}\label{academic-integrity}
+
+All work must be original. Plagiarism, unauthorized collaboration, or
+use of AI tools for reflections will result in failure of the session or
+course. Consult the Instructor for clarification.
+
+\section{Accessibility}\label{accessibility}
+
+Accommodations for disabilities or hardware barriers (e.g., cloud gaming
+options) are available; contact the Instructor early.
+
+\bookmarksetup{startatroot}
+
+\chapter{Summary}\label{summary}
+
+In summary, this book has no content whatsoever.
+
+\bookmarksetup{startatroot}
+
+\chapter*{References}\label{references}
+\addcontentsline{toc}{chapter}{References}
+
+\markboth{References}{References}
+
+\phantomsection\label{refs}
+\begin{CSLReferences}{1}{0}
+\bibitem[\citeproctext]{ref-knuth84}
+Knuth, Donald E. 1984. {``Literate Programming.''} \emph{Comput. J.} 27
+(2): 97--111. \url{https://doi.org/10.1093/comjnl/27.2.97}.
+
+\end{CSLReferences}
+
+
+
+\end{document}

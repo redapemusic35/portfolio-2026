@@ -1,20 +1,10 @@
 ---
 title: "Philo Lab: Philosophical Laboratory"
 subtitle: "An Experiential Course in Applied Philosophy through MMOs"
-author: "Montaque Reynolds"
-date: "Academic Year 2025–2026"
-format:
-  html:
-    theme: cosmo
-    toc: true
-    toc-depth: 3
 ---
 
-# Salerno Center for Human Flourishing
-
-**An After-School Course on Philosophical Inquiry Through Virtual Worlds**
-**Academic Year 2025–2026**
-**Philo Lab: Philosophical Laboratory**
+**An After-School Course on Philosophical Inquiry Through Virtual Worlds** \
+**Academic Year 2025–2026** \
 **SCHF002 – Fall – 12 ECTS**
 
 ## Course Description
@@ -23,16 +13,20 @@ Philosophers often defend their points through the use of thought experiments—
 
 ## Professor
 
-**Montaque Reynolds**
+### **Montaque Reynolds**
+
 montaque.reynolds@gmail.com
 
-**Office Hours**
-Zoom 206-234-3477, Fridays, 17–19
-
-## Assistant
+### **Office Hours**
 
 **TBD**
-**Office Hours**
+
+### Assistant
+
+**TBD**
+
+### **Office Hours**
+
 By appointment
 
 ## Course Aims
