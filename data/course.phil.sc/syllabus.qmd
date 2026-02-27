@@ -1,0 +1,148 @@
+---
+title: "Philo Lab: Philosophical Laboratory"
+subtitle: "An Experiential Course in Applied Philosophy through MMOs"
+author: "Montaque Reynolds"
+date: "Academic Year 2025–2026"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+---
+
+# Salerno Center for Human Flourishing
+
+**An After-School Course on Philosophical Inquiry Through Virtual Worlds**
+**Academic Year 2025–2026**
+**Philo Lab: Philosophical Laboratory**
+**SCHF002 – Fall – 12 ECTS**
+
+## Course Description
+
+Philosophers often defend their points through the use of thought experiments—stripped-down stories designed to test intuitions by imagining tough decisions. This course builds on that idea by treating massively multiplayer online games (MMOs) like Star Citizen as interactive laboratories for philosophy. Here, virtual worlds become testing grounds for real moral and ethical questions: Is it better to pursue a humble career like cargo hauling, or chase quick gains through piracy? Students will apply concepts from key thinkers (e.g., Aristotle on virtues, Rawls on justice) to in-game dilemmas, improving critical reasoning via a cycle of choice, consequence, and argument. Through primary text engagements in debriefs and written reflections on their character’s journey, participants will explore how interactive art shapes character, relationships, and a sense of higher purpose.
+
+## Professor
+
+**Montaque Reynolds**
+montaque.reynolds@gmail.com
+
+**Office Hours**
+Zoom 206-234-3477, Fridays, 17–19
+
+## Assistant
+
+**TBD**
+**Office Hours**
+By appointment
+
+## Course Aims
+
+1. Apply philosophical concepts to real-time moral dilemmas in virtual environments.
+2. Improve critical reasoning through the cycle of choice → consequence → argument.
+3. Engage with primary texts via in-game debriefs to deepen understanding.
+4. Write philosophical reflections on your character’s journey, connecting virtual experiences to real-world ethics.
+5. Achieve a basic understanding of ethical dimensions in philosophy (e.g., Aristotle's *Nicomachean Ethics*, Aquinas' teleology) as simulated in MMOs.
+6. Think independently about perennial human questions, such as living well, through experiential examples.
+7. Develop and evaluate arguments (spoken or written) for personal and others' positions using in-game scenarios.
+8. Gain awareness of moral and intellectual virtues, and the complexities of ethical issues in interactive art.
+
+## Required Materials
+
+- Access to Star Citizen (use instructor referral code for bonus items; free trial available).
+- Laboratory Manual (provided digitally; includes session procedures, readings, and reflection templates).
+- Notebook for pre-lab notes, in-game records, and drafts.
+- Primary texts (digital excerpts from Aristotle, Bertrand Russell, etc., provided).
+
+## Course Structure
+
+This course is structured as a philosophical laboratory, with weekly sessions combining in-game activities, group debriefs, and individual reflections. Sessions meet virtually in Star Citizen (or cloud alternatives for accessibility), lasting 2–3 hours. Attendance is mandatory; excused absences require advance notice. Late work incurs penalties (10% per day).
+
+## Schedule (Subject to Adjustment)
+
+- **Week 1**: First Meeting Preparation and Course Introduction
+  Pre-lab: Read CIG's "Getting Started in the ’Verse". Set spawn to New Babbage.
+  Activity: Server cleanup (collect/discarded items), group walkthrough.
+  Debrief: Initial impressions of virtual agency.
+
+- **Week 2**: Careers and Character
+  Activity: Hauling contract as group.
+  Debrief: Career choices and character development.
+
+- **Week 3**: Ethical Dilemmas in Action
+  Activity: Simulated boarding scenario.
+  Debrief: Mercy vs. justice analysis.
+
+- **Week 4**: In Praise of Idleness
+  Activity: Aesthetic tour of the Verse.
+  Debrief: Intrinsic vs. pragmatic value.
+
+- **Week 5**: Hauling Missions and Relational Ethics
+  Activity: Collaborative multi-step hauling.
+  Debrief: Trust and fairness in shared tasks.
+
+(Additional weeks build toward final character journey reflection; full schedule in Laboratory Manual.)
+
+## GRADING POLICY
+
+**Note**: ALL LABORATORY SESSIONS MUST BE SUCCESSFULLY COMPLETED INCLUDING THE IN-GAME ACTIVITIES, DEBRIEFS, AND WRITTEN REFLECTIONS IN ORDER TO RECEIVE A PASSING GRADE IN PHILO LAB: PHILOSOPHICAL LABORATORY.
+
+Each laboratory session will be graded on the basis of quality of the in-game participation and the reflection. The TA responsible for that session will grade the work. Your TA should discuss the comments and evaluations with you. Questions, suggestions, comments, and complaints not handled by the TA's should be directed to the Instructor.
+
+All session reflections, which have been graded, are returned to you with a date stamped on the cover sheet. Please take time to check the total score, and to look at the comments made by the TA.
+
+You have SEVEN (7) calendar days from the TA return date stamped on the cover sheet to request any review of the grading of your reflection—this does not apply to reflections turned in late. This request should go first to the TA responsible for the grade and then if a question related to grading remains the course Instructor. After seven days from TA return date, no reflection will be accepted for change of an incorrectly added score or any re-evaluation. If your reflection is re-graded, it is your responsibility to check the course website grade book to verify that your grade has been updated on your Philo Lab grade record. Similarly, you have 24 hours from the TA posting of grades from a Debrief to request any review of the grading of your participation. You must request a review for a Debrief grade via email to the TA with a copy to the course Instructor. After 24 hours, Debrief grades are considered final.
+
+### Grading policy:
+
+**Final Grade = max. 500**
+
+**A. Laboratory Session Grade:**
+
+**100 points per session**
+
+(a) Lab Quiz (check the lab schedule; closed book ~15 min.) 20 points
+
+(b) Pre-lab preparation. 5 points
+It is essential that you understand the session while you mentally process what you have read. Write in your lab notebook a couple paragraphs on the purpose, philosophical themes, and any anticipated ethical dilemmas or insights of the session. The procedure to perform the session can be found in the Laboratory Manual which you are allowed to bring with you to the lab.
+
+(c) The factual record. 5 points
+Data, procedure signed and dated. It is important to develop good habits in keeping a notebook, including notes on in-game choices, consequences, and initial arguments.
+
+(d) The Staff's assessment of technique, deportment, safety, etc. 5 points
+
+(e) Lab Reflection (written) 65 points
+This includes points for correct application of philosophical concepts and quality of ethical analysis.
+The major part of the grade for the Lab Reflection is based on the analysis, interpretation and quality of the results, as well as the arguments, connections to primary texts, and the discussion sections. The Lab Reflection should demonstrate what you learned from the session and your ability to interpret and explain your experiential results. No grade for a session will be given without the laboratory reflection.
+
+### Grading Scale
+
+100% – 97% A+
+96.9% – 93% A
+92.9% – 90% A-
+89.9% – 87% B+
+86.9% – 83% B
+82.9% – 80% B-
+79.9% – 77% C+
+76.9% – 73% C
+72.9% – 70% C-
+69.9% – 67% D+
+66.9% – 63% D
+62.9% – 60% D-
+59.9% and less F
+
+The grading scale is carefully defined above so that there are no questions at the end of the course. We use the attendance records in the case of borderline grades that fall within half point of a higher grade. The way the attendance works is we calculate up the total number of sessions that attendance was taken in. We then credit each student with two absences in case a student was sick or accidently missed a session. If you have attended all of the required sessions less two then, if your grade is within half point of a higher grade we will round the grade up to the next higher grade. If you did not attend the specified number of sessions your grade will remain unchanged. Missing sessions and not attending class will not lower your grade but can and does help students that fall within half point of a higher grade. If your grade is above 96.9 and below 97.0 say 96.95 then in those cases only, your grade would be automatically rounded to the next higher grade.
+
+### Details of the Laboratory Session Grade
+
+**Laboratory Quizzes (20 points)**
+There will be five lab quizzes during the semester. The quizzes will be given in the laboratory on the days indicated in the schedule. Any topic related to the theory, procedure, lecture, analysis and philosophical themes of the session may be quizzed. The emphasis will be on the lab manual and application of information from the morning lectures.
+
+IF YOU MISS A LAB QUIZ DUE TO AN EXCUSED ABSENCE FROM LAB REQUESTED PRIOR TO THE QUIZ DATE, SCHEDULE A MAKE-UP QUIZ WITH YOUR TA AS SOON AS POSSIBLE. If you skip lab on the day of a quiz without notifying both the TA and Instructor at least a day in advance, you will receive a zero grade for that quiz.
+
+## Academic Integrity
+
+All work must be original. Plagiarism, unauthorized collaboration, or use of AI tools for reflections will result in failure of the session or course. Consult the Instructor for clarification.
+
+## Accessibility
+
+Accommodations for disabilities or hardware barriers (e.g., cloud gaming options) are available; contact the Instructor early.

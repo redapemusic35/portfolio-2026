@@ -13,6 +13,7 @@ book:
       chapters:
         - ./data/course.phil.logic/syllabus.qmd
         - ./data/course.phil.intro/syllabus.qmd
+        - ./data/course.phil.sc/syllabus.qmd
     #- part: "Introduction to Philosophy"
     #  chapters:
     #    - ./data/course.phil.intro/syllabus.qmd
