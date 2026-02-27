@@ -1,0 +1,84 @@
+---
+number-sections: false
+---
+
+# Resume
+
+## Montaque Reynolds
+
+montaque.reynolds@gmail.com
+**Portfolio** ∙ **Github** ∙ **LinkedIn**
+
+Passionate about leveraging AI to enhance human productivity, reasoning, and ethical decision-making, I integrate AI-driven tools like D&D campaign generators and other table and video based game models into educational platforms.
+
+## Education
+
+**Saint Louis University**
+Saint Louis, MO
+**Doctor of Philosophy: Philosophy**
+
+Dissertation: *Emotional Data and Spiritual Meaning, An analysis of the moral expression of sentiment in fiction*
+AOS: Phil Mind, Social and Moral Epistemology
+
+**Oklahoma State University**
+Stillwater, OK
+**Master of Arts: Philosophy**
+
+Thesis: *Evolution of Religious Belief and Naturalism: Agency, Character and Adaptation in Christian Belief*
+
+**Seattle Pacific University**
+Seattle, WA
+**Bachelor of Arts: Philosophy**
+
+## Skills
+
+### Languages and Tools
+
+- basic: Python, R
+- intermediate: Rmarkdown, LaTeX, Git
+
+### Selected Coursework
+
+- Deep Learning for Humanists (Workshop, University of Victoria)
+- NLP / Sentiment Analysis / Corpus Linguistics
+- Agents and Agency (Graduate Seminar, Katheryn Lindeman)
+- CoLiPhi Corpus Linguistics and Philosophy (Workshop, University of Zurich)
+
+## Experience
+
+**Founder, Director**
+Saleno Center for Human Flourishing
+Saint Louis, MO
+Aug 2024 – Present
+
+- Lead SCHF project advancing human flourishing and moral well-being via interactive digital platforms (e.g., MMOs), investigating impacts on critical thinking, ethical reasoning, and moral decision-making for underserved youth.
+- Developed AI-driven tools to model ethical AI interactions, aligning with productivity platforms (e.g., PhiloQuest, a DND philosophical campaign generator) that guide users to next-best actions.
+
+**Visiting Assistant Professor of Philosophy**
+Stetson University
+Deland, FL
+Aug 2025 – Present
+
+- Teach Logic, Aesthetics, Philosophy of Law, Intro to Philosophy—emphasizing reasoning, collaboration, and real-world applications.
+
+**Expert Contributor**
+Snorkel.ai
+Remote
+Jan 2025 – Present
+
+- Authored and validated graduate-level, high-difficulty problems to test/enhance LLM reasoning, fluency, and problem-solving; contributed to proprietary datasets for AI fine-tuning, benchmarking, and reinforcement learning.
+- Identified reasoning flaws in AI-generated responses, refining outputs for rigorous, verifiable solutions—directly advancing LLMs for academia, industry collaboration, and real-time decision-making.
+
+**Philosophy Instructor (Adjunct)**
+Lewis and Clark Community College
+Godfrey, IL
+August 2024 – May 2025
+
+- Contemporary Moral Problems (Ethics): Designed courses integrating AI ethics and collaborative problem-solving.
+
+## Selected Publications and Projects
+
+**Moral Autonomy and Personhood in Pop Culture**
+Forthcoming (Vernon Press)
+
+- I develop an ethic of care with respect to the relationship between fiction and moral understanding, contrasting standard epistemological cases with moral epistemological ones. I then delve into philosophical accounts of narrative, resting on the established proposal that narratives offer avenues for affective moral understanding.

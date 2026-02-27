@@ -8,24 +8,17 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
-    - part: "Introduction to Logic"
+    - resume-cv.qmd
+    - part: "Some Previous Courses"
       chapters:
-        - ./data/course.phil.logic/index.qmd
         - ./data/course.phil.logic/syllabus.qmd
-        - ./data/course.phil.logic/lectures.qmd
-        - ./data/course.phil.logic/exams/index.qmd
-    - part: "Introduction to Philosophy"
-      chapters:
-        - ./data/course.phil.intro/index.qmd
         - ./data/course.phil.intro/syllabus.qmd
-        - ./data/course.phil.intro/lectures.qmd
-        - ./data/course.phil.intro/assignments.qmd
-    - part: "Philosophy of Law"
-      chapters:
-        - ./data/course.phil.law/index.qmd
+    #- part: "Introduction to Philosophy"
+    #  chapters:
+    #    - ./data/course.phil.intro/syllabus.qmd
+    #- part: "Philosophy of Law"
+    #  chapters:
         #- ./data/course.phil.law/syllabus.qmd
-        - ./data/course.phil.law/course-lecture-notes/index.qmd
-        - ./data/course.phil.law/course-assignments/index.qmd
     - summary.qmd
     - references.qmd
 

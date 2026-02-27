@@ -1,5 +1,5 @@
 ---
-title: "Syllabus"
+title: "Welcome to Introduction to Philosophy"
 format:
   html:
     toc: false
@@ -8,8 +8,6 @@ format:
   pdf:
     documentclass: article
 ---
-
-## Welcome to Introduction to Philosophy
 
 A primary objective of this course is to teach students how to construct good arguments and how to assess the arguments of others. In order to accomplish this goal, during the first part of the semester we will read about and discuss what makes a particular argument good or bad and practice constructing good arguments. In addition, we will discuss knowledge and scientific inquiry as this will help us to understand the importance of methodological thought and speech.
 
