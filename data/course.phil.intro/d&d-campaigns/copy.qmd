@@ -1,0 +1,90 @@
+# Campaign Sheets for 2026
+
+## ELEVATOR PITCH
+
+What is more representative and semantically accurate? Distinctions between real and imaginary worlds, or between physical and virtual worlds?
+
+## SYNOPSIS
+
+The Dialectician / Solve Her Riddles
+
+What is more representative and semantically accurate? Distinctions between real and imaginary worlds, or between physical and virtual worlds?
+
+You and your fellow heroes are enticed to a friend's house. Here you are encouraged to drink strange ale from a strange chalice as a lively debate erupts among you. The last thing you remember is a recurring theme in your conversations. It is the refrain: a virtual world is really, a real virtual world and the objects in it, are really virtual. You awaken on straw beds in the tavern known as The Lemniscate Chalice, the smell of ink and ale heavy in the air. Your head pounding loudly as memories of an evening of philosophical revelry—debating distinctions between worlds fills your every waking thought: real versus imaginary, physical versus virtual. Your memories blur. Were you discussing reality, or creating it? Around you, illusions flicker—chairs that seem solid until touched, shadows that bend like code. A hooded figure called The Dialectician tells you your words have fractured the planes: the Real, the Imagined, the Physical, and the Virtual now blur into one unstable continuum. The tavern itself exists only so long as your convictions hold. To proceed, you must debate reality itself. Each round, your reason and rhetoric are tested; lose, and you earn doubt points that degrade your perceptions. If doubt overwhelms you, you dissolve into whichever plane you least trust—becoming forever an echo, NPC, or avatar. Victory, however, may allow you to rewrite the principles of existence and decide which world—if any—was ever real.
+
+### Outline: What is a Virtual World?
+
+* Start of Adventure: Our heroes amble downstairs to the common area. Each more confused than the next.
+* Event / Scene 1: There in the kitchen waiting for you is a robed figure who introduces herself as The Dialectician as she calmly goes back to absently scrolling something on her phone. Is she in a virtual world?
+* Event / Scene 2: Looking around, you notice a large home in the distance. It looks like your friend's home from the night before, who's kitchen you were just in? How did you get here? Where are you?
+* End of adventure: text here. Things to know
+ First thing to know. Text here, to explain some background of the adventure or setting, or to provide information on a specific event or NPC. For example the 'trueorigin' of the threat; if there are any plot twists, this a good place to write themdown.
+ Second thing to know. More background. Make sure this is relevant to the adventure, not merely 'bonus information'.
+
+### INCITING INCIDENT
+
+This is what sets the PCs off into this adventure. Multiple triggers are possible, and triggers can be quests in and of themselves. Use verbs that lead to the elevator pitch. 
+
+Trigger 1
+
+### EVENTS/SCENES
+
+### EVENT/SCENE TITLE
+
+ Description of the situation, read aloud text.
+ This is what the characters see when this event occurs
+
+### Goal
+
+What the characters must accomplish to advance
+Location(s)
+
+ Name, brief description (and link to more details)
+o Read aloud text
+NPCs/Creatures
+ Name (and link to more details)
+  * Read aloud text
+
+ Name (and link to more details)
+  o Read aloud text
+
+### Information/Progression/Treasure
+ Any other information, pertaining to this event/scene can be placed here
+ Anything related to the progression of this event/scene as well; anything that affects
+the goal and the next event/scene
+ Treasure or items worth noting - in this event - can be placed here
+
+### Next event/scene
+
+The possible following events/scenes that are triggered by the characters' actions
+
+### LOCATIONS LISTED
+
+Name & link \
+Brief description. NPCs LISTED \
+Name & link \
+Brief description. (Villain, quest giver(s), information providers, etc.) \
+
+#### CREATURES LISTED
+
+ Monster 1
+
+MYSTERIES LISTED
+ Mystery 1
+
+DM NOTES
+ Treasure
+
+RANDOM ENCOUNTERS
+
+Insert these as needed. (For example: when the PCs rest too often.)
+
+RELATED QUESTS
+Name & link
+Brief description. RESOLUTION
+
+ The decisions made by the characters, will have an effect on the stories to come; write down these consequences here
+ PCs are liked in town X
+ Faction X has become aware of PCs
+ Faction X has increased/decreased affinity for PCs
+ Region X has become more/less stable
