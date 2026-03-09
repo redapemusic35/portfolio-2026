@@ -31,6 +31,10 @@ In this course, we will use David Chalmer's book ***Reality+*** to look at quest
 
 {{< include ./../assignments/d&d-campaigns/assignment-summary.qmd >}}
 
+Each of the above assignments will be graded using the following Rubric:
+
+{{< include ./rubrics/rubric-2.qmd >}}
+
 Students will be evaluated based on a total of 640 points, with the final grade determined by the percentage of points earned. The components are as follows:
 
 ##### Attendance (5% of final grade, 32 points):
