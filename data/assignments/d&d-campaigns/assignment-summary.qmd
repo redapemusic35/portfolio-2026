@@ -1,5 +1,7 @@
 ### D&D Campaigns (96 points total)
 
+[<i class="bi bi-journal-text"></i> Syllabus](./../../course.phil.intro/d&d-campaigns/instructions-formal.qmd){.btn .btn-primary role="button"}
+
 #### Overview & Purpose
 
 Your grade in this area is based on preparation and active participation during D&D-style class meetings. The format uses a simplified, philosophy-focused adaptation of Dungeons & Dragons to encourage students to talk through, debate, and critically engage with the philosophical issues in the assigned readings — not just summarize or repeat them.
