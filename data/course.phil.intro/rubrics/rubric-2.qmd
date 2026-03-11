@@ -1,4 +1,4 @@
-##### Thesis
+#### Thesis
 
 **Excellent**: A clear statement of the main conclusion of the paper.
 
@@ -8,32 +8,76 @@
 
 **Unacceptable**: There is no thesis.
 
-##### Premises
+#### Premises
 
-**Excellent**: Each reason for believing the thesis is made clear, and as much as possible, presented in single statements. It is also clear which premises are to be taken as given, and which will be supported by sub-arguments. The paper provides sub-arguments for controversial premises. If there are sub-arguments, the premises for these are clear, and made in single statements. The premises which are taken as given are at least plausibly true.
+**Excellent**:
 
-**Good**: The premises are all clear, although each may not be presented in a single statement. It is also pretty clear which premises are to be taken as given, and which will be supported by sub-arguments. The paper provides sub-arguments for controversial premises. If there are sub-arguments, the premises for these are clear. The premises which are taken as given are at least plausibly true.
+* [ ] Each reason for believing the thesis is made clear, and as much as possible, presented in single statements.
+* [ ] It is also clear which premises are to be taken as given, and which will be supported by sub-arguments.
+* [ ] The paper provides sub-arguments for controversial premises.
+* [ ] If there are sub-arguments, the premises for these are clear, and made in single statements.
+* [ ] The premises which are taken as given are at least plausibly true.
 
-**Needs Improvement**: The premises must be reconstructed from the text of the paper. It is not made clear which premises are to be taken as given, and which will be supported by sub-arguments. There are no sub-arguments, or, if there are sub-arguments, the premises for these are not made clear. The paper does not provide sub-arguments for controversial premises. The plausibility of the premises which are taken as given is questionable.
+**Good**:
 
-**Unacceptable**: There are no premises—the paper merely restates the thesis. Or, if there are premises, they are much more likely to be false than true.
+* [ ] The premises are all clear, although each may not be presented in a single statement.
+* [ ] It is also pretty clear which premises are to be taken as given, and which will be supported by sub-arguments.
+* [ ] The paper provides sub-arguments for controversial premises.
+* [ ] If there are sub-arguments, the premises for these are clear.
+* [ ] The premises which are taken as given are at least plausibly true.
 
-##### Support
+**Needs Improvement**:
 
-**Excellent**: The premises clearly support the thesis, and the author is aware of exactly the kind of support they provide. The argument is either valid as it stands, or, if invalid, the thesis, based on the premises, is likely to be or plausibly true.
+* [ ] The premises must be reconstructed from the text of the paper.
+* [ ] It is not made clear which premises are to be taken as given, and which will be supported by sub-arguments.
+* [ ] There are no sub-arguments, or, if there are sub-arguments, the premises for these are not made clear.
+* [ ] The paper does not provide sub-arguments for controversial premises.
+* [ ] The plausibility of the premises which are taken as given is questionable.
 
-**Good**: The premises support the thesis, and the author is aware of the general kind of support they provide. The argument is either valid as it stands, or, if invalid, the thesis, based on the premises, is likely to be or plausibly true.
+**Unacceptable**:
 
-**Needs Improvement**: The premises somewhat support the thesis, but the author is not aware of the kind of support they provide. The argument is invalid, and the thesis, based on the premises, is not likely to be or plausibly true.
+* [ ] There are no premises—the paper merely restates the thesis.
+* [ ] Or, if there are premises, they are much more likely to be false than true.
 
-**Unacceptable**: The premises do not support the thesis.
+#### Support
 
-##### Counter-Arguments
+**Excellent**:
 
-**Excellent**: The paper considers both obvious and unobvious counter-examples, counter-arguments, and/or opposing positions, and provides original and/or thoughtful responses.
+* [ ] The premises clearly support the thesis, and the author is aware of exactly the kind of support they provide.
+* [ ] The argument is either valid as it stands, or, if invalid, the thesis, based on the premises, is likely to be or plausibly true.
 
-**Good**: The paper considers obvious counter-examples, counter-arguments, and/or opposing positions, and provides responses.
+**Good**:
 
-**Needs Improvement**: The paper may consider some obvious counter-examples, counter-arguments, and/or opposing positions, but some obvious ones are missed. Responses are non-existent or mere claims of refutation.
+* [ ] The premises support the thesis, and the author is aware of the general kind of support they provide.
+* [ ] The argument is either valid as it stands, or, if invalid, the thesis, based on the premises, is likely to be or plausibly true.
 
-**Unacceptable**: No counter-examples, counter-arguments, or opposing positions are considered.
+**Needs Improvement**:
+
+* [ ] The premises somewhat support the thesis, but the author is not aware of the kind of support they provide.
+* [ ] The argument is invalid, and the thesis, based on the premises, is not likely to be or plausibly true.
+
+**Unacceptable**:
+
+* [ ] The premises do not support the thesis.
+
+#### Counter-Arguments
+
+**Excellent**:
+
+* [ ] The paper considers both obvious and unobvious counter-examples, counter-arguments, and/or opposing positions
+* [ ] The paper provides original and/or thoughtful responses.
+
+**Good**:
+
+* [ ] The paper considers obvious counter-examples, counter-arguments, and/or opposing positions,
+* [ ] The paper provides responses.
+
+**Needs Improvement**:
+
+* [ ] The paper may consider some obvious counter-examples, counter-arguments, and/or opposing positions.
+* [ ] But some obvious ones are missed.
+* [ ] Responses are non-existent or mere claims of refutation.
+
+**Unacceptable**:
+
+* [ ] No counter-examples, counter-arguments, or opposing positions are considered.
