@@ -37,17 +37,13 @@ Makeup Process: Email the instructor within 48 hours to arrange an extension. No
 
 Students will be evaluated based on a total of 640 points, with the final grade determined by the percentage of points earned. The components are as follows:
 
-#### For more detailed information regarding grades, [see the rubric here](./weeks/rubric.qmd)
-
-#### For more detailed information regarding the DND Adventures, [see the DND addendum here](./weeks/dnd-campaign.qmd)
-
 {{< include ./course-assignments/weeklies/index.qmd >}}
 
 {{< include ./course-assignments/critical-reflections/index.qmd >}}
 
-{{< include ./course-assignments/quizzes/index.qmd >}}
-
 {{< include ./course-assignments/d&d-campaigns/index.qmd >}}
+
+{{< include ./../../../rubrics/rubric-2.qmd}}
 
 {{< include ./course-assignments/attendance-policy/index.qmd >}}
 

@@ -1,5 +1,7 @@
-## Syllabus
+## Phil 284A: Philosophy of Law
 
 {{< include ./course-description.qmd >}}
 
 {{< include ./about.qmd >}}
+
+{{< include ./rubrics/rubric-2.qmd >}}

@@ -1,1 +1,7 @@
-# Quizzes
+# Quizzes 1 & 2 (80 points)
+
+Each Quiz is worth a possible total of 10 points per category, times 4 categories equals 40 points times 2 Quizzes.
+
+## Study Guide Quiz 1
+
+{{< include ./../critical-reflections/essay-1-study-guide.qmd >}}

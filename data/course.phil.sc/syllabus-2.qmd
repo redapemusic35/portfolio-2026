@@ -9,7 +9,7 @@ subtitle: "An Experiential Course in Applied Philosophy through MMOs"
 
 ## Course Description
 
-This course treats massively multiplayer online games (MMOs) like *Star Citizen* or *Elite Dangerous* as an interactive laboratory for philosophy students. Here, virtual worlds become testing grounds for philosophical, ethical and moral dilemmas: Is it better to pursue a humble career like cargo hauling, or chase quick gains through piracy? Students will apply concepts from key thinkers (e.g., Aristotle on virtues, Rawls on justice) to in-game dilemmas, improving critical reasoning via a cycle of choice, consequence, and argument. Through primary text engagements in debriefs and written reflections on their character’s journey, participants will explore how interactive art shapes character, relationships, and a sense of higher purpose.
+This course treats virtual environments, online games, MMOs, Dungeons & Dragons, as interactive laboratories for philosophical reflection. Here, virtual worlds become testing grounds for philosophical, ethical and moral dilemmas. Whether these questions be about value judgments, "Is it better to pursue a humble career like cargo hauling", or "chase quick gains through piracy?" "Are in-game loot items objectively real?" Students will apply concepts from key thinkers (e.g., Aristotle on virtues, Rawls on justice) to in-game dilemmas, improving critical reasoning via a cycle of choice, consequence, and argument. Through primary text engagements in debriefs and written reflections on their character’s journey, participants will explore how interactive art shapes character, critical thought, relationships, and a sense of higher purpose.
 
 ## Professor
 
@@ -35,44 +35,39 @@ By appointment
 2. Improve critical reasoning through the cycle of argument $\rightarrow$ choice $\rightarrow$ consequence.
 3. Engage with primary texts via in-game debriefs to deepen understanding.
 4. Write philosophical reflections on your character’s journey, connecting virtual experiences to real-world philosophical thinking.
-5. Achieve a basic understanding of ethical dimensions in philosophy (e.g., Aristotle's *Nicomachean Ethics*, Aquinas' teleology) as simulated in MMOs.
+5. Achieve a basic understanding of ethical dimensions in philosophy (e.g., Aristotle's *Nicomachean Ethics*, Aquinas' teleology) as simulated in virtual environments.
 6. Think independently about perennial human questions, such as living well, through experiential examples.
-7. Develop and evaluate arguments (spoken or written) for personal and others' positions using in-game scenarios.
+7. Develop and evaluate arguments (spoken or written) for personal and impersonal positions using in-game scenarios.
 8. Gain awareness of moral and intellectual virtues, and the complexities of ethical issues in interactive art.
 
 ## Required Materials
 
-- Access to Star Citizen, Elite Dangerous, or Eve Online (use instructor referral code for bonus items; free trial available).
+***Core Text (Summer 2026):*** Chalmers, David. 2022. Reality+: Virtual Worlds and the Problems of Philosophy. W.W. Norton.
+
+In addition to the primary course text:
+
+- Access to the game Portal 2. This will be provided by the course.
 - Laboratory Manual (provided digitally; includes session procedures, readings, and reflection templates).
 - Notebook for pre-lab notes, in-game records, and drafts.
 - Primary texts (digital excerpts from Aristotle, Bertrand Russell, etc., provided).
 
 ## Course Structure
 
-This course is structured as a philosophical laboratory, with weekly sessions combining in-game activities, group debriefs, and individual reflections. Sessions meet virtually in Star Citizen (or cloud alternatives for accessibility), lasting 2–3 hours. Attendance is mandatory; excused absences require advance notice. Late work incurs penalties (10% per day).
+This course is structured as a philosophical laboratory, with weekly sessions combining in-game activities, group debriefs, and individual reflections. Sessions meet traditionally in the classroom with first half dedicated to discussion and the second half dedicated to "lab" work. Each class will last ~2 hours. Attendance is mandatory; excused absences require advance notice. Late work incurs penalties (10% per day).
 
 ## Schedule (Subject to Adjustment)
 
-- **Week 1**: First Meeting Preparation and Course Introduction
-  Pre-lab: Read CIG's "Getting Started in the ’Verse". Set spawn to New Babbage.
-  Activity: Server cleanup (collect/discarded items), group walkthrough.
-  Debrief: Initial impressions of virtual agency.
+- **Week 1**: Virtual Worlds and Games
 
-- **Week 2**: Careers and Character
-  Activity: Hauling contract as group.
-  Debrief: Career choices and character development.
+- **Week 2**: Knowledge
 
-- **Week 3**: Ethical Dilemmas in Action
-  Activity: Simulated boarding scenario.
-  Debrief: Mercy vs. justice analysis.
+- **Week 3**: Reality and Virtual Reality
 
-- **Week 4**: In Praise of Idleness
-  Activity: Aesthetic tour of the Verse.
-  Debrief: Intrinsic vs. pragmatic value.
+- **Week 4**: Mind
 
-- **Week 5**: Hauling Missions and Relational Ethics
-  Activity: Collaborative multi-step hauling.
-  Debrief: Trust and fairness in shared tasks.
+- **Week 5**: Value
+
+- **Week 6**: Metaphysics of Language
 
 (Additional weeks build toward final character journey reflection; full schedule in Laboratory Manual.)
 

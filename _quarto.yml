@@ -13,10 +13,11 @@ book:
       chapters:
         - ./data/course.phil.logic/syllabus.qmd
         - ./data/course.phil.intro/syllabus.qmd
-        - ./data/course.phil.sc/philo-lab-reading-group.qmd
-    #- part: "Introduction to Philosophy"
-    #  chapters:
-    #    - ./data/course.phil.intro/syllabus.qmd
+        - ./data/course.phil.sc/syllabus-2.qmd
+        - ./data/course.phil.law/index.qmd
+    - part: "Previous Course Resources"
+      chapters:
+        - ./data/course.phil.law/course-assignments/quizzes/index.qmd
     #- part: "Philosophy of Law"
     #  chapters:
         #- ./data/course.phil.law/syllabus.qmd
